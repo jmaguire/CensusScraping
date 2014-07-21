@@ -1,0 +1,547 @@
+{
+    "Fort Lupton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0827700.html", 
+        "descriptor": "city", 
+        "name": "Fort Lupton "
+    }, 
+    "Pueblo West ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0862220.html", 
+        "descriptor": "CDP", 
+        "name": "Pueblo West "
+    }, 
+    "Aspen ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0803620.html", 
+        "descriptor": "city", 
+        "name": "Aspen "
+    }, 
+    "Trinidad ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0878610.html", 
+        "descriptor": "city", 
+        "name": "Trinidad "
+    }, 
+    "Evergreen ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0825390.html", 
+        "descriptor": "CDP", 
+        "name": "Evergreen "
+    }, 
+    "Cortez ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0817375.html", 
+        "descriptor": "city", 
+        "name": "Cortez "
+    }, 
+    "Durango ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0822035.html", 
+        "descriptor": "city", 
+        "name": "Durango "
+    }, 
+    "Applewood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0802575.html", 
+        "descriptor": "CDP", 
+        "name": "Applewood "
+    }, 
+    "Cherry Hills Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0813845.html", 
+        "descriptor": "city", 
+        "name": "Cherry Hills Village "
+    }, 
+    "Avon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0804110.html", 
+        "descriptor": "town", 
+        "name": "Avon "
+    }, 
+    "Shaw Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0869480.html", 
+        "descriptor": "CDP", 
+        "name": "Shaw Heights "
+    }, 
+    "Delta ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0819850.html", 
+        "descriptor": "city", 
+        "name": "Delta "
+    }, 
+    "Dove Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0821330.html", 
+        "descriptor": "CDP", 
+        "name": "Dove Valley "
+    }, 
+    "Gunnison ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0833640.html", 
+        "descriptor": "city", 
+        "name": "Gunnison "
+    }, 
+    "Fort Carson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0827370.html", 
+        "descriptor": "CDP", 
+        "name": "Fort Carson "
+    }, 
+    "Greenwood Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0833035.html", 
+        "descriptor": "city", 
+        "name": "Greenwood Village "
+    }, 
+    "Cimarron Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0814587.html", 
+        "descriptor": "CDP", 
+        "name": "Cimarron Hills "
+    }, 
+    "Arvada ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0803455.html", 
+        "descriptor": "city", 
+        "name": "Arvada "
+    }, 
+    "Parker ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0857630.html", 
+        "descriptor": "town", 
+        "name": "Parker "
+    }, 
+    "Gleneagle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0830420.html", 
+        "descriptor": "CDP", 
+        "name": "Gleneagle "
+    }, 
+    "Fort Morgan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0827810.html", 
+        "descriptor": "city", 
+        "name": "Fort Morgan "
+    }, 
+    "Sterling ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0873935.html", 
+        "descriptor": "city", 
+        "name": "Sterling "
+    }, 
+    "Highlands Ranch ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0836410.html", 
+        "descriptor": "CDP", 
+        "name": "Highlands Ranch "
+    }, 
+    "Fruitvale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0828800.html", 
+        "descriptor": "CDP", 
+        "name": "Fruitvale "
+    }, 
+    "Berkley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0806172.html", 
+        "descriptor": "CDP", 
+        "name": "Berkley "
+    }, 
+    "Longmont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0845970.html", 
+        "descriptor": "city", 
+        "name": "Longmont "
+    }, 
+    "Littleton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0845255.html", 
+        "descriptor": "city", 
+        "name": "Littleton "
+    }, 
+    "Vail ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0880040.html", 
+        "descriptor": "town", 
+        "name": "Vail "
+    }, 
+    "Welby ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0883120.html", 
+        "descriptor": "CDP", 
+        "name": "Welby "
+    }, 
+    "Stonegate ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0874080.html", 
+        "descriptor": "CDP", 
+        "name": "Stonegate "
+    }, 
+    "Lone Tree ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0845955.html", 
+        "descriptor": "city", 
+        "name": "Lone Tree "
+    }, 
+    "Englewood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0824785.html", 
+        "descriptor": "city", 
+        "name": "Englewood "
+    }, 
+    "Roxborough Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0866197.html", 
+        "descriptor": "CDP", 
+        "name": "Roxborough Park "
+    }, 
+    "Edgewater ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0823135.html", 
+        "descriptor": "city", 
+        "name": "Edgewater "
+    }, 
+    "Fountain ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0827865.html", 
+        "descriptor": "city", 
+        "name": "Fountain "
+    }, 
+    "Montrose ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0851745.html", 
+        "descriptor": "city", 
+        "name": "Montrose "
+    }, 
+    "Johnstown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0839855.html", 
+        "descriptor": "town", 
+        "name": "Johnstown "
+    }, 
+    "Northglenn ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0854330.html", 
+        "descriptor": "city", 
+        "name": "Northglenn "
+    }, 
+    "Woodmoor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0886117.html", 
+        "descriptor": "CDP", 
+        "name": "Woodmoor "
+    }, 
+    "Dakota Ridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0819150.html", 
+        "descriptor": "CDP", 
+        "name": "Dakota Ridge "
+    }, 
+    "Centennial ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0812815.html", 
+        "descriptor": "city", 
+        "name": "Centennial "
+    }, 
+    "Erie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0824950.html", 
+        "descriptor": "town", 
+        "name": "Erie "
+    }, 
+    "Lakewood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0843000.html", 
+        "descriptor": "city", 
+        "name": "Lakewood "
+    }, 
+    "Frederick ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0828360.html", 
+        "descriptor": "town", 
+        "name": "Frederick "
+    }, 
+    "Clifton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0815165.html", 
+        "descriptor": "CDP", 
+        "name": "Clifton "
+    }, 
+    "Steamboat Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0873825.html", 
+        "descriptor": "city", 
+        "name": "Steamboat Springs "
+    }, 
+    "Columbine ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0816110.html", 
+        "descriptor": "CDP", 
+        "name": "Columbine "
+    }, 
+    "Sherrelwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0869810.html", 
+        "descriptor": "CDP", 
+        "name": "Sherrelwood "
+    }, 
+    "Manitou Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0848445.html", 
+        "descriptor": "city", 
+        "name": "Manitou Springs "
+    }, 
+    "Black Forest ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0806970.html", 
+        "descriptor": "CDP", 
+        "name": "Black Forest "
+    }, 
+    "Carbondale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0812045.html", 
+        "descriptor": "town", 
+        "name": "Carbondale "
+    }, 
+    "Ken Caryl ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0840377.html", 
+        "descriptor": "CDP", 
+        "name": "Ken Caryl "
+    }, 
+    "Brush ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0809555.html", 
+        "descriptor": "city", 
+        "name": "Brush "
+    }, 
+    "Gunbarrel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0833502.html", 
+        "descriptor": "CDP", 
+        "name": "Gunbarrel "
+    }, 
+    "Lafayette ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0841835.html", 
+        "descriptor": "city", 
+        "name": "Lafayette "
+    }, 
+    "Lochbuie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0845530.html", 
+        "descriptor": "town", 
+        "name": "Lochbuie "
+    }, 
+    "Salida ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0867280.html", 
+        "descriptor": "city", 
+        "name": "Salida "
+    }, 
+    "Commerce City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0816495.html", 
+        "descriptor": "city", 
+        "name": "Commerce City "
+    }, 
+    "Alamosa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0801090.html", 
+        "descriptor": "city", 
+        "name": "Alamosa "
+    }, 
+    "Boulder ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0807850.html", 
+        "descriptor": "city", 
+        "name": "Boulder "
+    }, 
+    "Castle Rock ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0812415.html", 
+        "descriptor": "town", 
+        "name": "Castle Rock "
+    }, 
+    "Aurora ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0804000.html", 
+        "descriptor": "city", 
+        "name": "Aurora "
+    }, 
+    "Redlands ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0863375.html", 
+        "descriptor": "CDP", 
+        "name": "Redlands "
+    }, 
+    "Fairmount ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0825550.html", 
+        "descriptor": "CDP", 
+        "name": "Fairmount "
+    }, 
+    "Fruita ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0828745.html", 
+        "descriptor": "city", 
+        "name": "Fruita "
+    }, 
+    "Rifle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0864255.html", 
+        "descriptor": "city", 
+        "name": "Rifle "
+    }, 
+    "Pueblo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0862000.html", 
+        "descriptor": "city", 
+        "name": "Pueblo "
+    }, 
+    "Castle Pines ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0812387.html", 
+        "descriptor": "city", 
+        "name": "Castle Pines "
+    }, 
+    "Security-Widefield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0868847.html", 
+        "descriptor": "CDP", 
+        "name": "Security-Widefield "
+    }, 
+    "Glenwood Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0830780.html", 
+        "descriptor": "city", 
+        "name": "Glenwood Springs "
+    }, 
+    "Estes Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0825115.html", 
+        "descriptor": "town", 
+        "name": "Estes Park "
+    }, 
+    "Cherry Creek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0813590.html", 
+        "descriptor": "CDP", 
+        "name": "Cherry Creek "
+    }, 
+    "Brighton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0808675.html", 
+        "descriptor": "city", 
+        "name": "Brighton "
+    }, 
+    "Evans ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0825280.html", 
+        "descriptor": "city", 
+        "name": "Evans "
+    }, 
+    "Craig ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0817760.html", 
+        "descriptor": "city", 
+        "name": "Craig "
+    }, 
+    "Louisville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0846355.html", 
+        "descriptor": "city", 
+        "name": "Louisville "
+    }, 
+    "Wheat Ridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0884440.html", 
+        "descriptor": "city", 
+        "name": "Wheat Ridge "
+    }, 
+    "Canon City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0811810.html", 
+        "descriptor": "city", 
+        "name": "Canon City "
+    }, 
+    "Federal Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0826270.html", 
+        "descriptor": "city", 
+        "name": "Federal Heights "
+    }, 
+    "Monument ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0851800.html", 
+        "descriptor": "town", 
+        "name": "Monument "
+    }, 
+    "Grand Junction ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0831660.html", 
+        "descriptor": "city", 
+        "name": "Grand Junction "
+    }, 
+    "Thornton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0877290.html", 
+        "descriptor": "city", 
+        "name": "Thornton "
+    }, 
+    "Edwards ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0823300.html", 
+        "descriptor": "CDP", 
+        "name": "Edwards "
+    }, 
+    "Lamar ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0843110.html", 
+        "descriptor": "city", 
+        "name": "Lamar "
+    }, 
+    "Woodland Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0886090.html", 
+        "descriptor": "city", 
+        "name": "Woodland Park "
+    }, 
+    "Greeley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0832155.html", 
+        "descriptor": "city", 
+        "name": "Greeley "
+    }, 
+    "Berthoud ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0806255.html", 
+        "descriptor": "town", 
+        "name": "Berthoud "
+    }, 
+    "Twin Lakes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0879100.html", 
+        "descriptor": "CDP", 
+        "name": "Twin Lakes "
+    }, 
+    "Loveland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0846465.html", 
+        "descriptor": "city", 
+        "name": "Loveland "
+    }, 
+    "Westminster ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0883835.html", 
+        "descriptor": "city", 
+        "name": "Westminster "
+    }, 
+    "Wellington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0883230.html", 
+        "descriptor": "town", 
+        "name": "Wellington "
+    }, 
+    "Denver ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0820000.html", 
+        "descriptor": "city", 
+        "name": "Denver "
+    }, 
+    "The Pinery ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0877235.html", 
+        "descriptor": "CDP", 
+        "name": "The Pinery "
+    }, 
+    "Fort Collins ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0827425.html", 
+        "descriptor": "city", 
+        "name": "Fort Collins "
+    }, 
+    "Firestone ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0826600.html", 
+        "descriptor": "town", 
+        "name": "Firestone "
+    }, 
+    "Windsor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0885485.html", 
+        "descriptor": "town", 
+        "name": "Windsor "
+    }, 
+    "Eagle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0822200.html", 
+        "descriptor": "town", 
+        "name": "Eagle "
+    }, 
+    "Derby ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0820275.html", 
+        "descriptor": "CDP", 
+        "name": "Derby "
+    }, 
+    "Golden ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0830835.html", 
+        "descriptor": "city", 
+        "name": "Golden "
+    }, 
+    "La Junta ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0842110.html", 
+        "descriptor": "city", 
+        "name": "La Junta "
+    }, 
+    "Stratmoor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0874430.html", 
+        "descriptor": "CDP", 
+        "name": "Stratmoor "
+    }, 
+    "Orchard Mesa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0856035.html", 
+        "descriptor": "CDP", 
+        "name": "Orchard Mesa "
+    }, 
+    "Air Force Academy ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0800870.html", 
+        "descriptor": "CDP", 
+        "name": "Air Force Academy "
+    }, 
+    "Gypsum ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0833695.html", 
+        "descriptor": "town", 
+        "name": "Gypsum "
+    }, 
+    "Milliken ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0850480.html", 
+        "descriptor": "town", 
+        "name": "Milliken "
+    }, 
+    "Superior ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0875640.html", 
+        "descriptor": "town", 
+        "name": "Superior "
+    }, 
+    "Broomfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0809280.html", 
+        "descriptor": "city", 
+        "name": "Broomfield "
+    }, 
+    "Sheridan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0869645.html", 
+        "descriptor": "city", 
+        "name": "Sheridan "
+    }, 
+    "Colorado Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/08/0816000.html", 
+        "descriptor": "city", 
+        "name": "Colorado Springs "
+    }
+}

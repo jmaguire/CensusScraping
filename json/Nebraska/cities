@@ -1,0 +1,167 @@
+{
+    "South Sioux City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3146030.html", 
+        "descriptor": "city", 
+        "name": "South Sioux City "
+    }, 
+    "Chadron ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3108605.html", 
+        "descriptor": "city", 
+        "name": "Chadron "
+    }, 
+    "Crete ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3111370.html", 
+        "descriptor": "city", 
+        "name": "Crete "
+    }, 
+    "Plattsmouth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3139345.html", 
+        "descriptor": "city", 
+        "name": "Plattsmouth "
+    }, 
+    "McCook ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3129925.html", 
+        "descriptor": "city", 
+        "name": "McCook "
+    }, 
+    "Holdrege ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3122640.html", 
+        "descriptor": "city", 
+        "name": "Holdrege "
+    }, 
+    "Papillion ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3138295.html", 
+        "descriptor": "city", 
+        "name": "Papillion "
+    }, 
+    "Lincoln ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3128000.html", 
+        "descriptor": "city", 
+        "name": "Lincoln "
+    }, 
+    "Alliance ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3100905.html", 
+        "descriptor": "city", 
+        "name": "Alliance "
+    }, 
+    "Seward ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3144420.html", 
+        "descriptor": "city", 
+        "name": "Seward "
+    }, 
+    "Blair ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3105350.html", 
+        "descriptor": "city", 
+        "name": "Blair "
+    }, 
+    "Gering ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3118580.html", 
+        "descriptor": "city", 
+        "name": "Gering "
+    }, 
+    "Bellevue ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3103950.html", 
+        "descriptor": "city", 
+        "name": "Bellevue "
+    }, 
+    "Beatrice ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3103390.html", 
+        "descriptor": "city", 
+        "name": "Beatrice "
+    }, 
+    "La Vista ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3126385.html", 
+        "descriptor": "city", 
+        "name": "La Vista "
+    }, 
+    "Schuyler ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3144035.html", 
+        "descriptor": "city", 
+        "name": "Schuyler "
+    }, 
+    "Norfolk ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3134615.html", 
+        "descriptor": "city", 
+        "name": "Norfolk "
+    }, 
+    "Grand Island ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3119595.html", 
+        "descriptor": "city", 
+        "name": "Grand Island "
+    }, 
+    "North Platte ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3135000.html", 
+        "descriptor": "city", 
+        "name": "North Platte "
+    }, 
+    "Columbus ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3110110.html", 
+        "descriptor": "city", 
+        "name": "Columbus "
+    }, 
+    "Chalco ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3108640.html", 
+        "descriptor": "CDP", 
+        "name": "Chalco "
+    }, 
+    "Ralston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3140605.html", 
+        "descriptor": "city", 
+        "name": "Ralston "
+    }, 
+    "Nebraska City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3133705.html", 
+        "descriptor": "city", 
+        "name": "Nebraska City "
+    }, 
+    "Wayne ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3151840.html", 
+        "descriptor": "city", 
+        "name": "Wayne "
+    }, 
+    "Omaha ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3137000.html", 
+        "descriptor": "city", 
+        "name": "Omaha "
+    }, 
+    "Lexington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3126910.html", 
+        "descriptor": "city", 
+        "name": "Lexington "
+    }, 
+    "Fremont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3117670.html", 
+        "descriptor": "city", 
+        "name": "Fremont "
+    }, 
+    "Sidney ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3145295.html", 
+        "descriptor": "city", 
+        "name": "Sidney "
+    }, 
+    "Hastings ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3121415.html", 
+        "descriptor": "city", 
+        "name": "Hastings "
+    }, 
+    "Gretna ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3120260.html", 
+        "descriptor": "city", 
+        "name": "Gretna "
+    }, 
+    "Scottsbluff ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3144245.html", 
+        "descriptor": "city", 
+        "name": "Scottsbluff "
+    }, 
+    "York ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3154045.html", 
+        "descriptor": "city", 
+        "name": "York "
+    }, 
+    "Kearney ": {
+        "url": "http://quickfacts.census.gov/qfd/states/31/3125055.html", 
+        "descriptor": "city", 
+        "name": "Kearney "
+    }
+}

@@ -1,0 +1,717 @@
+{
+    "Delavan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5519450.html", 
+        "descriptor": "city", 
+        "name": "Delavan "
+    }, 
+    "Mayville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5550200.html", 
+        "descriptor": "city", 
+        "name": "Mayville "
+    }, 
+    "Plover ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5563525.html", 
+        "descriptor": "village", 
+        "name": "Plover "
+    }, 
+    "Delafield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5519400.html", 
+        "descriptor": "city", 
+        "name": "Delafield "
+    }, 
+    "Portage ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5564100.html", 
+        "descriptor": "city", 
+        "name": "Portage "
+    }, 
+    "Brown Deer ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5510375.html", 
+        "descriptor": "village", 
+        "name": "Brown Deer "
+    }, 
+    "Whitewater ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5586925.html", 
+        "descriptor": "city", 
+        "name": "Whitewater "
+    }, 
+    "River Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5568275.html", 
+        "descriptor": "city", 
+        "name": "River Falls "
+    }, 
+    "Sturgeon Bay ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5577875.html", 
+        "descriptor": "city", 
+        "name": "Sturgeon Bay "
+    }, 
+    "Hartford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5533000.html", 
+        "descriptor": "city", 
+        "name": "Hartford "
+    }, 
+    "Ripon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5568175.html", 
+        "descriptor": "city", 
+        "name": "Ripon "
+    }, 
+    "Hales Corners ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5532075.html", 
+        "descriptor": "village", 
+        "name": "Hales Corners "
+    }, 
+    "Greenfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5531175.html", 
+        "descriptor": "city", 
+        "name": "Greenfield "
+    }, 
+    "Plymouth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5563700.html", 
+        "descriptor": "city", 
+        "name": "Plymouth "
+    }, 
+    "Beloit ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5506500.html", 
+        "descriptor": "city", 
+        "name": "Beloit "
+    }, 
+    "Hartland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5533100.html", 
+        "descriptor": "village", 
+        "name": "Hartland "
+    }, 
+    "Brookfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5510025.html", 
+        "descriptor": "city", 
+        "name": "Brookfield "
+    }, 
+    "Green Bay ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5531000.html", 
+        "descriptor": "city", 
+        "name": "Green Bay "
+    }, 
+    "New London ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5556925.html", 
+        "descriptor": "city", 
+        "name": "New London "
+    }, 
+    "Germantown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5528875.html", 
+        "descriptor": "village", 
+        "name": "Germantown "
+    }, 
+    "Allouez ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5501150.html", 
+        "descriptor": "village", 
+        "name": "Allouez "
+    }, 
+    "Two Rivers ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5581325.html", 
+        "descriptor": "city", 
+        "name": "Two Rivers "
+    }, 
+    "Lake Mills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5541675.html", 
+        "descriptor": "city", 
+        "name": "Lake Mills "
+    }, 
+    "Chippewa Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5514575.html", 
+        "descriptor": "city", 
+        "name": "Chippewa Falls "
+    }, 
+    "Tomah ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5580075.html", 
+        "descriptor": "city", 
+        "name": "Tomah "
+    }, 
+    "Wisconsin Rapids ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5588200.html", 
+        "descriptor": "city", 
+        "name": "Wisconsin Rapids "
+    }, 
+    "Mount Pleasant ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5554875.html", 
+        "descriptor": "village", 
+        "name": "Mount Pleasant "
+    }, 
+    "Jackson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5537675.html", 
+        "descriptor": "village", 
+        "name": "Jackson "
+    }, 
+    "Jefferson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5537900.html", 
+        "descriptor": "city", 
+        "name": "Jefferson "
+    }, 
+    "Lake Hallie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5541525.html", 
+        "descriptor": "village", 
+        "name": "Lake Hallie "
+    }, 
+    "Waunakee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5584350.html", 
+        "descriptor": "village", 
+        "name": "Waunakee "
+    }, 
+    "Richfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5567475.html", 
+        "descriptor": "village", 
+        "name": "Richfield "
+    }, 
+    "Grafton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5530000.html", 
+        "descriptor": "village", 
+        "name": "Grafton "
+    }, 
+    "Prairie du Chien ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5565050.html", 
+        "descriptor": "city", 
+        "name": "Prairie du Chien "
+    }, 
+    "Richland Center ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5567625.html", 
+        "descriptor": "city", 
+        "name": "Richland Center "
+    }, 
+    "Onalaska ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5559925.html", 
+        "descriptor": "city", 
+        "name": "Onalaska "
+    }, 
+    "Sun Prairie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5578600.html", 
+        "descriptor": "city", 
+        "name": "Sun Prairie "
+    }, 
+    "Wausau ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5584475.html", 
+        "descriptor": "city", 
+        "name": "Wausau "
+    }, 
+    "Pewaukee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5562250.html", 
+        "descriptor": "village", 
+        "name": "Pewaukee "
+    }, 
+    "Sparta ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5575325.html", 
+        "descriptor": "city", 
+        "name": "Sparta "
+    }, 
+    "Whitefish Bay ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5586700.html", 
+        "descriptor": "village", 
+        "name": "Whitefish Bay "
+    }, 
+    "Verona ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5582600.html", 
+        "descriptor": "city", 
+        "name": "Verona "
+    }, 
+    "De Pere ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5519775.html", 
+        "descriptor": "city", 
+        "name": "De Pere "
+    }, 
+    "Stevens Point ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5577200.html", 
+        "descriptor": "city", 
+        "name": "Stevens Point "
+    }, 
+    "Shawano ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5572925.html", 
+        "descriptor": "city", 
+        "name": "Shawano "
+    }, 
+    "Oconomowoc ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5559250.html", 
+        "descriptor": "city", 
+        "name": "Oconomowoc "
+    }, 
+    "Ashwaubenon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5503425.html", 
+        "descriptor": "village", 
+        "name": "Ashwaubenon "
+    }, 
+    "Mount Horeb ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5554725.html", 
+        "descriptor": "village", 
+        "name": "Mount Horeb "
+    }, 
+    "Racine ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5566000.html", 
+        "descriptor": "city", 
+        "name": "Racine "
+    }, 
+    "Fond du Lac ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5526275.html", 
+        "descriptor": "city", 
+        "name": "Fond du Lac "
+    }, 
+    "Waukesha ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5584250.html", 
+        "descriptor": "city", 
+        "name": "Waukesha "
+    }, 
+    "McFarland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5546850.html", 
+        "descriptor": "village", 
+        "name": "McFarland "
+    }, 
+    "Kaukauna ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5538800.html", 
+        "descriptor": "city", 
+        "name": "Kaukauna "
+    }, 
+    "Wind Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5587675.html", 
+        "descriptor": "CDP", 
+        "name": "Wind Lake "
+    }, 
+    "North Fond du Lac ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5558000.html", 
+        "descriptor": "village", 
+        "name": "North Fond du Lac "
+    }, 
+    "Sheboygan Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5573025.html", 
+        "descriptor": "city", 
+        "name": "Sheboygan Falls "
+    }, 
+    "Antigo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5502250.html", 
+        "descriptor": "city", 
+        "name": "Antigo "
+    }, 
+    "Mukwonago ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5555050.html", 
+        "descriptor": "village", 
+        "name": "Mukwonago "
+    }, 
+    "Menomonie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5551025.html", 
+        "descriptor": "city", 
+        "name": "Menomonie "
+    }, 
+    "Ashland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5503225.html", 
+        "descriptor": "city", 
+        "name": "Ashland "
+    }, 
+    "South Milwaukee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5575125.html", 
+        "descriptor": "city", 
+        "name": "South Milwaukee "
+    }, 
+    "Monona ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5553675.html", 
+        "descriptor": "city", 
+        "name": "Monona "
+    }, 
+    "St. Francis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5570650.html", 
+        "descriptor": "city", 
+        "name": "St. Francis "
+    }, 
+    "Fitchburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5525950.html", 
+        "descriptor": "city", 
+        "name": "Fitchburg "
+    }, 
+    "Cudahy ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5517975.html", 
+        "descriptor": "city", 
+        "name": "Cudahy "
+    }, 
+    "Watertown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5583975.html", 
+        "descriptor": "city", 
+        "name": "Watertown "
+    }, 
+    "Marshfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5549675.html", 
+        "descriptor": "city", 
+        "name": "Marshfield "
+    }, 
+    "West Allis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5585300.html", 
+        "descriptor": "city", 
+        "name": "West Allis "
+    }, 
+    "Cottage Grove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5517175.html", 
+        "descriptor": "village", 
+        "name": "Cottage Grove "
+    }, 
+    "Slinger ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5574400.html", 
+        "descriptor": "village", 
+        "name": "Slinger "
+    }, 
+    "Suamico ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5577975.html", 
+        "descriptor": "village", 
+        "name": "Suamico "
+    }, 
+    "Waterford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5583825.html", 
+        "descriptor": "village", 
+        "name": "Waterford "
+    }, 
+    "Franklin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5527300.html", 
+        "descriptor": "city", 
+        "name": "Franklin "
+    }, 
+    "Manitowoc ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5548500.html", 
+        "descriptor": "city", 
+        "name": "Manitowoc "
+    }, 
+    "Neenah ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5555750.html", 
+        "descriptor": "city", 
+        "name": "Neenah "
+    }, 
+    "Elm Grove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5523575.html", 
+        "descriptor": "village", 
+        "name": "Elm Grove "
+    }, 
+    "Columbus ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5516450.html", 
+        "descriptor": "city", 
+        "name": "Columbus "
+    }, 
+    "Pleasant Prairie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5563300.html", 
+        "descriptor": "village", 
+        "name": "Pleasant Prairie "
+    }, 
+    "Holmen ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5535450.html", 
+        "descriptor": "village", 
+        "name": "Holmen "
+    }, 
+    "Sheboygan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5572975.html", 
+        "descriptor": "city", 
+        "name": "Sheboygan "
+    }, 
+    "Kenosha ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5539225.html", 
+        "descriptor": "city", 
+        "name": "Kenosha "
+    }, 
+    "Janesville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5537825.html", 
+        "descriptor": "city", 
+        "name": "Janesville "
+    }, 
+    "Hobart ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5535150.html", 
+        "descriptor": "village", 
+        "name": "Hobart "
+    }, 
+    "Kimberly ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5539650.html", 
+        "descriptor": "village", 
+        "name": "Kimberly "
+    }, 
+    "Oshkosh ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5560500.html", 
+        "descriptor": "city", 
+        "name": "Oshkosh "
+    }, 
+    "Fort Atkinson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5526675.html", 
+        "descriptor": "city", 
+        "name": "Fort Atkinson "
+    }, 
+    "Little Chute ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5544950.html", 
+        "descriptor": "village", 
+        "name": "Little Chute "
+    }, 
+    "Rice Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5567350.html", 
+        "descriptor": "city", 
+        "name": "Rice Lake "
+    }, 
+    "Berlin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5506925.html", 
+        "descriptor": "city", 
+        "name": "Berlin "
+    }, 
+    "Rothschild ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5569725.html", 
+        "descriptor": "village", 
+        "name": "Rothschild "
+    }, 
+    "Merrill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5551250.html", 
+        "descriptor": "city", 
+        "name": "Merrill "
+    }, 
+    "Oak Creek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5558800.html", 
+        "descriptor": "city", 
+        "name": "Oak Creek "
+    }, 
+    "Middleton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5551575.html", 
+        "descriptor": "city", 
+        "name": "Middleton "
+    }, 
+    "Greendale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5531125.html", 
+        "descriptor": "village", 
+        "name": "Greendale "
+    }, 
+    "Menasha ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5550825.html", 
+        "descriptor": "city", 
+        "name": "Menasha "
+    }, 
+    "Milton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5552200.html", 
+        "descriptor": "city", 
+        "name": "Milton "
+    }, 
+    "Reedsburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5566800.html", 
+        "descriptor": "city", 
+        "name": "Reedsburg "
+    }, 
+    "Shorewood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5573725.html", 
+        "descriptor": "village", 
+        "name": "Shorewood "
+    }, 
+    "Wauwatosa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5584675.html", 
+        "descriptor": "city", 
+        "name": "Wauwatosa "
+    }, 
+    "Port Washington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5564450.html", 
+        "descriptor": "city", 
+        "name": "Port Washington "
+    }, 
+    "Baraboo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5504625.html", 
+        "descriptor": "city", 
+        "name": "Baraboo "
+    }, 
+    "Glendale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5529400.html", 
+        "descriptor": "city", 
+        "name": "Glendale "
+    }, 
+    "Cedarburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5513375.html", 
+        "descriptor": "city", 
+        "name": "Cedarburg "
+    }, 
+    "Sussex ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5578750.html", 
+        "descriptor": "village", 
+        "name": "Sussex "
+    }, 
+    "New Berlin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5556375.html", 
+        "descriptor": "city", 
+        "name": "New Berlin "
+    }, 
+    "Stoughton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5577675.html", 
+        "descriptor": "city", 
+        "name": "Stoughton "
+    }, 
+    "Rib Mountain ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5567320.html", 
+        "descriptor": "CDP", 
+        "name": "Rib Mountain "
+    }, 
+    "DeForest ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5519350.html", 
+        "descriptor": "village", 
+        "name": "DeForest "
+    }, 
+    "Burlington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5511200.html", 
+        "descriptor": "city", 
+        "name": "Burlington "
+    }, 
+    "Altoona ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5501550.html", 
+        "descriptor": "city", 
+        "name": "Altoona "
+    }, 
+    "Menomonee Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5551000.html", 
+        "descriptor": "village", 
+        "name": "Menomonee Falls "
+    }, 
+    "La Crosse ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5540775.html", 
+        "descriptor": "city", 
+        "name": "La Crosse "
+    }, 
+    "Mequon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5551150.html", 
+        "descriptor": "city", 
+        "name": "Mequon "
+    }, 
+    "West Bend ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5585350.html", 
+        "descriptor": "city", 
+        "name": "West Bend "
+    }, 
+    "Edgerton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5522575.html", 
+        "descriptor": "city", 
+        "name": "Edgerton "
+    }, 
+    "Elkhorn ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5523300.html", 
+        "descriptor": "city", 
+        "name": "Elkhorn "
+    }, 
+    "Eau Claire ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5522300.html", 
+        "descriptor": "city", 
+        "name": "Eau Claire "
+    }, 
+    "Kronenwetter ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5540550.html", 
+        "descriptor": "village", 
+        "name": "Kronenwetter "
+    }, 
+    "Tichigan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5579740.html", 
+        "descriptor": "CDP", 
+        "name": "Tichigan "
+    }, 
+    "Weston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5586025.html", 
+        "descriptor": "village", 
+        "name": "Weston "
+    }, 
+    "Appleton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5502375.html", 
+        "descriptor": "city", 
+        "name": "Appleton "
+    }, 
+    "Bellevue ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5506350.html", 
+        "descriptor": "village", 
+        "name": "Bellevue "
+    }, 
+    "Twin Lakes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5581250.html", 
+        "descriptor": "village", 
+        "name": "Twin Lakes "
+    }, 
+    "Caledonia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5511950.html", 
+        "descriptor": "village", 
+        "name": "Caledonia "
+    }, 
+    "Hudson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5536250.html", 
+        "descriptor": "city", 
+        "name": "Hudson "
+    }, 
+    "Waupun ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5584425.html", 
+        "descriptor": "city", 
+        "name": "Waupun "
+    }, 
+    "Beaver Dam ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5505900.html", 
+        "descriptor": "city", 
+        "name": "Beaver Dam "
+    }, 
+    "Madison ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5548000.html", 
+        "descriptor": "city", 
+        "name": "Madison "
+    }, 
+    "Marinette ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5549300.html", 
+        "descriptor": "city", 
+        "name": "Marinette "
+    }, 
+    "Monroe ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5553750.html", 
+        "descriptor": "city", 
+        "name": "Monroe "
+    }, 
+    "Lake Geneva ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5541450.html", 
+        "descriptor": "city", 
+        "name": "Lake Geneva "
+    }, 
+    "Fox Point ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5527075.html", 
+        "descriptor": "village", 
+        "name": "Fox Point "
+    }, 
+    "New Richmond ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5557100.html", 
+        "descriptor": "city", 
+        "name": "New Richmond "
+    }, 
+    "Evansville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5524550.html", 
+        "descriptor": "city", 
+        "name": "Evansville "
+    }, 
+    "Platteville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5563250.html", 
+        "descriptor": "city", 
+        "name": "Platteville "
+    }, 
+    "Oregon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5560200.html", 
+        "descriptor": "village", 
+        "name": "Oregon "
+    }, 
+    "Waupaca ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5584375.html", 
+        "descriptor": "city", 
+        "name": "Waupaca "
+    }, 
+    "Howard ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5535950.html", 
+        "descriptor": "village", 
+        "name": "Howard "
+    }, 
+    "Rhinelander ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5567200.html", 
+        "descriptor": "city", 
+        "name": "Rhinelander "
+    }, 
+    "Superior ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5578650.html", 
+        "descriptor": "city", 
+        "name": "Superior "
+    }, 
+    "Muskego ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5555275.html", 
+        "descriptor": "city", 
+        "name": "Muskego "
+    }, 
+    "Milwaukee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5553000.html", 
+        "descriptor": "city", 
+        "name": "Milwaukee "
+    }, 
+    "Sturtevant ": {
+        "url": "http://quickfacts.census.gov/qfd/states/55/5577925.html", 
+        "descriptor": "village", 
+        "name": "Sturtevant "
+    }
+}

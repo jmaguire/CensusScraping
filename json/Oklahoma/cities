@@ -1,0 +1,382 @@
+{
+    "Grove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4031600.html", 
+        "descriptor": "city", 
+        "name": "Grove "
+    }, 
+    "Poteau ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4060350.html", 
+        "descriptor": "city", 
+        "name": "Poteau "
+    }, 
+    "Harrah ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4032750.html", 
+        "descriptor": "city", 
+        "name": "Harrah "
+    }, 
+    "Moore ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4049200.html", 
+        "descriptor": "city", 
+        "name": "Moore "
+    }, 
+    "Miami ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4048000.html", 
+        "descriptor": "city", 
+        "name": "Miami "
+    }, 
+    "Ardmore ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4002600.html", 
+        "descriptor": "city", 
+        "name": "Ardmore "
+    }, 
+    "Del City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4019900.html", 
+        "descriptor": "city", 
+        "name": "Del City "
+    }, 
+    "Guymon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4031750.html", 
+        "descriptor": "city", 
+        "name": "Guymon "
+    }, 
+    "Collinsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4016350.html", 
+        "descriptor": "city", 
+        "name": "Collinsville "
+    }, 
+    "Bixby ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4006400.html", 
+        "descriptor": "city", 
+        "name": "Bixby "
+    }, 
+    "The Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4073250.html", 
+        "descriptor": "city", 
+        "name": "The Village "
+    }, 
+    "Norman ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4052500.html", 
+        "descriptor": "city", 
+        "name": "Norman "
+    }, 
+    "Tulsa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4075000.html", 
+        "descriptor": "city", 
+        "name": "Tulsa "
+    }, 
+    "Newcastle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4051150.html", 
+        "descriptor": "city", 
+        "name": "Newcastle "
+    }, 
+    "Claremore ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4014700.html", 
+        "descriptor": "city", 
+        "name": "Claremore "
+    }, 
+    "Tecumseh ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4072650.html", 
+        "descriptor": "city", 
+        "name": "Tecumseh "
+    }, 
+    "Mustang ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4050100.html", 
+        "descriptor": "city", 
+        "name": "Mustang "
+    }, 
+    "Piedmont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4058700.html", 
+        "descriptor": "city", 
+        "name": "Piedmont "
+    }, 
+    "Ada ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4000200.html", 
+        "descriptor": "city", 
+        "name": "Ada "
+    }, 
+    "Cushing ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4018850.html", 
+        "descriptor": "city", 
+        "name": "Cushing "
+    }, 
+    "Edmond ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4023200.html", 
+        "descriptor": "city", 
+        "name": "Edmond "
+    }, 
+    "Chickasha ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4013950.html", 
+        "descriptor": "city", 
+        "name": "Chickasha "
+    }, 
+    "Midwest City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4048350.html", 
+        "descriptor": "city", 
+        "name": "Midwest City "
+    }, 
+    "Muskogee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4050050.html", 
+        "descriptor": "city", 
+        "name": "Muskogee "
+    }, 
+    "Woodward ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4082150.html", 
+        "descriptor": "city", 
+        "name": "Woodward "
+    }, 
+    "Skiatook ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4067850.html", 
+        "descriptor": "town", 
+        "name": "Skiatook "
+    }, 
+    "Durant ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4022050.html", 
+        "descriptor": "city", 
+        "name": "Durant "
+    }, 
+    "Guthrie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4031700.html", 
+        "descriptor": "city", 
+        "name": "Guthrie "
+    }, 
+    "Sand Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4065300.html", 
+        "descriptor": "city", 
+        "name": "Sand Springs "
+    }, 
+    "Weatherford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4079450.html", 
+        "descriptor": "city", 
+        "name": "Weatherford "
+    }, 
+    "Yukon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4082950.html", 
+        "descriptor": "city", 
+        "name": "Yukon "
+    }, 
+    "McAlester ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4044800.html", 
+        "descriptor": "city", 
+        "name": "McAlester "
+    }, 
+    "Seminole ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4066350.html", 
+        "descriptor": "city", 
+        "name": "Seminole "
+    }, 
+    "Perry ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4058250.html", 
+        "descriptor": "city", 
+        "name": "Perry "
+    }, 
+    "Sulphur ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4071350.html", 
+        "descriptor": "city", 
+        "name": "Sulphur "
+    }, 
+    "Tuttle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4075450.html", 
+        "descriptor": "city", 
+        "name": "Tuttle "
+    }, 
+    "Sapulpa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4065400.html", 
+        "descriptor": "city", 
+        "name": "Sapulpa "
+    }, 
+    "Choctaw ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4014200.html", 
+        "descriptor": "city", 
+        "name": "Choctaw "
+    }, 
+    "Warr Acres ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4078500.html", 
+        "descriptor": "city", 
+        "name": "Warr Acres "
+    }, 
+    "Tahlequah ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4072100.html", 
+        "descriptor": "city", 
+        "name": "Tahlequah "
+    }, 
+    "Clinton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4015400.html", 
+        "descriptor": "city", 
+        "name": "Clinton "
+    }, 
+    "Oklahoma City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4055000.html", 
+        "descriptor": "city", 
+        "name": "Oklahoma City "
+    }, 
+    "Lone Grove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4043750.html", 
+        "descriptor": "city", 
+        "name": "Lone Grove "
+    }, 
+    "Blanchard ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4006700.html", 
+        "descriptor": "city", 
+        "name": "Blanchard "
+    }, 
+    "Bartlesville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4004450.html", 
+        "descriptor": "city", 
+        "name": "Bartlesville "
+    }, 
+    "Hugo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4036300.html", 
+        "descriptor": "city", 
+        "name": "Hugo "
+    }, 
+    "Elk City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4023500.html", 
+        "descriptor": "city", 
+        "name": "Elk City "
+    }, 
+    "Noble ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4052150.html", 
+        "descriptor": "city", 
+        "name": "Noble "
+    }, 
+    "Enid ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4023950.html", 
+        "descriptor": "city", 
+        "name": "Enid "
+    }, 
+    "Idabel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4036750.html", 
+        "descriptor": "city", 
+        "name": "Idabel "
+    }, 
+    "Okmulgee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4055150.html", 
+        "descriptor": "city", 
+        "name": "Okmulgee "
+    }, 
+    "Stillwater ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4070300.html", 
+        "descriptor": "city", 
+        "name": "Stillwater "
+    }, 
+    "Pryor Creek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4061000.html", 
+        "descriptor": "city", 
+        "name": "Pryor Creek "
+    }, 
+    "Blackwell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4006600.html", 
+        "descriptor": "city", 
+        "name": "Blackwell "
+    }, 
+    "Pauls Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4057550.html", 
+        "descriptor": "city", 
+        "name": "Pauls Valley "
+    }, 
+    "Alva ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4001800.html", 
+        "descriptor": "city", 
+        "name": "Alva "
+    }, 
+    "Catoosa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4012900.html", 
+        "descriptor": "city", 
+        "name": "Catoosa "
+    }, 
+    "Coweta ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4017800.html", 
+        "descriptor": "city", 
+        "name": "Coweta "
+    }, 
+    "Vinita ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4077550.html", 
+        "descriptor": "city", 
+        "name": "Vinita "
+    }, 
+    "Altus ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4001700.html", 
+        "descriptor": "city", 
+        "name": "Altus "
+    }, 
+    "Purcell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4061150.html", 
+        "descriptor": "city", 
+        "name": "Purcell "
+    }, 
+    "Shawnee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4066800.html", 
+        "descriptor": "city", 
+        "name": "Shawnee "
+    }, 
+    "Henryetta ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4033750.html", 
+        "descriptor": "city", 
+        "name": "Henryetta "
+    }, 
+    "Owasso ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4056650.html", 
+        "descriptor": "city", 
+        "name": "Owasso "
+    }, 
+    "Duncan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4021900.html", 
+        "descriptor": "city", 
+        "name": "Duncan "
+    }, 
+    "El Reno ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4023700.html", 
+        "descriptor": "city", 
+        "name": "El Reno "
+    }, 
+    "Anadarko ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4002050.html", 
+        "descriptor": "city", 
+        "name": "Anadarko "
+    }, 
+    "Glenpool ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4029600.html", 
+        "descriptor": "city", 
+        "name": "Glenpool "
+    }, 
+    "Bethany ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4005700.html", 
+        "descriptor": "city", 
+        "name": "Bethany "
+    }, 
+    "Broken Arrow ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4009050.html", 
+        "descriptor": "city", 
+        "name": "Broken Arrow "
+    }, 
+    "Holdenville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4035400.html", 
+        "descriptor": "city", 
+        "name": "Holdenville "
+    }, 
+    "Ponca City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4059850.html", 
+        "descriptor": "city", 
+        "name": "Ponca City "
+    }, 
+    "Wagoner ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4077850.html", 
+        "descriptor": "city", 
+        "name": "Wagoner "
+    }, 
+    "Lawton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4041850.html", 
+        "descriptor": "city", 
+        "name": "Lawton "
+    }, 
+    "Sallisaw ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4065000.html", 
+        "descriptor": "city", 
+        "name": "Sallisaw "
+    }, 
+    "Jenks ": {
+        "url": "http://quickfacts.census.gov/qfd/states/40/4037800.html", 
+        "descriptor": "city", 
+        "name": "Jenks "
+    }
+}

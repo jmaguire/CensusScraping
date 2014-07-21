@@ -1,0 +1,347 @@
+{
+    "Pascagoula ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2855360.html", 
+        "descriptor": "city", 
+        "name": "Pascagoula "
+    }, 
+    "Holly Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2833100.html", 
+        "descriptor": "city", 
+        "name": "Holly Springs "
+    }, 
+    "Greenwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2829340.html", 
+        "descriptor": "city", 
+        "name": "Greenwood "
+    }, 
+    "Latimer ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2839520.html", 
+        "descriptor": "CDP", 
+        "name": "Latimer "
+    }, 
+    "Pass Christian ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2855400.html", 
+        "descriptor": "city", 
+        "name": "Pass Christian "
+    }, 
+    "Oxford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2854840.html", 
+        "descriptor": "city", 
+        "name": "Oxford "
+    }, 
+    "Gulf Park Estates ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2829660.html", 
+        "descriptor": "CDP", 
+        "name": "Gulf Park Estates "
+    }, 
+    "Brookhaven ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2808820.html", 
+        "descriptor": "city", 
+        "name": "Brookhaven "
+    }, 
+    "New Albany ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2851000.html", 
+        "descriptor": "city", 
+        "name": "New Albany "
+    }, 
+    "Ripley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2862600.html", 
+        "descriptor": "city", 
+        "name": "Ripley "
+    }, 
+    "Gulf Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2829620.html", 
+        "descriptor": "CDP", 
+        "name": "Gulf Hills "
+    }, 
+    "Laurel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2839640.html", 
+        "descriptor": "city", 
+        "name": "Laurel "
+    }, 
+    "Pontotoc ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2859160.html", 
+        "descriptor": "city", 
+        "name": "Pontotoc "
+    }, 
+    "Long Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2841680.html", 
+        "descriptor": "city", 
+        "name": "Long Beach "
+    }, 
+    "Corinth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2815700.html", 
+        "descriptor": "city", 
+        "name": "Corinth "
+    }, 
+    "Ocean Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2853520.html", 
+        "descriptor": "city", 
+        "name": "Ocean Springs "
+    }, 
+    "Ridgeland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2862520.html", 
+        "descriptor": "city", 
+        "name": "Ridgeland "
+    }, 
+    "Booneville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2807780.html", 
+        "descriptor": "city", 
+        "name": "Booneville "
+    }, 
+    "Bay St. Louis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2803980.html", 
+        "descriptor": "city", 
+        "name": "Bay St. Louis "
+    }, 
+    "Tupelo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2874840.html", 
+        "descriptor": "city", 
+        "name": "Tupelo "
+    }, 
+    "Madison ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2844520.html", 
+        "descriptor": "city", 
+        "name": "Madison "
+    }, 
+    "Amory ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2801260.html", 
+        "descriptor": "city", 
+        "name": "Amory "
+    }, 
+    "Columbia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2815340.html", 
+        "descriptor": "city", 
+        "name": "Columbia "
+    }, 
+    "D'Iberville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2819180.html", 
+        "descriptor": "city", 
+        "name": "D'Iberville "
+    }, 
+    "Brandon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2808300.html", 
+        "descriptor": "city", 
+        "name": "Brandon "
+    }, 
+    "St. Martin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2864680.html", 
+        "descriptor": "CDP", 
+        "name": "St. Martin "
+    }, 
+    "Grenada ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2829460.html", 
+        "descriptor": "city", 
+        "name": "Grenada "
+    }, 
+    "Gautier ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2826860.html", 
+        "descriptor": "city", 
+        "name": "Gautier "
+    }, 
+    "Indianola ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2834740.html", 
+        "descriptor": "city", 
+        "name": "Indianola "
+    }, 
+    "Picayune ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2857160.html", 
+        "descriptor": "city", 
+        "name": "Picayune "
+    }, 
+    "Yazoo City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2881520.html", 
+        "descriptor": "city", 
+        "name": "Yazoo City "
+    }, 
+    "Byram ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2810140.html", 
+        "descriptor": "city", 
+        "name": "Byram "
+    }, 
+    "Clinton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2814420.html", 
+        "descriptor": "city", 
+        "name": "Clinton "
+    }, 
+    "Carthage ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2811780.html", 
+        "descriptor": "city", 
+        "name": "Carthage "
+    }, 
+    "Flowood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2825100.html", 
+        "descriptor": "city", 
+        "name": "Flowood "
+    }, 
+    "Jackson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2836000.html", 
+        "descriptor": "city", 
+        "name": "Jackson "
+    }, 
+    "Gulfport ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2829700.html", 
+        "descriptor": "city", 
+        "name": "Gulfport "
+    }, 
+    "Clarksdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2813820.html", 
+        "descriptor": "city", 
+        "name": "Clarksdale "
+    }, 
+    "Pearl ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2855760.html", 
+        "descriptor": "city", 
+        "name": "Pearl "
+    }, 
+    "Batesville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2803620.html", 
+        "descriptor": "city", 
+        "name": "Batesville "
+    }, 
+    "Kosciusko ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2838320.html", 
+        "descriptor": "city", 
+        "name": "Kosciusko "
+    }, 
+    "Cleveland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2814260.html", 
+        "descriptor": "city", 
+        "name": "Cleveland "
+    }, 
+    "Natchez ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2850440.html", 
+        "descriptor": "city", 
+        "name": "Natchez "
+    }, 
+    "Diamondhead ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2819100.html", 
+        "descriptor": "city", 
+        "name": "Diamondhead "
+    }, 
+    "Vancleave ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2876200.html", 
+        "descriptor": "CDP", 
+        "name": "Vancleave "
+    }, 
+    "McComb ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2843280.html", 
+        "descriptor": "city", 
+        "name": "McComb "
+    }, 
+    "Meridian ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2846640.html", 
+        "descriptor": "city", 
+        "name": "Meridian "
+    }, 
+    "Columbus ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2815380.html", 
+        "descriptor": "city", 
+        "name": "Columbus "
+    }, 
+    "Hernando ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2831780.html", 
+        "descriptor": "city", 
+        "name": "Hernando "
+    }, 
+    "Vicksburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2876720.html", 
+        "descriptor": "city", 
+        "name": "Vicksburg "
+    }, 
+    "Moss Point ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2849240.html", 
+        "descriptor": "city", 
+        "name": "Moss Point "
+    }, 
+    "Waveland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2878200.html", 
+        "descriptor": "city", 
+        "name": "Waveland "
+    }, 
+    "Forest ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2825340.html", 
+        "descriptor": "city", 
+        "name": "Forest "
+    }, 
+    "West Hattiesburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2878890.html", 
+        "descriptor": "CDP", 
+        "name": "West Hattiesburg "
+    }, 
+    "Starkville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2870240.html", 
+        "descriptor": "city", 
+        "name": "Starkville "
+    }, 
+    "Biloxi ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2806220.html", 
+        "descriptor": "city", 
+        "name": "Biloxi "
+    }, 
+    "Petal ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2856800.html", 
+        "descriptor": "city", 
+        "name": "Petal "
+    }, 
+    "Louisville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2842280.html", 
+        "descriptor": "city", 
+        "name": "Louisville "
+    }, 
+    "Richland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2862400.html", 
+        "descriptor": "city", 
+        "name": "Richland "
+    }, 
+    "Olive Branch ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2854040.html", 
+        "descriptor": "city", 
+        "name": "Olive Branch "
+    }, 
+    "Southaven ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2869280.html", 
+        "descriptor": "city", 
+        "name": "Southaven "
+    }, 
+    "Senatobia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2866440.html", 
+        "descriptor": "city", 
+        "name": "Senatobia "
+    }, 
+    "Horn Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2833700.html", 
+        "descriptor": "city", 
+        "name": "Horn Lake "
+    }, 
+    "Philadelphia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2856960.html", 
+        "descriptor": "city", 
+        "name": "Philadelphia "
+    }, 
+    "Hattiesburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2831020.html", 
+        "descriptor": "city", 
+        "name": "Hattiesburg "
+    }, 
+    "Aberdeen ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2800180.html", 
+        "descriptor": "city", 
+        "name": "Aberdeen "
+    }, 
+    "Canton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2811100.html", 
+        "descriptor": "city", 
+        "name": "Canton "
+    }, 
+    "West Point ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2879120.html", 
+        "descriptor": "city", 
+        "name": "West Point "
+    }, 
+    "Greenville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/28/2829180.html", 
+        "descriptor": "city", 
+        "name": "Greenville "
+    }
+}

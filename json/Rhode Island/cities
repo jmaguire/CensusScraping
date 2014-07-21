@@ -1,0 +1,82 @@
+{
+    "Kingston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/44/4438980.html", 
+        "descriptor": "CDP", 
+        "name": "Kingston "
+    }, 
+    "Tiverton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/44/4470700.html", 
+        "descriptor": "CDP", 
+        "name": "Tiverton "
+    }, 
+    "Woonsocket ": {
+        "url": "http://quickfacts.census.gov/qfd/states/44/4480780.html", 
+        "descriptor": "city", 
+        "name": "Woonsocket "
+    }, 
+    "Newport ": {
+        "url": "http://quickfacts.census.gov/qfd/states/44/4449960.html", 
+        "descriptor": "city", 
+        "name": "Newport "
+    }, 
+    "Newport East ": {
+        "url": "http://quickfacts.census.gov/qfd/states/44/4450140.html", 
+        "descriptor": "CDP", 
+        "name": "Newport East "
+    }, 
+    "Central Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/44/4414140.html", 
+        "descriptor": "city", 
+        "name": "Central Falls "
+    }, 
+    "Cranston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/44/4419180.html", 
+        "descriptor": "city", 
+        "name": "Cranston "
+    }, 
+    "Westerly ": {
+        "url": "http://quickfacts.census.gov/qfd/states/44/4476820.html", 
+        "descriptor": "CDP", 
+        "name": "Westerly "
+    }, 
+    "Cumberland Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/44/4420260.html", 
+        "descriptor": "CDP", 
+        "name": "Cumberland Hill "
+    }, 
+    "Pawtucket ": {
+        "url": "http://quickfacts.census.gov/qfd/states/44/4454640.html", 
+        "descriptor": "city", 
+        "name": "Pawtucket "
+    }, 
+    "Warwick ": {
+        "url": "http://quickfacts.census.gov/qfd/states/44/4474300.html", 
+        "descriptor": "city", 
+        "name": "Warwick "
+    }, 
+    "Valley Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/44/4472500.html", 
+        "descriptor": "CDP", 
+        "name": "Valley Falls "
+    }, 
+    "East Providence ": {
+        "url": "http://quickfacts.census.gov/qfd/states/44/4422960.html", 
+        "descriptor": "city", 
+        "name": "East Providence "
+    }, 
+    "Wakefield-Peacedale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/44/4473130.html", 
+        "descriptor": "CDP", 
+        "name": "Wakefield-Peacedale "
+    }, 
+    "Providence ": {
+        "url": "http://quickfacts.census.gov/qfd/states/44/4459000.html", 
+        "descriptor": "city", 
+        "name": "Providence "
+    }, 
+    "Greenville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/44/4431600.html", 
+        "descriptor": "CDP", 
+        "name": "Greenville "
+    }
+}

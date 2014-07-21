@@ -1,0 +1,122 @@
+{
+    "Claremont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3312900.html", 
+        "descriptor": "city", 
+        "name": "Claremont "
+    }, 
+    "Newmarket ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3352260.html", 
+        "descriptor": "CDP", 
+        "name": "Newmarket "
+    }, 
+    "Somersworth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3369940.html", 
+        "descriptor": "city", 
+        "name": "Somersworth "
+    }, 
+    "Milford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3347940.html", 
+        "descriptor": "CDP", 
+        "name": "Milford "
+    }, 
+    "Concord ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3314200.html", 
+        "descriptor": "city", 
+        "name": "Concord "
+    }, 
+    "Londonderry ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3343140.html", 
+        "descriptor": "CDP", 
+        "name": "Londonderry "
+    }, 
+    "Laconia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3340180.html", 
+        "descriptor": "city", 
+        "name": "Laconia "
+    }, 
+    "Derry ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3317860.html", 
+        "descriptor": "CDP", 
+        "name": "Derry "
+    }, 
+    "Dover ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3318820.html", 
+        "descriptor": "city", 
+        "name": "Dover "
+    }, 
+    "Lebanon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3341300.html", 
+        "descriptor": "city", 
+        "name": "Lebanon "
+    }, 
+    "Durham ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3319620.html", 
+        "descriptor": "CDP", 
+        "name": "Durham "
+    }, 
+    "Berlin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3305140.html", 
+        "descriptor": "city", 
+        "name": "Berlin "
+    }, 
+    "Hanover ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3333780.html", 
+        "descriptor": "CDP", 
+        "name": "Hanover "
+    }, 
+    "South Hooksett ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3371220.html", 
+        "descriptor": "CDP", 
+        "name": "South Hooksett "
+    }, 
+    "Hudson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3337860.html", 
+        "descriptor": "CDP", 
+        "name": "Hudson "
+    }, 
+    "Hampton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3332980.html", 
+        "descriptor": "CDP", 
+        "name": "Hampton "
+    }, 
+    "Rochester ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3365140.html", 
+        "descriptor": "city", 
+        "name": "Rochester "
+    }, 
+    "Portsmouth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3362900.html", 
+        "descriptor": "city", 
+        "name": "Portsmouth "
+    }, 
+    "Manchester ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3345140.html", 
+        "descriptor": "city", 
+        "name": "Manchester "
+    }, 
+    "Nashua ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3350260.html", 
+        "descriptor": "city", 
+        "name": "Nashua "
+    }, 
+    "Exeter ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3325300.html", 
+        "descriptor": "CDP", 
+        "name": "Exeter "
+    }, 
+    "Keene ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3339300.html", 
+        "descriptor": "city", 
+        "name": "Keene "
+    }, 
+    "Suncook ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3375140.html", 
+        "descriptor": "CDP", 
+        "name": "Suncook "
+    }, 
+    "Franklin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/33/3327380.html", 
+        "descriptor": "city", 
+        "name": "Franklin "
+    }
+}

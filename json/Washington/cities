@@ -1,0 +1,952 @@
+{
+    "Redmond ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5357535.html", 
+        "descriptor": "city", 
+        "name": "Redmond "
+    }, 
+    "Clover Creek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5313215.html", 
+        "descriptor": "CDP", 
+        "name": "Clover Creek "
+    }, 
+    "Hazel Dell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5330305.html", 
+        "descriptor": "CDP", 
+        "name": "Hazel Dell "
+    }, 
+    "Port Angeles ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5355365.html", 
+        "descriptor": "city", 
+        "name": "Port Angeles "
+    }, 
+    "Burien ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5308850.html", 
+        "descriptor": "city", 
+        "name": "Burien "
+    }, 
+    "Newcastle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5348645.html", 
+        "descriptor": "city", 
+        "name": "Newcastle "
+    }, 
+    "Cottage Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5314940.html", 
+        "descriptor": "CDP", 
+        "name": "Cottage Lake "
+    }, 
+    "Sedro-Woolley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5363210.html", 
+        "descriptor": "city", 
+        "name": "Sedro-Woolley "
+    }, 
+    "Mill Creek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5345865.html", 
+        "descriptor": "city", 
+        "name": "Mill Creek "
+    }, 
+    "Sequim ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5363385.html", 
+        "descriptor": "city", 
+        "name": "Sequim "
+    }, 
+    "Elk Plain ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5321205.html", 
+        "descriptor": "CDP", 
+        "name": "Elk Plain "
+    }, 
+    "Lake Shore ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5337830.html", 
+        "descriptor": "CDP", 
+        "name": "Lake Shore "
+    }, 
+    "University Place ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5373465.html", 
+        "descriptor": "city", 
+        "name": "University Place "
+    }, 
+    "Klahanie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5336101.html", 
+        "descriptor": "CDP", 
+        "name": "Klahanie "
+    }, 
+    "Normandy Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5349415.html", 
+        "descriptor": "city", 
+        "name": "Normandy Park "
+    }, 
+    "Auburn ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5303180.html", 
+        "descriptor": "city", 
+        "name": "Auburn "
+    }, 
+    "Arlington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5302585.html", 
+        "descriptor": "city", 
+        "name": "Arlington "
+    }, 
+    "Grandview ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5327925.html", 
+        "descriptor": "city", 
+        "name": "Grandview "
+    }, 
+    "Woodinville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5379590.html", 
+        "descriptor": "city", 
+        "name": "Woodinville "
+    }, 
+    "Hoquiam ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5332300.html", 
+        "descriptor": "city", 
+        "name": "Hoquiam "
+    }, 
+    "Barberton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5304195.html", 
+        "descriptor": "CDP", 
+        "name": "Barberton "
+    }, 
+    "Finley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5323865.html", 
+        "descriptor": "CDP", 
+        "name": "Finley "
+    }, 
+    "Snohomish ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5365170.html", 
+        "descriptor": "city", 
+        "name": "Snohomish "
+    }, 
+    "Vancouver ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5374060.html", 
+        "descriptor": "city", 
+        "name": "Vancouver "
+    }, 
+    "Bryn Mawr-Skyway ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5308552.html", 
+        "descriptor": "CDP", 
+        "name": "Bryn Mawr-Skyway "
+    }, 
+    "Gig Harbor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5326735.html", 
+        "descriptor": "city", 
+        "name": "Gig Harbor "
+    }, 
+    "Enumclaw ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5322045.html", 
+        "descriptor": "city", 
+        "name": "Enumclaw "
+    }, 
+    "Fircrest ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5323970.html", 
+        "descriptor": "city", 
+        "name": "Fircrest "
+    }, 
+    "Ridgefield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5358410.html", 
+        "descriptor": "city", 
+        "name": "Ridgefield "
+    }, 
+    "Pacific ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5352495.html", 
+        "descriptor": "city", 
+        "name": "Pacific "
+    }, 
+    "Spanaway ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5366255.html", 
+        "descriptor": "CDP", 
+        "name": "Spanaway "
+    }, 
+    "Bremerton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5307695.html", 
+        "descriptor": "city", 
+        "name": "Bremerton "
+    }, 
+    "College Place ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5313855.html", 
+        "descriptor": "city", 
+        "name": "College Place "
+    }, 
+    "Tacoma ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5370000.html", 
+        "descriptor": "city", 
+        "name": "Tacoma "
+    }, 
+    "Sammamish ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5361115.html", 
+        "descriptor": "city", 
+        "name": "Sammamish "
+    }, 
+    "Bonney Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5307170.html", 
+        "descriptor": "city", 
+        "name": "Bonney Lake "
+    }, 
+    "Walla Walla ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5375775.html", 
+        "descriptor": "city", 
+        "name": "Walla Walla "
+    }, 
+    "Mercer Island ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5345005.html", 
+        "descriptor": "city", 
+        "name": "Mercer Island "
+    }, 
+    "Snoqualmie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5365205.html", 
+        "descriptor": "city", 
+        "name": "Snoqualmie "
+    }, 
+    "Shoreline ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5363960.html", 
+        "descriptor": "city", 
+        "name": "Shoreline "
+    }, 
+    "Lake Tapps ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5337920.html", 
+        "descriptor": "CDP", 
+        "name": "Lake Tapps "
+    }, 
+    "Sudden Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5368200.html", 
+        "descriptor": "CDP", 
+        "name": "Sudden Valley "
+    }, 
+    "Lynden ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5340805.html", 
+        "descriptor": "city", 
+        "name": "Lynden "
+    }, 
+    "Country Homes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5315150.html", 
+        "descriptor": "CDP", 
+        "name": "Country Homes "
+    }, 
+    "Manchester ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5342450.html", 
+        "descriptor": "CDP", 
+        "name": "Manchester "
+    }, 
+    "Fairwood (CDP ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5323165.html", 
+        "descriptor": "Spokane", 
+        "name": "Fairwood (CDP "
+    }, 
+    "Lakeland North ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5337420.html", 
+        "descriptor": "CDP", 
+        "name": "Lakeland North "
+    }, 
+    "Kent ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5335415.html", 
+        "descriptor": "city", 
+        "name": "Kent "
+    }, 
+    "Picnic Point ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5354213.html", 
+        "descriptor": "CDP", 
+        "name": "Picnic Point "
+    }, 
+    "Lakewood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5338038.html", 
+        "descriptor": "city", 
+        "name": "Lakewood "
+    }, 
+    "Burlington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5308920.html", 
+        "descriptor": "city", 
+        "name": "Burlington "
+    }, 
+    "Ocean Shores ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5350570.html", 
+        "descriptor": "city", 
+        "name": "Ocean Shores "
+    }, 
+    "Ellensburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5321240.html", 
+        "descriptor": "city", 
+        "name": "Ellensburg "
+    }, 
+    "Wapato ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5376125.html", 
+        "descriptor": "city", 
+        "name": "Wapato "
+    }, 
+    "Poulsbo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5355995.html", 
+        "descriptor": "city", 
+        "name": "Poulsbo "
+    }, 
+    "Kenmore ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5335170.html", 
+        "descriptor": "city", 
+        "name": "Kenmore "
+    }, 
+    "Pasco ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5353545.html", 
+        "descriptor": "city", 
+        "name": "Pasco "
+    }, 
+    "Moses Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5347245.html", 
+        "descriptor": "city", 
+        "name": "Moses Lake "
+    }, 
+    "Silverdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5364365.html", 
+        "descriptor": "CDP", 
+        "name": "Silverdale "
+    }, 
+    "Walnut Grove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5376055.html", 
+        "descriptor": "CDP", 
+        "name": "Walnut Grove "
+    }, 
+    "Felida ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5323550.html", 
+        "descriptor": "CDP", 
+        "name": "Felida "
+    }, 
+    "Maltby ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5342415.html", 
+        "descriptor": "CDP", 
+        "name": "Maltby "
+    }, 
+    "Fort Lewis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5324915.html", 
+        "descriptor": "CDP", 
+        "name": "Fort Lewis "
+    }, 
+    "Spokane ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5367000.html", 
+        "descriptor": "city", 
+        "name": "Spokane "
+    }, 
+    "Lynnwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5340840.html", 
+        "descriptor": "city", 
+        "name": "Lynnwood "
+    }, 
+    "Ferndale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5323620.html", 
+        "descriptor": "city", 
+        "name": "Ferndale "
+    }, 
+    "Edgewood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5320645.html", 
+        "descriptor": "city", 
+        "name": "Edgewood "
+    }, 
+    "Tumwater ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5372905.html", 
+        "descriptor": "city", 
+        "name": "Tumwater "
+    }, 
+    "Woods Creek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5379825.html", 
+        "descriptor": "CDP", 
+        "name": "Woods Creek "
+    }, 
+    "Camas ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5309480.html", 
+        "descriptor": "city", 
+        "name": "Camas "
+    }, 
+    "Woodland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5379625.html", 
+        "descriptor": "city", 
+        "name": "Woodland "
+    }, 
+    "Kelso ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5335065.html", 
+        "descriptor": "city", 
+        "name": "Kelso "
+    }, 
+    "Puyallup ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5356695.html", 
+        "descriptor": "city", 
+        "name": "Puyallup "
+    }, 
+    "Ephrata ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5322080.html", 
+        "descriptor": "city", 
+        "name": "Ephrata "
+    }, 
+    "Renton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5357745.html", 
+        "descriptor": "city", 
+        "name": "Renton "
+    }, 
+    "Mountlake Terrace ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5347490.html", 
+        "descriptor": "city", 
+        "name": "Mountlake Terrace "
+    }, 
+    "Alderwood Manor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5301185.html", 
+        "descriptor": "CDP", 
+        "name": "Alderwood Manor "
+    }, 
+    "Brier ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5307940.html", 
+        "descriptor": "city", 
+        "name": "Brier "
+    }, 
+    "Duvall ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5319035.html", 
+        "descriptor": "city", 
+        "name": "Duvall "
+    }, 
+    "Yelm ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5380220.html", 
+        "descriptor": "city", 
+        "name": "Yelm "
+    }, 
+    "Orchards ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5351795.html", 
+        "descriptor": "CDP", 
+        "name": "Orchards "
+    }, 
+    "Lake Forest Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5337270.html", 
+        "descriptor": "city", 
+        "name": "Lake Forest Park "
+    }, 
+    "Prairie Ridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5356170.html", 
+        "descriptor": "CDP", 
+        "name": "Prairie Ridge "
+    }, 
+    "Salmon Creek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5361000.html", 
+        "descriptor": "CDP", 
+        "name": "Salmon Creek "
+    }, 
+    "East Wenatchee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5320155.html", 
+        "descriptor": "city", 
+        "name": "East Wenatchee "
+    }, 
+    "Maple Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5343150.html", 
+        "descriptor": "city", 
+        "name": "Maple Valley "
+    }, 
+    "Fife ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5323795.html", 
+        "descriptor": "city", 
+        "name": "Fife "
+    }, 
+    "Vashon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5374305.html", 
+        "descriptor": "CDP", 
+        "name": "Vashon "
+    }, 
+    "East Port Orchard ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5319770.html", 
+        "descriptor": "CDP", 
+        "name": "East Port Orchard "
+    }, 
+    "Wollochet ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5379555.html", 
+        "descriptor": "CDP", 
+        "name": "Wollochet "
+    }, 
+    "Five Corners ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5324188.html", 
+        "descriptor": "CDP", 
+        "name": "Five Corners "
+    }, 
+    "Summit ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5368365.html", 
+        "descriptor": "CDP", 
+        "name": "Summit "
+    }, 
+    "West Richland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5377665.html", 
+        "descriptor": "city", 
+        "name": "West Richland "
+    }, 
+    "Shelton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5363735.html", 
+        "descriptor": "city", 
+        "name": "Shelton "
+    }, 
+    "Des Moines ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5317635.html", 
+        "descriptor": "city", 
+        "name": "Des Moines "
+    }, 
+    "Hobart ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5331495.html", 
+        "descriptor": "CDP", 
+        "name": "Hobart "
+    }, 
+    "DuPont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5318965.html", 
+        "descriptor": "city", 
+        "name": "DuPont "
+    }, 
+    "East Renton Highlands ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5319857.html", 
+        "descriptor": "CDP", 
+        "name": "East Renton Highlands "
+    }, 
+    "Yakima ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5380010.html", 
+        "descriptor": "city", 
+        "name": "Yakima "
+    }, 
+    "Silver Firs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5364380.html", 
+        "descriptor": "CDP", 
+        "name": "Silver Firs "
+    }, 
+    "Centralia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5311160.html", 
+        "descriptor": "city", 
+        "name": "Centralia "
+    }, 
+    "Clarkston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5312630.html", 
+        "descriptor": "city", 
+        "name": "Clarkston "
+    }, 
+    "Olympia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5351300.html", 
+        "descriptor": "city", 
+        "name": "Olympia "
+    }, 
+    "Martha Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5343815.html", 
+        "descriptor": "CDP", 
+        "name": "Martha Lake "
+    }, 
+    "Sumner ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5368435.html", 
+        "descriptor": "city", 
+        "name": "Sumner "
+    }, 
+    "Terrace Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5370805.html", 
+        "descriptor": "CDP", 
+        "name": "Terrace Heights "
+    }, 
+    "Airway Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5300905.html", 
+        "descriptor": "city", 
+        "name": "Airway Heights "
+    }, 
+    "Cheney ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5311825.html", 
+        "descriptor": "city", 
+        "name": "Cheney "
+    }, 
+    "Covington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5315290.html", 
+        "descriptor": "city", 
+        "name": "Covington "
+    }, 
+    "West Clarkston-Highland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5377297.html", 
+        "descriptor": "CDP", 
+        "name": "West Clarkston-Highland "
+    }, 
+    "Union Gap ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5373290.html", 
+        "descriptor": "city", 
+        "name": "Union Gap "
+    }, 
+    "Kennewick ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5335275.html", 
+        "descriptor": "city", 
+        "name": "Kennewick "
+    }, 
+    "Birch Bay ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5306190.html", 
+        "descriptor": "CDP", 
+        "name": "Birch Bay "
+    }, 
+    "Longview ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5340245.html", 
+        "descriptor": "city", 
+        "name": "Longview "
+    }, 
+    "Mukilteo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5347735.html", 
+        "descriptor": "city", 
+        "name": "Mukilteo "
+    }, 
+    "Graham ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5327785.html", 
+        "descriptor": "CDP", 
+        "name": "Graham "
+    }, 
+    "South Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5365922.html", 
+        "descriptor": "CDP", 
+        "name": "South Hill "
+    }, 
+    "Milton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5346020.html", 
+        "descriptor": "city", 
+        "name": "Milton "
+    }, 
+    "Chehalis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5311475.html", 
+        "descriptor": "city", 
+        "name": "Chehalis "
+    }, 
+    "Bellingham ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5305280.html", 
+        "descriptor": "city", 
+        "name": "Bellingham "
+    }, 
+    "Federal Way ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5323515.html", 
+        "descriptor": "city", 
+        "name": "Federal Way "
+    }, 
+    "Summit View ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5368410.html", 
+        "descriptor": "CDP", 
+        "name": "Summit View "
+    }, 
+    "SeaTac ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5362288.html", 
+        "descriptor": "city", 
+        "name": "SeaTac "
+    }, 
+    "Issaquah ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5333805.html", 
+        "descriptor": "city", 
+        "name": "Issaquah "
+    }, 
+    "Mount Vernon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5347560.html", 
+        "descriptor": "city", 
+        "name": "Mount Vernon "
+    }, 
+    "Boulevard Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5307397.html", 
+        "descriptor": "CDP", 
+        "name": "Boulevard Park "
+    }, 
+    "Bothell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5307380.html", 
+        "descriptor": "city", 
+        "name": "Bothell "
+    }, 
+    "Orting ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5352005.html", 
+        "descriptor": "city", 
+        "name": "Orting "
+    }, 
+    "Midland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5345495.html", 
+        "descriptor": "CDP", 
+        "name": "Midland "
+    }, 
+    "North Bend ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5349485.html", 
+        "descriptor": "city", 
+        "name": "North Bend "
+    }, 
+    "Everett ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5322640.html", 
+        "descriptor": "city", 
+        "name": "Everett "
+    }, 
+    "Anacortes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5301990.html", 
+        "descriptor": "city", 
+        "name": "Anacortes "
+    }, 
+    "Mill Creek East ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5345870.html", 
+        "descriptor": "CDP", 
+        "name": "Mill Creek East "
+    }, 
+    "Wenatchee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5377105.html", 
+        "descriptor": "city", 
+        "name": "Wenatchee "
+    }, 
+    "Liberty Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5339335.html", 
+        "descriptor": "city", 
+        "name": "Liberty Lake "
+    }, 
+    "West Side Highway ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5377745.html", 
+        "descriptor": "CDP", 
+        "name": "West Side Highway "
+    }, 
+    "Bangor Base ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5304100.html", 
+        "descriptor": "CDP", 
+        "name": "Bangor Base "
+    }, 
+    "Port Orchard ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5355785.html", 
+        "descriptor": "city", 
+        "name": "Port Orchard "
+    }, 
+    "Bothell East ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5307390.html", 
+        "descriptor": "CDP", 
+        "name": "Bothell East "
+    }, 
+    "Selah ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5363280.html", 
+        "descriptor": "city", 
+        "name": "Selah "
+    }, 
+    "Minnehaha ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5346125.html", 
+        "descriptor": "CDP", 
+        "name": "Minnehaha "
+    }, 
+    "Artondale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5302910.html", 
+        "descriptor": "CDP", 
+        "name": "Artondale "
+    }, 
+    "White Center ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5378225.html", 
+        "descriptor": "CDP", 
+        "name": "White Center "
+    }, 
+    "Port Townsend ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5355855.html", 
+        "descriptor": "city", 
+        "name": "Port Townsend "
+    }, 
+    "Frederickson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5325475.html", 
+        "descriptor": "CDP", 
+        "name": "Frederickson "
+    }, 
+    "Lakeland South ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5337430.html", 
+        "descriptor": "CDP", 
+        "name": "Lakeland South "
+    }, 
+    "Waller ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5375905.html", 
+        "descriptor": "CDP", 
+        "name": "Waller "
+    }, 
+    "Mead ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5344480.html", 
+        "descriptor": "CDP", 
+        "name": "Mead "
+    }, 
+    "Pullman ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5356625.html", 
+        "descriptor": "city", 
+        "name": "Pullman "
+    }, 
+    "Clarkston Heights-Vineland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5312680.html", 
+        "descriptor": "CDP", 
+        "name": "Clarkston Heights-Vineland "
+    }, 
+    "Kingsgate ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5335835.html", 
+        "descriptor": "CDP", 
+        "name": "Kingsgate "
+    }, 
+    "Toppenish ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5371960.html", 
+        "descriptor": "city", 
+        "name": "Toppenish "
+    }, 
+    "Battle Ground ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5304475.html", 
+        "descriptor": "city", 
+        "name": "Battle Ground "
+    }, 
+    "Stanwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5367455.html", 
+        "descriptor": "city", 
+        "name": "Stanwood "
+    }, 
+    "Riverton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5358865.html", 
+        "descriptor": "CDP", 
+        "name": "Riverton "
+    }, 
+    "Spokane Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5367167.html", 
+        "descriptor": "city", 
+        "name": "Spokane Valley "
+    }, 
+    "Bellevue ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5305210.html", 
+        "descriptor": "city", 
+        "name": "Bellevue "
+    }, 
+    "Maplewood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5343255.html", 
+        "descriptor": "CDP", 
+        "name": "Maplewood "
+    }, 
+    "Prosser ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5356450.html", 
+        "descriptor": "city", 
+        "name": "Prosser "
+    }, 
+    "Parkwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5353440.html", 
+        "descriptor": "CDP", 
+        "name": "Parkwood "
+    }, 
+    "Connell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5314485.html", 
+        "descriptor": "city", 
+        "name": "Connell "
+    }, 
+    "Marysville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5343955.html", 
+        "descriptor": "city", 
+        "name": "Marysville "
+    }, 
+    "Union Hill-Novelty Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5373307.html", 
+        "descriptor": "CDP", 
+        "name": "Union Hill-Novelty Hill "
+    }, 
+    "Bainbridge Island ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5303736.html", 
+        "descriptor": "city", 
+        "name": "Bainbridge Island "
+    }, 
+    "Otis Orchards-East Farms ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5352267.html", 
+        "descriptor": "CDP", 
+        "name": "Otis Orchards-East Farms "
+    }, 
+    "Parkland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5353335.html", 
+        "descriptor": "CDP", 
+        "name": "Parkland "
+    }, 
+    "Tukwila ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5372625.html", 
+        "descriptor": "city", 
+        "name": "Tukwila "
+    }, 
+    "Steilacoom ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5367770.html", 
+        "descriptor": "town", 
+        "name": "Steilacoom "
+    }, 
+    "Monroe ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5346685.html", 
+        "descriptor": "city", 
+        "name": "Monroe "
+    }, 
+    "Seattle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5363000.html", 
+        "descriptor": "city", 
+        "name": "Seattle "
+    }, 
+    "Inglewood-Finn Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5333380.html", 
+        "descriptor": "CDP", 
+        "name": "Inglewood-Finn Hill "
+    }, 
+    "Eastmont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5319630.html", 
+        "descriptor": "CDP", 
+        "name": "Eastmont "
+    }, 
+    "Oak Harbor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5350360.html", 
+        "descriptor": "city", 
+        "name": "Oak Harbor "
+    }, 
+    "Tanglewilde ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5370280.html", 
+        "descriptor": "CDP", 
+        "name": "Tanglewilde "
+    }, 
+    "Lake Morton-Berrydale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5337567.html", 
+        "descriptor": "CDP", 
+        "name": "Lake Morton-Berrydale "
+    }, 
+    "Lake Stevens ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5337900.html", 
+        "descriptor": "city", 
+        "name": "Lake Stevens "
+    }, 
+    "Lake Stickney ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5337917.html", 
+        "descriptor": "CDP", 
+        "name": "Lake Stickney "
+    }, 
+    "Lacey ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5336745.html", 
+        "descriptor": "city", 
+        "name": "Lacey "
+    }, 
+    "Kirkland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5335940.html", 
+        "descriptor": "city", 
+        "name": "Kirkland "
+    }, 
+    "Quincy ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5357115.html", 
+        "descriptor": "city", 
+        "name": "Quincy "
+    }, 
+    "Edmonds ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5320750.html", 
+        "descriptor": "city", 
+        "name": "Edmonds "
+    }, 
+    "Othello ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5352215.html", 
+        "descriptor": "city", 
+        "name": "Othello "
+    }, 
+    "Mount Vista ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5347630.html", 
+        "descriptor": "CDP", 
+        "name": "Mount Vista "
+    }, 
+    "Aberdeen ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5300100.html", 
+        "descriptor": "city", 
+        "name": "Aberdeen "
+    }, 
+    "North Lynnwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5349940.html", 
+        "descriptor": "CDP", 
+        "name": "North Lynnwood "
+    }, 
+    "Washougal ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5376405.html", 
+        "descriptor": "city", 
+        "name": "Washougal "
+    }, 
+    "Bothell West ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5307395.html", 
+        "descriptor": "CDP", 
+        "name": "Bothell West "
+    }, 
+    "Sunnyside ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5368750.html", 
+        "descriptor": "city", 
+        "name": "Sunnyside "
+    }, 
+    "Richland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5358235.html", 
+        "descriptor": "city", 
+        "name": "Richland "
+    }, 
+    "Tracyton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/53/5372205.html", 
+        "descriptor": "CDP", 
+        "name": "Tracyton "
+    }
+}

@@ -1,0 +1,532 @@
+{
+    "Lenoir City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4741760.html", 
+        "descriptor": "city", 
+        "name": "Lenoir City "
+    }, 
+    "Erwin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4724360.html", 
+        "descriptor": "town", 
+        "name": "Erwin "
+    }, 
+    "Atoka ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4702340.html", 
+        "descriptor": "town", 
+        "name": "Atoka "
+    }, 
+    "Jonesborough ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4738540.html", 
+        "descriptor": "town", 
+        "name": "Jonesborough "
+    }, 
+    "Arlington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4701740.html", 
+        "descriptor": "town", 
+        "name": "Arlington "
+    }, 
+    "Knoxville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4740000.html", 
+        "descriptor": "city", 
+        "name": "Knoxville "
+    }, 
+    "Bolivar ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4707180.html", 
+        "descriptor": "city", 
+        "name": "Bolivar "
+    }, 
+    "Munford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4751540.html", 
+        "descriptor": "city", 
+        "name": "Munford "
+    }, 
+    "Savannah ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4766720.html", 
+        "descriptor": "city", 
+        "name": "Savannah "
+    }, 
+    "Kingston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4739620.html", 
+        "descriptor": "city", 
+        "name": "Kingston "
+    }, 
+    "Goodlettsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4729920.html", 
+        "descriptor": "city", 
+        "name": "Goodlettsville "
+    }, 
+    "Kingsport ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4739560.html", 
+        "descriptor": "city", 
+        "name": "Kingsport "
+    }, 
+    "Spring Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4770580.html", 
+        "descriptor": "city", 
+        "name": "Spring Hill "
+    }, 
+    "Fairfield Glade ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4724980.html", 
+        "descriptor": "CDP", 
+        "name": "Fairfield Glade "
+    }, 
+    "Green Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4731100.html", 
+        "descriptor": "CDP", 
+        "name": "Green Hill "
+    }, 
+    "Springfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4770500.html", 
+        "descriptor": "city", 
+        "name": "Springfield "
+    }, 
+    "Memphis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4748000.html", 
+        "descriptor": "city", 
+        "name": "Memphis "
+    }, 
+    "Fairview ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4725440.html", 
+        "descriptor": "city", 
+        "name": "Fairview "
+    }, 
+    "Tellico Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4773270.html", 
+        "descriptor": "CDP", 
+        "name": "Tellico Village "
+    }, 
+    "Jackson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4737640.html", 
+        "descriptor": "city", 
+        "name": "Jackson "
+    }, 
+    "Morristown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4750280.html", 
+        "descriptor": "city", 
+        "name": "Morristown "
+    }, 
+    "Dyersburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4722200.html", 
+        "descriptor": "city", 
+        "name": "Dyersburg "
+    }, 
+    "McKenzie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4744940.html", 
+        "descriptor": "city", 
+        "name": "McKenzie "
+    }, 
+    "Nolensville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4753460.html", 
+        "descriptor": "town", 
+        "name": "Nolensville "
+    }, 
+    "Red Bank ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4761960.html", 
+        "descriptor": "city", 
+        "name": "Red Bank "
+    }, 
+    "Portland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4760280.html", 
+        "descriptor": "city", 
+        "name": "Portland "
+    }, 
+    "Mount Juliet ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4750780.html", 
+        "descriptor": "city", 
+        "name": "Mount Juliet "
+    }, 
+    "Greenbrier ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4730960.html", 
+        "descriptor": "town", 
+        "name": "Greenbrier "
+    }, 
+    "Harriman ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4732520.html", 
+        "descriptor": "city", 
+        "name": "Harriman "
+    }, 
+    "Crossville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4718540.html", 
+        "descriptor": "city", 
+        "name": "Crossville "
+    }, 
+    "Paris ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4756720.html", 
+        "descriptor": "city", 
+        "name": "Paris "
+    }, 
+    "Smyrna ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4769420.html", 
+        "descriptor": "town", 
+        "name": "Smyrna "
+    }, 
+    "Pulaski ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4761040.html", 
+        "descriptor": "city", 
+        "name": "Pulaski "
+    }, 
+    "Humboldt ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4736460.html", 
+        "descriptor": "city", 
+        "name": "Humboldt "
+    }, 
+    "La Vergne ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4741200.html", 
+        "descriptor": "city", 
+        "name": "La Vergne "
+    }, 
+    "La Follette ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4740180.html", 
+        "descriptor": "city", 
+        "name": "La Follette "
+    }, 
+    "South Cleveland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4769740.html", 
+        "descriptor": "CDP", 
+        "name": "South Cleveland "
+    }, 
+    "Hendersonville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4733280.html", 
+        "descriptor": "city", 
+        "name": "Hendersonville "
+    }, 
+    "Oak Ridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4755120.html", 
+        "descriptor": "city", 
+        "name": "Oak Ridge "
+    }, 
+    "McMinnville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4745100.html", 
+        "descriptor": "city", 
+        "name": "McMinnville "
+    }, 
+    "White House ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4780200.html", 
+        "descriptor": "city", 
+        "name": "White House "
+    }, 
+    "Manchester ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4745500.html", 
+        "descriptor": "city", 
+        "name": "Manchester "
+    }, 
+    "Elizabethton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4723500.html", 
+        "descriptor": "city", 
+        "name": "Elizabethton "
+    }, 
+    "Oakland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4754920.html", 
+        "descriptor": "town", 
+        "name": "Oakland "
+    }, 
+    "Dunlap ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4722000.html", 
+        "descriptor": "city", 
+        "name": "Dunlap "
+    }, 
+    "Collegedale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4716300.html", 
+        "descriptor": "city", 
+        "name": "Collegedale "
+    }, 
+    "Signal Mountain ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4768540.html", 
+        "descriptor": "town", 
+        "name": "Signal Mountain "
+    }, 
+    "Millersville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4748980.html", 
+        "descriptor": "city", 
+        "name": "Millersville "
+    }, 
+    "Jefferson City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4737960.html", 
+        "descriptor": "city", 
+        "name": "Jefferson City "
+    }, 
+    "Johnson City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4738320.html", 
+        "descriptor": "city", 
+        "name": "Johnson City "
+    }, 
+    "Bloomingdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4706640.html", 
+        "descriptor": "CDP", 
+        "name": "Bloomingdale "
+    }, 
+    "Cookeville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4716920.html", 
+        "descriptor": "city", 
+        "name": "Cookeville "
+    }, 
+    "Dickson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4720620.html", 
+        "descriptor": "city", 
+        "name": "Dickson "
+    }, 
+    "Pigeon Forge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4758080.html", 
+        "descriptor": "city", 
+        "name": "Pigeon Forge "
+    }, 
+    "Greeneville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4730980.html", 
+        "descriptor": "town", 
+        "name": "Greeneville "
+    }, 
+    "Milan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4748660.html", 
+        "descriptor": "city", 
+        "name": "Milan "
+    }, 
+    "Germantown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4728960.html", 
+        "descriptor": "city", 
+        "name": "Germantown "
+    }, 
+    "East Ridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4722720.html", 
+        "descriptor": "city", 
+        "name": "East Ridge "
+    }, 
+    "Union City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4775940.html", 
+        "descriptor": "city", 
+        "name": "Union City "
+    }, 
+    "Sevierville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4767120.html", 
+        "descriptor": "city", 
+        "name": "Sevierville "
+    }, 
+    "Rockwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4764440.html", 
+        "descriptor": "city", 
+        "name": "Rockwood "
+    }, 
+    "Lebanon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4741520.html", 
+        "descriptor": "city", 
+        "name": "Lebanon "
+    }, 
+    "Brentwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4708280.html", 
+        "descriptor": "city", 
+        "name": "Brentwood "
+    }, 
+    "Church Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4714980.html", 
+        "descriptor": "city", 
+        "name": "Church Hill "
+    }, 
+    "Shelbyville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4767760.html", 
+        "descriptor": "city", 
+        "name": "Shelbyville "
+    }, 
+    "Colonial Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4716500.html", 
+        "descriptor": "CDP", 
+        "name": "Colonial Heights "
+    }, 
+    "Covington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4717680.html", 
+        "descriptor": "city", 
+        "name": "Covington "
+    }, 
+    "Clinton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4715580.html", 
+        "descriptor": "city", 
+        "name": "Clinton "
+    }, 
+    "Millington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4749060.html", 
+        "descriptor": "city", 
+        "name": "Millington "
+    }, 
+    "Athens ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4702320.html", 
+        "descriptor": "city", 
+        "name": "Athens "
+    }, 
+    "Seymour ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4767200.html", 
+        "descriptor": "CDP", 
+        "name": "Seymour "
+    }, 
+    "Lawrenceburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4741340.html", 
+        "descriptor": "city", 
+        "name": "Lawrenceburg "
+    }, 
+    "Winchester ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4781080.html", 
+        "descriptor": "city", 
+        "name": "Winchester "
+    }, 
+    "Farragut ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4725760.html", 
+        "descriptor": "town", 
+        "name": "Farragut "
+    }, 
+    "Murfreesboro ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4751560.html", 
+        "descriptor": "city", 
+        "name": "Murfreesboro "
+    }, 
+    "Collierville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4716420.html", 
+        "descriptor": "town", 
+        "name": "Collierville "
+    }, 
+    "Lakeland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4740350.html", 
+        "descriptor": "city", 
+        "name": "Lakeland "
+    }, 
+    "Franklin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4727740.html", 
+        "descriptor": "city", 
+        "name": "Franklin "
+    }, 
+    "Dayton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4719700.html", 
+        "descriptor": "city", 
+        "name": "Dayton "
+    }, 
+    "Middle Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4748360.html", 
+        "descriptor": "CDP", 
+        "name": "Middle Valley "
+    }, 
+    "Maryville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4746380.html", 
+        "descriptor": "city", 
+        "name": "Maryville "
+    }, 
+    "Newport ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4753000.html", 
+        "descriptor": "city", 
+        "name": "Newport "
+    }, 
+    "Mount Carmel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4750580.html", 
+        "descriptor": "town", 
+        "name": "Mount Carmel "
+    }, 
+    "Brownsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4708920.html", 
+        "descriptor": "city", 
+        "name": "Brownsville "
+    }, 
+    "Martin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4746240.html", 
+        "descriptor": "city", 
+        "name": "Martin "
+    }, 
+    "Ripley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4763340.html", 
+        "descriptor": "city", 
+        "name": "Ripley "
+    }, 
+    "Nashville-Davidson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4752006.html", 
+        "descriptor": "balance", 
+        "name": "Nashville-Davidson "
+    }, 
+    "Bristol ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4708540.html", 
+        "descriptor": "city", 
+        "name": "Bristol "
+    }, 
+    "Columbia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4716540.html", 
+        "descriptor": "city", 
+        "name": "Columbia "
+    }, 
+    "Fayetteville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4725920.html", 
+        "descriptor": "city", 
+        "name": "Fayetteville "
+    }, 
+    "Loudon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4743780.html", 
+        "descriptor": "town", 
+        "name": "Loudon "
+    }, 
+    "Chattanooga ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4714000.html", 
+        "descriptor": "city", 
+        "name": "Chattanooga "
+    }, 
+    "Bartlett ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4703440.html", 
+        "descriptor": "city", 
+        "name": "Bartlett "
+    }, 
+    "Eagleton Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4722340.html", 
+        "descriptor": "CDP", 
+        "name": "Eagleton Village "
+    }, 
+    "Clarksville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4715160.html", 
+        "descriptor": "city", 
+        "name": "Clarksville "
+    }, 
+    "Soddy-Daisy ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4769560.html", 
+        "descriptor": "city", 
+        "name": "Soddy-Daisy "
+    }, 
+    "Sweetwater ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4772540.html", 
+        "descriptor": "city", 
+        "name": "Sweetwater "
+    }, 
+    "Gallatin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4728540.html", 
+        "descriptor": "city", 
+        "name": "Gallatin "
+    }, 
+    "Alcoa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4700540.html", 
+        "descriptor": "city", 
+        "name": "Alcoa "
+    }, 
+    "Cleveland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4715400.html", 
+        "descriptor": "city", 
+        "name": "Cleveland "
+    }, 
+    "Harrison ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4732600.html", 
+        "descriptor": "CDP", 
+        "name": "Harrison "
+    }, 
+    "Lewisburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4741860.html", 
+        "descriptor": "city", 
+        "name": "Lewisburg "
+    }, 
+    "Sparta ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4770180.html", 
+        "descriptor": "city", 
+        "name": "Sparta "
+    }, 
+    "Lexington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4741980.html", 
+        "descriptor": "city", 
+        "name": "Lexington "
+    }, 
+    "Tullahoma ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4775320.html", 
+        "descriptor": "city", 
+        "name": "Tullahoma "
+    }, 
+    "Henderson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/47/4733260.html", 
+        "descriptor": "city", 
+        "name": "Henderson "
+    }
+}

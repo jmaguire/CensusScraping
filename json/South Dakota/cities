@@ -1,0 +1,87 @@
+{
+    "Brookings ": {
+        "url": "http://quickfacts.census.gov/qfd/states/46/4607580.html", 
+        "descriptor": "city", 
+        "name": "Brookings "
+    }, 
+    "Vermillion ": {
+        "url": "http://quickfacts.census.gov/qfd/states/46/4666700.html", 
+        "descriptor": "city", 
+        "name": "Vermillion "
+    }, 
+    "Pierre ": {
+        "url": "http://quickfacts.census.gov/qfd/states/46/4649600.html", 
+        "descriptor": "city", 
+        "name": "Pierre "
+    }, 
+    "Madison ": {
+        "url": "http://quickfacts.census.gov/qfd/states/46/4640220.html", 
+        "descriptor": "city", 
+        "name": "Madison "
+    }, 
+    "Spearfish ": {
+        "url": "http://quickfacts.census.gov/qfd/states/46/4660020.html", 
+        "descriptor": "city", 
+        "name": "Spearfish "
+    }, 
+    "Belle Fourche ": {
+        "url": "http://quickfacts.census.gov/qfd/states/46/4604380.html", 
+        "descriptor": "city", 
+        "name": "Belle Fourche "
+    }, 
+    "Watertown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/46/4669300.html", 
+        "descriptor": "city", 
+        "name": "Watertown "
+    }, 
+    "Rapid Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/46/4653007.html", 
+        "descriptor": "CDP", 
+        "name": "Rapid Valley "
+    }, 
+    "Yankton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/46/4673060.html", 
+        "descriptor": "city", 
+        "name": "Yankton "
+    }, 
+    "Box Elder ": {
+        "url": "http://quickfacts.census.gov/qfd/states/46/4606620.html", 
+        "descriptor": "city", 
+        "name": "Box Elder "
+    }, 
+    "Brandon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/46/4606840.html", 
+        "descriptor": "city", 
+        "name": "Brandon "
+    }, 
+    "Sioux Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/46/4659020.html", 
+        "descriptor": "city", 
+        "name": "Sioux Falls "
+    }, 
+    "Aberdeen ": {
+        "url": "http://quickfacts.census.gov/qfd/states/46/4600100.html", 
+        "descriptor": "city", 
+        "name": "Aberdeen "
+    }, 
+    "Sturgis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/46/4662100.html", 
+        "descriptor": "city", 
+        "name": "Sturgis "
+    }, 
+    "Rapid City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/46/4652980.html", 
+        "descriptor": "city", 
+        "name": "Rapid City "
+    }, 
+    "Huron ": {
+        "url": "http://quickfacts.census.gov/qfd/states/46/4631060.html", 
+        "descriptor": "city", 
+        "name": "Huron "
+    }, 
+    "Mitchell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/46/4643100.html", 
+        "descriptor": "city", 
+        "name": "Mitchell "
+    }
+}

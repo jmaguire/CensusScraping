@@ -1,0 +1,167 @@
+{
+    "Dayton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3217500.html", 
+        "descriptor": "CDP", 
+        "name": "Dayton "
+    }, 
+    "Incline Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3235100.html", 
+        "descriptor": "CDP", 
+        "name": "Incline Village "
+    }, 
+    "Winnemucca ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3284800.html", 
+        "descriptor": "city", 
+        "name": "Winnemucca "
+    }, 
+    "Laughlin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3241000.html", 
+        "descriptor": "CDP", 
+        "name": "Laughlin "
+    }, 
+    "Winchester ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3284600.html", 
+        "descriptor": "CDP", 
+        "name": "Winchester "
+    }, 
+    "Johnson Lane ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3237190.html", 
+        "descriptor": "CDP", 
+        "name": "Johnson Lane "
+    }, 
+    "Spanish Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3268350.html", 
+        "descriptor": "CDP", 
+        "name": "Spanish Springs "
+    }, 
+    "Reno ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3260600.html", 
+        "descriptor": "city", 
+        "name": "Reno "
+    }, 
+    "North Las Vegas ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3251800.html", 
+        "descriptor": "city", 
+        "name": "North Las Vegas "
+    }, 
+    "Mesquite ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3246000.html", 
+        "descriptor": "city", 
+        "name": "Mesquite "
+    }, 
+    "Gardnerville Ranchos ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3226500.html", 
+        "descriptor": "CDP", 
+        "name": "Gardnerville Ranchos "
+    }, 
+    "Indian Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3235275.html", 
+        "descriptor": "CDP", 
+        "name": "Indian Hills "
+    }, 
+    "Gardnerville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3226300.html", 
+        "descriptor": "CDP", 
+        "name": "Gardnerville "
+    }, 
+    "Paradise ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3254600.html", 
+        "descriptor": "CDP", 
+        "name": "Paradise "
+    }, 
+    "Sun Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3271600.html", 
+        "descriptor": "CDP", 
+        "name": "Sun Valley "
+    }, 
+    "Pahrump ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3253800.html", 
+        "descriptor": "CDP", 
+        "name": "Pahrump "
+    }, 
+    "Whitney ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3283800.html", 
+        "descriptor": "CDP", 
+        "name": "Whitney "
+    }, 
+    "Fernley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3224900.html", 
+        "descriptor": "city", 
+        "name": "Fernley "
+    }, 
+    "Fallon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3224100.html", 
+        "descriptor": "city", 
+        "name": "Fallon "
+    }, 
+    "Las Vegas ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3240000.html", 
+        "descriptor": "city", 
+        "name": "Las Vegas "
+    }, 
+    "Moapa Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3247880.html", 
+        "descriptor": "CDP", 
+        "name": "Moapa Valley "
+    }, 
+    "Sunrise Manor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3271400.html", 
+        "descriptor": "CDP", 
+        "name": "Sunrise Manor "
+    }, 
+    "Sparks ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3268400.html", 
+        "descriptor": "city", 
+        "name": "Sparks "
+    }, 
+    "Summerlin South ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3270900.html", 
+        "descriptor": "CDP", 
+        "name": "Summerlin South "
+    }, 
+    "Spring Creek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3268550.html", 
+        "descriptor": "CDP", 
+        "name": "Spring Creek "
+    }, 
+    "Boulder City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3206500.html", 
+        "descriptor": "city", 
+        "name": "Boulder City "
+    }, 
+    "Elko ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3222500.html", 
+        "descriptor": "city", 
+        "name": "Elko "
+    }, 
+    "Silver Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3267200.html", 
+        "descriptor": "CDP", 
+        "name": "Silver Springs "
+    }, 
+    "Henderson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3231900.html", 
+        "descriptor": "city", 
+        "name": "Henderson "
+    }, 
+    "Cold Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3214090.html", 
+        "descriptor": "CDP", 
+        "name": "Cold Springs "
+    }, 
+    "Lemmon Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3241800.html", 
+        "descriptor": "CDP", 
+        "name": "Lemmon Valley "
+    }, 
+    "Enterprise ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3223770.html", 
+        "descriptor": "CDP", 
+        "name": "Enterprise "
+    }, 
+    "Spring Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/32/3268585.html", 
+        "descriptor": "CDP", 
+        "name": "Spring Valley "
+    }
+}

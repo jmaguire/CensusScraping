@@ -1,0 +1,3217 @@
+{
+    "Inglewood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0636546.html", 
+        "descriptor": "city", 
+        "name": "Inglewood "
+    }, 
+    "West Puente Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0684774.html", 
+        "descriptor": "CDP", 
+        "name": "West Puente Valley "
+    }, 
+    "Oildale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0653448.html", 
+        "descriptor": "CDP", 
+        "name": "Oildale "
+    }, 
+    "Commerce ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0614974.html", 
+        "descriptor": "city", 
+        "name": "Commerce "
+    }, 
+    "Menlo Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0646870.html", 
+        "descriptor": "city", 
+        "name": "Menlo Park "
+    }, 
+    "View Park-Windsor Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0682667.html", 
+        "descriptor": "CDP", 
+        "name": "View Park-Windsor Hills "
+    }, 
+    "Santa Ana ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0669000.html", 
+        "descriptor": "city", 
+        "name": "Santa Ana "
+    }, 
+    "Long Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0643000.html", 
+        "descriptor": "city", 
+        "name": "Long Beach "
+    }, 
+    "Norco ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0651560.html", 
+        "descriptor": "city", 
+        "name": "Norco "
+    }, 
+    "Tehachapi ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0678092.html", 
+        "descriptor": "city", 
+        "name": "Tehachapi "
+    }, 
+    "East San Gabriel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0621096.html", 
+        "descriptor": "CDP", 
+        "name": "East San Gabriel "
+    }, 
+    "La Canada Flintridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639003.html", 
+        "descriptor": "city", 
+        "name": "La Canada Flintridge "
+    }, 
+    "Artesia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0602896.html", 
+        "descriptor": "city", 
+        "name": "Artesia "
+    }, 
+    "Victorville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0682590.html", 
+        "descriptor": "city", 
+        "name": "Victorville "
+    }, 
+    "Orosi ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0654372.html", 
+        "descriptor": "CDP", 
+        "name": "Orosi "
+    }, 
+    "Redondo Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0660018.html", 
+        "descriptor": "city", 
+        "name": "Redondo Beach "
+    }, 
+    "Mammoth Lakes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0645358.html", 
+        "descriptor": "town", 
+        "name": "Mammoth Lakes "
+    }, 
+    "Pasadena ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0656000.html", 
+        "descriptor": "city", 
+        "name": "Pasadena "
+    }, 
+    "South San Jose Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0673290.html", 
+        "descriptor": "CDP", 
+        "name": "South San Jose Hills "
+    }, 
+    "Hawaiian Gardens ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0632506.html", 
+        "descriptor": "city", 
+        "name": "Hawaiian Gardens "
+    }, 
+    "Reedley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0660242.html", 
+        "descriptor": "city", 
+        "name": "Reedley "
+    }, 
+    "Dana Point ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0617946.html", 
+        "descriptor": "city", 
+        "name": "Dana Point "
+    }, 
+    "Avenal ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0603302.html", 
+        "descriptor": "city", 
+        "name": "Avenal "
+    }, 
+    "Alpine ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0601192.html", 
+        "descriptor": "CDP", 
+        "name": "Alpine "
+    }, 
+    "Sun Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0677308.html", 
+        "descriptor": "CDP", 
+        "name": "Sun Village "
+    }, 
+    "Muscoy ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0650132.html", 
+        "descriptor": "CDP", 
+        "name": "Muscoy "
+    }, 
+    "Durham ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0620270.html", 
+        "descriptor": "CDP", 
+        "name": "Durham "
+    }, 
+    "Monterey ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0648872.html", 
+        "descriptor": "city", 
+        "name": "Monterey "
+    }, 
+    "Oroville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0654386.html", 
+        "descriptor": "city", 
+        "name": "Oroville "
+    }, 
+    "Berkeley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0606000.html", 
+        "descriptor": "city", 
+        "name": "Berkeley "
+    }, 
+    "Thousand Oaks ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0678582.html", 
+        "descriptor": "city", 
+        "name": "Thousand Oaks "
+    }, 
+    "Livingston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0642006.html", 
+        "descriptor": "city", 
+        "name": "Livingston "
+    }, 
+    "Rodeo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0662490.html", 
+        "descriptor": "CDP", 
+        "name": "Rodeo "
+    }, 
+    "Carson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0611530.html", 
+        "descriptor": "city", 
+        "name": "Carson "
+    }, 
+    "Cerritos ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0612552.html", 
+        "descriptor": "city", 
+        "name": "Cerritos "
+    }, 
+    "Adelanto ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0600296.html", 
+        "descriptor": "city", 
+        "name": "Adelanto "
+    }, 
+    "Gonzales ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0630392.html", 
+        "descriptor": "city", 
+        "name": "Gonzales "
+    }, 
+    "Rancho Murieta ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0659506.html", 
+        "descriptor": "CDP", 
+        "name": "Rancho Murieta "
+    }, 
+    "Canyon Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0610928.html", 
+        "descriptor": "city", 
+        "name": "Canyon Lake "
+    }, 
+    "Santa Paula ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0670042.html", 
+        "descriptor": "city", 
+        "name": "Santa Paula "
+    }, 
+    "Sunnyvale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0677000.html", 
+        "descriptor": "city", 
+        "name": "Sunnyvale "
+    }, 
+    "Hemet ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0633182.html", 
+        "descriptor": "city", 
+        "name": "Hemet "
+    }, 
+    "Ojai ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0653476.html", 
+        "descriptor": "city", 
+        "name": "Ojai "
+    }, 
+    "Imperial ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0636280.html", 
+        "descriptor": "city", 
+        "name": "Imperial "
+    }, 
+    "Castro Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0611964.html", 
+        "descriptor": "CDP", 
+        "name": "Castro Valley "
+    }, 
+    "Fountain Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0625380.html", 
+        "descriptor": "city", 
+        "name": "Fountain Valley "
+    }, 
+    "Pinole ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0657288.html", 
+        "descriptor": "city", 
+        "name": "Pinole "
+    }, 
+    "Aptos ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0602378.html", 
+        "descriptor": "CDP", 
+        "name": "Aptos "
+    }, 
+    "Phelan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0656826.html", 
+        "descriptor": "CDP", 
+        "name": "Phelan "
+    }, 
+    "Highland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0633588.html", 
+        "descriptor": "city", 
+        "name": "Highland "
+    }, 
+    "Stevenson Ranch ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0674130.html", 
+        "descriptor": "CDP", 
+        "name": "Stevenson Ranch "
+    }, 
+    "Piedmont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0656938.html", 
+        "descriptor": "city", 
+        "name": "Piedmont "
+    }, 
+    "Madera ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0645022.html", 
+        "descriptor": "city", 
+        "name": "Madera "
+    }, 
+    "Pinon Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0657302.html", 
+        "descriptor": "CDP", 
+        "name": "Pinon Hills "
+    }, 
+    "Costa Mesa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0616532.html", 
+        "descriptor": "city", 
+        "name": "Costa Mesa "
+    }, 
+    "Fort Irwin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0625114.html", 
+        "descriptor": "CDP", 
+        "name": "Fort Irwin "
+    }, 
+    "Mendota ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0646828.html", 
+        "descriptor": "city", 
+        "name": "Mendota "
+    }, 
+    "Half Moon Bay ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0631708.html", 
+        "descriptor": "city", 
+        "name": "Half Moon Bay "
+    }, 
+    "Pleasant Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0657764.html", 
+        "descriptor": "city", 
+        "name": "Pleasant Hill "
+    }, 
+    "Barstow ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0604030.html", 
+        "descriptor": "city", 
+        "name": "Barstow "
+    }, 
+    "Danville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0617988.html", 
+        "descriptor": "town", 
+        "name": "Danville "
+    }, 
+    "La Palma ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0640256.html", 
+        "descriptor": "city", 
+        "name": "La Palma "
+    }, 
+    "Buena Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0608786.html", 
+        "descriptor": "city", 
+        "name": "Buena Park "
+    }, 
+    "Capitola ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0611040.html", 
+        "descriptor": "city", 
+        "name": "Capitola "
+    }, 
+    "Pedley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0656350.html", 
+        "descriptor": "CDP", 
+        "name": "Pedley "
+    }, 
+    "Hanford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0631960.html", 
+        "descriptor": "city", 
+        "name": "Hanford "
+    }, 
+    "Oasis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0653224.html", 
+        "descriptor": "CDP", 
+        "name": "Oasis "
+    }, 
+    "Dinuba ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0619318.html", 
+        "descriptor": "city", 
+        "name": "Dinuba "
+    }, 
+    "Holtville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0634246.html", 
+        "descriptor": "city", 
+        "name": "Holtville "
+    }, 
+    "Ladera Ranch ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639114.html", 
+        "descriptor": "CDP", 
+        "name": "Ladera Ranch "
+    }, 
+    "Santa Maria ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0669196.html", 
+        "descriptor": "city", 
+        "name": "Santa Maria "
+    }, 
+    "Sierra Madre ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0671806.html", 
+        "descriptor": "city", 
+        "name": "Sierra Madre "
+    }, 
+    "Isla Vista ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0636868.html", 
+        "descriptor": "CDP", 
+        "name": "Isla Vista "
+    }, 
+    "Huntington Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0636000.html", 
+        "descriptor": "city", 
+        "name": "Huntington Beach "
+    }, 
+    "Milpitas ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0647766.html", 
+        "descriptor": "city", 
+        "name": "Milpitas "
+    }, 
+    "Gustine ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0631568.html", 
+        "descriptor": "city", 
+        "name": "Gustine "
+    }, 
+    "Culver City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0617568.html", 
+        "descriptor": "city", 
+        "name": "Culver City "
+    }, 
+    "American Canyon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0601640.html", 
+        "descriptor": "city", 
+        "name": "American Canyon "
+    }, 
+    "Huron ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0636084.html", 
+        "descriptor": "city", 
+        "name": "Huron "
+    }, 
+    "Cherryland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0612902.html", 
+        "descriptor": "CDP", 
+        "name": "Cherryland "
+    }, 
+    "La Habra Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639304.html", 
+        "descriptor": "city", 
+        "name": "La Habra Heights "
+    }, 
+    "Pacific Grove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0654848.html", 
+        "descriptor": "city", 
+        "name": "Pacific Grove "
+    }, 
+    "Manteca ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0645484.html", 
+        "descriptor": "city", 
+        "name": "Manteca "
+    }, 
+    "Rancho Palos Verdes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0659514.html", 
+        "descriptor": "city", 
+        "name": "Rancho Palos Verdes "
+    }, 
+    "Rocklin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0662364.html", 
+        "descriptor": "city", 
+        "name": "Rocklin "
+    }, 
+    "Pollock Pines ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0658030.html", 
+        "descriptor": "CDP", 
+        "name": "Pollock Pines "
+    }, 
+    "Orange ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0653980.html", 
+        "descriptor": "city", 
+        "name": "Orange "
+    }, 
+    "Cathedral City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0612048.html", 
+        "descriptor": "city", 
+        "name": "Cathedral City "
+    }, 
+    "Cambria ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0610074.html", 
+        "descriptor": "CDP", 
+        "name": "Cambria "
+    }, 
+    "Villa Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0682744.html", 
+        "descriptor": "city", 
+        "name": "Villa Park "
+    }, 
+    "Rubidoux ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0663260.html", 
+        "descriptor": "CDP", 
+        "name": "Rubidoux "
+    }, 
+    "Valley Center ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0681736.html", 
+        "descriptor": "CDP", 
+        "name": "Valley Center "
+    }, 
+    "Vincent ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0682815.html", 
+        "descriptor": "CDP", 
+        "name": "Vincent "
+    }, 
+    "Yreka ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0686944.html", 
+        "descriptor": "city", 
+        "name": "Yreka "
+    }, 
+    "Ladera Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639108.html", 
+        "descriptor": "CDP", 
+        "name": "Ladera Heights "
+    }, 
+    "Orland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0654274.html", 
+        "descriptor": "city", 
+        "name": "Orland "
+    }, 
+    "Stanford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0673906.html", 
+        "descriptor": "CDP", 
+        "name": "Stanford "
+    }, 
+    "Grand Terrace ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0630658.html", 
+        "descriptor": "city", 
+        "name": "Grand Terrace "
+    }, 
+    "Santa Monica ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0670000.html", 
+        "descriptor": "city", 
+        "name": "Santa Monica "
+    }, 
+    "Crescent City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0617022.html", 
+        "descriptor": "city", 
+        "name": "Crescent City "
+    }, 
+    "Visalia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0682954.html", 
+        "descriptor": "city", 
+        "name": "Visalia "
+    }, 
+    "Oak Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0652760.html", 
+        "descriptor": "CDP", 
+        "name": "Oak Hills "
+    }, 
+    "El Cerrito ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0621796.html", 
+        "descriptor": "city", 
+        "name": "El Cerrito "
+    }, 
+    "Union City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0681204.html", 
+        "descriptor": "city", 
+        "name": "Union City "
+    }, 
+    "El Sobrante (CDP ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0622457.html", 
+        "descriptor": "Riverside", 
+        "name": "El Sobrante (CDP "
+    }, 
+    "Irvine ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0636770.html", 
+        "descriptor": "city", 
+        "name": "Irvine "
+    }, 
+    "Camarillo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0610046.html", 
+        "descriptor": "city", 
+        "name": "Camarillo "
+    }, 
+    "Simi Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0672016.html", 
+        "descriptor": "city", 
+        "name": "Simi Valley "
+    }, 
+    "North Fair Oaks ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0651840.html", 
+        "descriptor": "CDP", 
+        "name": "North Fair Oaks "
+    }, 
+    "Colton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0614890.html", 
+        "descriptor": "city", 
+        "name": "Colton "
+    }, 
+    "Selma ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0670882.html", 
+        "descriptor": "city", 
+        "name": "Selma "
+    }, 
+    "Rossmoor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0663050.html", 
+        "descriptor": "CDP", 
+        "name": "Rossmoor "
+    }, 
+    "Redlands ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0659962.html", 
+        "descriptor": "city", 
+        "name": "Redlands "
+    }, 
+    "West Carson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0684144.html", 
+        "descriptor": "CDP", 
+        "name": "West Carson "
+    }, 
+    "Lawndale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0640886.html", 
+        "descriptor": "city", 
+        "name": "Lawndale "
+    }, 
+    "West Whittier-Los Nietos ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0684921.html", 
+        "descriptor": "CDP", 
+        "name": "West Whittier-Los Nietos "
+    }, 
+    "Pittsburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0657456.html", 
+        "descriptor": "city", 
+        "name": "Pittsburg "
+    }, 
+    "Lemon Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0641142.html", 
+        "descriptor": "CDP", 
+        "name": "Lemon Hill "
+    }, 
+    "Oakley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0653070.html", 
+        "descriptor": "city", 
+        "name": "Oakley "
+    }, 
+    "Lemon Grove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0641124.html", 
+        "descriptor": "city", 
+        "name": "Lemon Grove "
+    }, 
+    "Dublin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0620018.html", 
+        "descriptor": "city", 
+        "name": "Dublin "
+    }, 
+    "South El Monte ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0672996.html", 
+        "descriptor": "city", 
+        "name": "South El Monte "
+    }, 
+    "Scotts Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0670588.html", 
+        "descriptor": "city", 
+        "name": "Scotts Valley "
+    }, 
+    "Eucalyptus Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0623000.html", 
+        "descriptor": "CDP", 
+        "name": "Eucalyptus Hills "
+    }, 
+    "San Jacinto ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0667112.html", 
+        "descriptor": "city", 
+        "name": "San Jacinto "
+    }, 
+    "Fallbrook ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0623462.html", 
+        "descriptor": "CDP", 
+        "name": "Fallbrook "
+    }, 
+    "Mayflower Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0646436.html", 
+        "descriptor": "CDP", 
+        "name": "Mayflower Village "
+    }, 
+    "Guadalupe ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0631414.html", 
+        "descriptor": "city", 
+        "name": "Guadalupe "
+    }, 
+    "West Sacramento ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0684816.html", 
+        "descriptor": "city", 
+        "name": "West Sacramento "
+    }, 
+    "Fremont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0626000.html", 
+        "descriptor": "city", 
+        "name": "Fremont "
+    }, 
+    "Exeter ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0623126.html", 
+        "descriptor": "city", 
+        "name": "Exeter "
+    }, 
+    "Gardena ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0628168.html", 
+        "descriptor": "city", 
+        "name": "Gardena "
+    }, 
+    "Oceano ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0653294.html", 
+        "descriptor": "CDP", 
+        "name": "Oceano "
+    }, 
+    "Del Aire ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0618352.html", 
+        "descriptor": "CDP", 
+        "name": "Del Aire "
+    }, 
+    "Rosamond ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0662826.html", 
+        "descriptor": "CDP", 
+        "name": "Rosamond "
+    }, 
+    "Atascadero ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0603064.html", 
+        "descriptor": "city", 
+        "name": "Atascadero "
+    }, 
+    "Santa Rosa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0670098.html", 
+        "descriptor": "city", 
+        "name": "Santa Rosa "
+    }, 
+    "Temescal Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0678138.html", 
+        "descriptor": "CDP", 
+        "name": "Temescal Valley "
+    }, 
+    "Cutler ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0617708.html", 
+        "descriptor": "CDP", 
+        "name": "Cutler "
+    }, 
+    "Soledad ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0672520.html", 
+        "descriptor": "city", 
+        "name": "Soledad "
+    }, 
+    "Spring Valley Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0673700.html", 
+        "descriptor": "CDP", 
+        "name": "Spring Valley Lake "
+    }, 
+    "Marysville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0646170.html", 
+        "descriptor": "city", 
+        "name": "Marysville "
+    }, 
+    "Lindsay ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0641712.html", 
+        "descriptor": "city", 
+        "name": "Lindsay "
+    }, 
+    "Sebastopol ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0670770.html", 
+        "descriptor": "city", 
+        "name": "Sebastopol "
+    }, 
+    "Rolling Hills Estates ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0662644.html", 
+        "descriptor": "city", 
+        "name": "Rolling Hills Estates "
+    }, 
+    "Indian Wells ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0636434.html", 
+        "descriptor": "city", 
+        "name": "Indian Wells "
+    }, 
+    "McFarland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0644826.html", 
+        "descriptor": "city", 
+        "name": "McFarland "
+    }, 
+    "Mira Monte ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0648046.html", 
+        "descriptor": "CDP", 
+        "name": "Mira Monte "
+    }, 
+    "Vandenberg Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0682086.html", 
+        "descriptor": "CDP", 
+        "name": "Vandenberg Village "
+    }, 
+    "Ione ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0636672.html", 
+        "descriptor": "city", 
+        "name": "Ione "
+    }, 
+    "Fortuna ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0625296.html", 
+        "descriptor": "city", 
+        "name": "Fortuna "
+    }, 
+    "Susanville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0677364.html", 
+        "descriptor": "city", 
+        "name": "Susanville "
+    }, 
+    "Gilroy ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0629504.html", 
+        "descriptor": "city", 
+        "name": "Gilroy "
+    }, 
+    "Glen Avon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0629644.html", 
+        "descriptor": "CDP", 
+        "name": "Glen Avon "
+    }, 
+    "Bret Harte ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0608172.html", 
+        "descriptor": "CDP", 
+        "name": "Bret Harte "
+    }, 
+    "Lake Mathews ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639645.html", 
+        "descriptor": "CDP", 
+        "name": "Lake Mathews "
+    }, 
+    "Riverside ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0662000.html", 
+        "descriptor": "city", 
+        "name": "Riverside "
+    }, 
+    "Calimesa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0609864.html", 
+        "descriptor": "city", 
+        "name": "Calimesa "
+    }, 
+    "Wasco ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0683542.html", 
+        "descriptor": "city", 
+        "name": "Wasco "
+    }, 
+    "Lake Arrowhead ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639444.html", 
+        "descriptor": "CDP", 
+        "name": "Lake Arrowhead "
+    }, 
+    "Plumas Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0657829.html", 
+        "descriptor": "CDP", 
+        "name": "Plumas Lake "
+    }, 
+    "Cherry Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0612916.html", 
+        "descriptor": "CDP", 
+        "name": "Cherry Valley "
+    }, 
+    "Brawley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0608058.html", 
+        "descriptor": "city", 
+        "name": "Brawley "
+    }, 
+    "Good Hope ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0630410.html", 
+        "descriptor": "CDP", 
+        "name": "Good Hope "
+    }, 
+    "Lompoc ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0642524.html", 
+        "descriptor": "city", 
+        "name": "Lompoc "
+    }, 
+    "Jurupa Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0637692.html", 
+        "descriptor": "city", 
+        "name": "Jurupa Valley "
+    }, 
+    "San Martin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0668238.html", 
+        "descriptor": "CDP", 
+        "name": "San Martin "
+    }, 
+    "Bakersfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0603526.html", 
+        "descriptor": "city", 
+        "name": "Bakersfield "
+    }, 
+    "Albany ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0600674.html", 
+        "descriptor": "city", 
+        "name": "Albany "
+    }, 
+    "San Bernardino ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0665000.html", 
+        "descriptor": "city", 
+        "name": "San Bernardino "
+    }, 
+    "Chowchilla ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0613294.html", 
+        "descriptor": "city", 
+        "name": "Chowchilla "
+    }, 
+    "Rowland Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0663218.html", 
+        "descriptor": "CDP", 
+        "name": "Rowland Heights "
+    }, 
+    "Escalon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0622790.html", 
+        "descriptor": "city", 
+        "name": "Escalon "
+    }, 
+    "Elverta ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0622524.html", 
+        "descriptor": "CDP", 
+        "name": "Elverta "
+    }, 
+    "El Cajon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0621712.html", 
+        "descriptor": "city", 
+        "name": "El Cajon "
+    }, 
+    "Concord ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0616000.html", 
+        "descriptor": "city", 
+        "name": "Concord "
+    }, 
+    "Woodcrest ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0686244.html", 
+        "descriptor": "CDP", 
+        "name": "Woodcrest "
+    }, 
+    "August ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0603209.html", 
+        "descriptor": "CDP", 
+        "name": "August "
+    }, 
+    "North Tustin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0652379.html", 
+        "descriptor": "CDP", 
+        "name": "North Tustin "
+    }, 
+    "West Rancho Dominguez ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0684780.html", 
+        "descriptor": "CDP", 
+        "name": "West Rancho Dominguez "
+    }, 
+    "Dixon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0619402.html", 
+        "descriptor": "city", 
+        "name": "Dixon "
+    }, 
+    "Arroyo Grande ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0602868.html", 
+        "descriptor": "city", 
+        "name": "Arroyo Grande "
+    }, 
+    "Orcutt ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0654120.html", 
+        "descriptor": "CDP", 
+        "name": "Orcutt "
+    }, 
+    "Moreno Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0649270.html", 
+        "descriptor": "city", 
+        "name": "Moreno Valley "
+    }, 
+    "Ontario ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0653896.html", 
+        "descriptor": "city", 
+        "name": "Ontario "
+    }, 
+    "Modesto ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0648354.html", 
+        "descriptor": "city", 
+        "name": "Modesto "
+    }, 
+    "Alondra Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0601150.html", 
+        "descriptor": "CDP", 
+        "name": "Alondra Park "
+    }, 
+    "Salida ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0664210.html", 
+        "descriptor": "CDP", 
+        "name": "Salida "
+    }, 
+    "Laguna Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639178.html", 
+        "descriptor": "city", 
+        "name": "Laguna Beach "
+    }, 
+    "Laguna Woods ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639259.html", 
+        "descriptor": "city", 
+        "name": "Laguna Woods "
+    }, 
+    "El Dorado Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0621880.html", 
+        "descriptor": "CDP", 
+        "name": "El Dorado Hills "
+    }, 
+    "Manhattan Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0645400.html", 
+        "descriptor": "city", 
+        "name": "Manhattan Beach "
+    }, 
+    "Las Flores ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0640526.html", 
+        "descriptor": "CDP", 
+        "name": "Las Flores "
+    }, 
+    "Paradise ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0655520.html", 
+        "descriptor": "town", 
+        "name": "Paradise "
+    }, 
+    "Tamalpais-Homestead Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0677805.html", 
+        "descriptor": "CDP", 
+        "name": "Tamalpais-Homestead Valley "
+    }, 
+    "Rio del Mar ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0660928.html", 
+        "descriptor": "CDP", 
+        "name": "Rio del Mar "
+    }, 
+    "Alhambra ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0600884.html", 
+        "descriptor": "city", 
+        "name": "Alhambra "
+    }, 
+    "Healdsburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0633056.html", 
+        "descriptor": "city", 
+        "name": "Healdsburg "
+    }, 
+    "Seal Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0670686.html", 
+        "descriptor": "city", 
+        "name": "Seal Beach "
+    }, 
+    "Diamond Bar ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0619192.html", 
+        "descriptor": "city", 
+        "name": "Diamond Bar "
+    }, 
+    "Topanga ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0678960.html", 
+        "descriptor": "CDP", 
+        "name": "Topanga "
+    }, 
+    "Charter Oak ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0612734.html", 
+        "descriptor": "CDP", 
+        "name": "Charter Oak "
+    }, 
+    "Santa Cruz ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0669112.html", 
+        "descriptor": "city", 
+        "name": "Santa Cruz "
+    }, 
+    "La Presa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0640326.html", 
+        "descriptor": "CDP", 
+        "name": "La Presa "
+    }, 
+    "San Ramon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0668378.html", 
+        "descriptor": "city", 
+        "name": "San Ramon "
+    }, 
+    "Fairview ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0623350.html", 
+        "descriptor": "CDP", 
+        "name": "Fairview "
+    }, 
+    "Fullerton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0628000.html", 
+        "descriptor": "city", 
+        "name": "Fullerton "
+    }, 
+    "Azusa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0603386.html", 
+        "descriptor": "city", 
+        "name": "Azusa "
+    }, 
+    "Anderson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0602042.html", 
+        "descriptor": "city", 
+        "name": "Anderson "
+    }, 
+    "Paramount ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0655618.html", 
+        "descriptor": "city", 
+        "name": "Paramount "
+    }, 
+    "University of California Davis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0681302.html", 
+        "descriptor": "CDP", 
+        "name": "University of California Davis "
+    }, 
+    "Keyes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0638422.html", 
+        "descriptor": "CDP", 
+        "name": "Keyes "
+    }, 
+    "La Verne ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0640830.html", 
+        "descriptor": "city", 
+        "name": "La Verne "
+    }, 
+    "Homeland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0634316.html", 
+        "descriptor": "CDP", 
+        "name": "Homeland "
+    }, 
+    "Boyes Hot Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0607848.html", 
+        "descriptor": "CDP", 
+        "name": "Boyes Hot Springs "
+    }, 
+    "Yorba Linda ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0686832.html", 
+        "descriptor": "city", 
+        "name": "Yorba Linda "
+    }, 
+    "Petaluma ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0656784.html", 
+        "descriptor": "city", 
+        "name": "Petaluma "
+    }, 
+    "Nuevo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0652624.html", 
+        "descriptor": "CDP", 
+        "name": "Nuevo "
+    }, 
+    "Redding ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0659920.html", 
+        "descriptor": "city", 
+        "name": "Redding "
+    }, 
+    "Carpinteria ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0611446.html", 
+        "descriptor": "city", 
+        "name": "Carpinteria "
+    }, 
+    "Williams ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0685586.html", 
+        "descriptor": "city", 
+        "name": "Williams "
+    }, 
+    "Newman ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0651140.html", 
+        "descriptor": "city", 
+        "name": "Newman "
+    }, 
+    "Kingsburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0638562.html", 
+        "descriptor": "city", 
+        "name": "Kingsburg "
+    }, 
+    "Bostonia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0607624.html", 
+        "descriptor": "CDP", 
+        "name": "Bostonia "
+    }, 
+    "Fair Oaks ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0623294.html", 
+        "descriptor": "CDP", 
+        "name": "Fair Oaks "
+    }, 
+    "La Habra ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639290.html", 
+        "descriptor": "city", 
+        "name": "La Habra "
+    }, 
+    "Bloomington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0607064.html", 
+        "descriptor": "CDP", 
+        "name": "Bloomington "
+    }, 
+    "Lathrop ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0640704.html", 
+        "descriptor": "city", 
+        "name": "Lathrop "
+    }, 
+    "Temple City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0678148.html", 
+        "descriptor": "city", 
+        "name": "Temple City "
+    }, 
+    "French Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0626067.html", 
+        "descriptor": "CDP", 
+        "name": "French Valley "
+    }, 
+    "Marina del Rey ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0645806.html", 
+        "descriptor": "CDP", 
+        "name": "Marina del Rey "
+    }, 
+    "Coachella ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0614260.html", 
+        "descriptor": "city", 
+        "name": "Coachella "
+    }, 
+    "Diamond Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0619220.html", 
+        "descriptor": "CDP", 
+        "name": "Diamond Springs "
+    }, 
+    "Fort Bragg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0625058.html", 
+        "descriptor": "city", 
+        "name": "Fort Bragg "
+    }, 
+    "South San Gabriel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0673276.html", 
+        "descriptor": "CDP", 
+        "name": "South San Gabriel "
+    }, 
+    "Greenacres ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0630938.html", 
+        "descriptor": "CDP", 
+        "name": "Greenacres "
+    }, 
+    "Gridley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0631260.html", 
+        "descriptor": "city", 
+        "name": "Gridley "
+    }, 
+    "Fairfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0623182.html", 
+        "descriptor": "city", 
+        "name": "Fairfield "
+    }, 
+    "Montecito ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0648844.html", 
+        "descriptor": "CDP", 
+        "name": "Montecito "
+    }, 
+    "Tustin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0680854.html", 
+        "descriptor": "city", 
+        "name": "Tustin "
+    }, 
+    "West Athens ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0684116.html", 
+        "descriptor": "CDP", 
+        "name": "West Athens "
+    }, 
+    "Altadena ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0601290.html", 
+        "descriptor": "CDP", 
+        "name": "Altadena "
+    }, 
+    "Laguna Niguel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639248.html", 
+        "descriptor": "city", 
+        "name": "Laguna Niguel "
+    }, 
+    "Cupertino ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0617610.html", 
+        "descriptor": "city", 
+        "name": "Cupertino "
+    }, 
+    "Baldwin Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0603666.html", 
+        "descriptor": "city", 
+        "name": "Baldwin Park "
+    }, 
+    "Ridgecrest ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0660704.html", 
+        "descriptor": "city", 
+        "name": "Ridgecrest "
+    }, 
+    "Madera Acres ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0645050.html", 
+        "descriptor": "CDP", 
+        "name": "Madera Acres "
+    }, 
+    "Strawberry ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0675315.html", 
+        "descriptor": "CDP", 
+        "name": "Strawberry "
+    }, 
+    "Pacifica ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0654806.html", 
+        "descriptor": "city", 
+        "name": "Pacifica "
+    }, 
+    "Saratoga ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0670280.html", 
+        "descriptor": "city", 
+        "name": "Saratoga "
+    }, 
+    "Murrieta ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0650076.html", 
+        "descriptor": "city", 
+        "name": "Murrieta "
+    }, 
+    "Lake Elsinore ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639486.html", 
+        "descriptor": "city", 
+        "name": "Lake Elsinore "
+    }, 
+    "La Riviera ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0640410.html", 
+        "descriptor": "CDP", 
+        "name": "La Riviera "
+    }, 
+    "Lancaster ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0640130.html", 
+        "descriptor": "city", 
+        "name": "Lancaster "
+    }, 
+    "Hillsborough ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0633798.html", 
+        "descriptor": "town", 
+        "name": "Hillsborough "
+    }, 
+    "Sacramento ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0664000.html", 
+        "descriptor": "city", 
+        "name": "Sacramento "
+    }, 
+    "Lucerne Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0644420.html", 
+        "descriptor": "CDP", 
+        "name": "Lucerne Valley "
+    }, 
+    "Imperial Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0636294.html", 
+        "descriptor": "city", 
+        "name": "Imperial Beach "
+    }, 
+    "Templeton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0678162.html", 
+        "descriptor": "CDP", 
+        "name": "Templeton "
+    }, 
+    "Downey ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0619766.html", 
+        "descriptor": "city", 
+        "name": "Downey "
+    }, 
+    "Ceres ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0612524.html", 
+        "descriptor": "city", 
+        "name": "Ceres "
+    }, 
+    "Brentwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0608142.html", 
+        "descriptor": "city", 
+        "name": "Brentwood "
+    }, 
+    "Redwood City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0660102.html", 
+        "descriptor": "city", 
+        "name": "Redwood City "
+    }, 
+    "Pleasanton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0657792.html", 
+        "descriptor": "city", 
+        "name": "Pleasanton "
+    }, 
+    "Desert Hot Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0618996.html", 
+        "descriptor": "city", 
+        "name": "Desert Hot Springs "
+    }, 
+    "San Jose ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0668000.html", 
+        "descriptor": "city", 
+        "name": "San Jose "
+    }, 
+    "Farmersville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0623616.html", 
+        "descriptor": "city", 
+        "name": "Farmersville "
+    }, 
+    "West Modesto ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0684578.html", 
+        "descriptor": "CDP", 
+        "name": "West Modesto "
+    }, 
+    "Woodland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0686328.html", 
+        "descriptor": "city", 
+        "name": "Woodland "
+    }, 
+    "Larkfield-Wikiup ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0640426.html", 
+        "descriptor": "CDP", 
+        "name": "Larkfield-Wikiup "
+    }, 
+    "Cotati ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0616560.html", 
+        "descriptor": "city", 
+        "name": "Cotati "
+    }, 
+    "Palo Alto ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0655282.html", 
+        "descriptor": "city", 
+        "name": "Palo Alto "
+    }, 
+    "Shafter ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0671106.html", 
+        "descriptor": "city", 
+        "name": "Shafter "
+    }, 
+    "Tulare ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0680644.html", 
+        "descriptor": "city", 
+        "name": "Tulare "
+    }, 
+    "Eureka ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0623042.html", 
+        "descriptor": "city", 
+        "name": "Eureka "
+    }, 
+    "Calistoga ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0609892.html", 
+        "descriptor": "city", 
+        "name": "Calistoga "
+    }, 
+    "Castroville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0611978.html", 
+        "descriptor": "CDP", 
+        "name": "Castroville "
+    }, 
+    "Wilton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0685880.html", 
+        "descriptor": "CDP", 
+        "name": "Wilton "
+    }, 
+    "Temecula ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0678120.html", 
+        "descriptor": "city", 
+        "name": "Temecula "
+    }, 
+    "Watsonville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0683668.html", 
+        "descriptor": "city", 
+        "name": "Watsonville "
+    }, 
+    "Twentynine Palms ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0680994.html", 
+        "descriptor": "city", 
+        "name": "Twentynine Palms "
+    }, 
+    "Emeryville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0622594.html", 
+        "descriptor": "city", 
+        "name": "Emeryville "
+    }, 
+    "East Hemet ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0620697.html", 
+        "descriptor": "CDP", 
+        "name": "East Hemet "
+    }, 
+    "California City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0609780.html", 
+        "descriptor": "city", 
+        "name": "California City "
+    }, 
+    "Beverly Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0606308.html", 
+        "descriptor": "city", 
+        "name": "Beverly Hills "
+    }, 
+    "Golden Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0630282.html", 
+        "descriptor": "CDP", 
+        "name": "Golden Hills "
+    }, 
+    "San Pablo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0668294.html", 
+        "descriptor": "city", 
+        "name": "San Pablo "
+    }, 
+    "Merced ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0646898.html", 
+        "descriptor": "city", 
+        "name": "Merced "
+    }, 
+    "Santa Fe Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0669154.html", 
+        "descriptor": "city", 
+        "name": "Santa Fe Springs "
+    }, 
+    "Eastvale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0621230.html", 
+        "descriptor": "city", 
+        "name": "Eastvale "
+    }, 
+    "San Anselmo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0664434.html", 
+        "descriptor": "town", 
+        "name": "San Anselmo "
+    }, 
+    "Fillmore ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0624092.html", 
+        "descriptor": "city", 
+        "name": "Fillmore "
+    }, 
+    "Bonita ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0607414.html", 
+        "descriptor": "CDP", 
+        "name": "Bonita "
+    }, 
+    "Coalinga ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0614274.html", 
+        "descriptor": "city", 
+        "name": "Coalinga "
+    }, 
+    "Port Hueneme ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0658296.html", 
+        "descriptor": "city", 
+        "name": "Port Hueneme "
+    }, 
+    "Florence-Graham ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0624477.html", 
+        "descriptor": "CDP", 
+        "name": "Florence-Graham "
+    }, 
+    "Parkway ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0655800.html", 
+        "descriptor": "CDP", 
+        "name": "Parkway "
+    }, 
+    "Signal Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0671876.html", 
+        "descriptor": "city", 
+        "name": "Signal Hill "
+    }, 
+    "Lakeside ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639766.html", 
+        "descriptor": "CDP", 
+        "name": "Lakeside "
+    }, 
+    "Agoura Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0600394.html", 
+        "descriptor": "city", 
+        "name": "Agoura Hills "
+    }, 
+    "Palm Desert ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0655184.html", 
+        "descriptor": "city", 
+        "name": "Palm Desert "
+    }, 
+    "Los Gatos ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0644112.html", 
+        "descriptor": "town", 
+        "name": "Los Gatos "
+    }, 
+    "Clovis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0614218.html", 
+        "descriptor": "city", 
+        "name": "Clovis "
+    }, 
+    "Oak Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0653116.html", 
+        "descriptor": "CDP", 
+        "name": "Oak Park "
+    }, 
+    "Camp Pendleton North ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0610559.html", 
+        "descriptor": "CDP", 
+        "name": "Camp Pendleton North "
+    }, 
+    "Roseland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0662868.html", 
+        "descriptor": "CDP", 
+        "name": "Roseland "
+    }, 
+    "Millbrae ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0647486.html", 
+        "descriptor": "city", 
+        "name": "Millbrae "
+    }, 
+    "Citrus ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0613560.html", 
+        "descriptor": "CDP", 
+        "name": "Citrus "
+    }, 
+    "Stockton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0675000.html", 
+        "descriptor": "city", 
+        "name": "Stockton "
+    }, 
+    "East Palo Alto ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0620956.html", 
+        "descriptor": "city", 
+        "name": "East Palo Alto "
+    }, 
+    "El Monte ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0622230.html", 
+        "descriptor": "city", 
+        "name": "El Monte "
+    }, 
+    "Casa de Oro-Mount Helix ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0611691.html", 
+        "descriptor": "CDP", 
+        "name": "Casa de Oro-Mount Helix "
+    }, 
+    "Gold River ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0630345.html", 
+        "descriptor": "CDP", 
+        "name": "Gold River "
+    }, 
+    "Valinda ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0681638.html", 
+        "descriptor": "CDP", 
+        "name": "Valinda "
+    }, 
+    "Rio Linda ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0660942.html", 
+        "descriptor": "CDP", 
+        "name": "Rio Linda "
+    }, 
+    "Antioch ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0602252.html", 
+        "descriptor": "city", 
+        "name": "Antioch "
+    }, 
+    "Rancho Calaveras ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0659426.html", 
+        "descriptor": "CDP", 
+        "name": "Rancho Calaveras "
+    }, 
+    "Lynwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0644574.html", 
+        "descriptor": "city", 
+        "name": "Lynwood "
+    }, 
+    "Lodi ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0642202.html", 
+        "descriptor": "city", 
+        "name": "Lodi "
+    }, 
+    "Banning ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0603820.html", 
+        "descriptor": "city", 
+        "name": "Banning "
+    }, 
+    "Truckee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0680588.html", 
+        "descriptor": "town", 
+        "name": "Truckee "
+    }, 
+    "Vineyard ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0682852.html", 
+        "descriptor": "CDP", 
+        "name": "Vineyard "
+    }, 
+    "Oceanside ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0653322.html", 
+        "descriptor": "city", 
+        "name": "Oceanside "
+    }, 
+    "Bell Gardens ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0604996.html", 
+        "descriptor": "city", 
+        "name": "Bell Gardens "
+    }, 
+    "Yuba City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0686972.html", 
+        "descriptor": "city", 
+        "name": "Yuba City "
+    }, 
+    "Cypress ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0617750.html", 
+        "descriptor": "city", 
+        "name": "Cypress "
+    }, 
+    "Loomis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0643140.html", 
+        "descriptor": "town", 
+        "name": "Loomis "
+    }, 
+    "West Hollywood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0684410.html", 
+        "descriptor": "city", 
+        "name": "West Hollywood "
+    }, 
+    "Alum Rock ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0601458.html", 
+        "descriptor": "CDP", 
+        "name": "Alum Rock "
+    }, 
+    "Woodlake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0686300.html", 
+        "descriptor": "city", 
+        "name": "Woodlake "
+    }, 
+    "Solana Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0672506.html", 
+        "descriptor": "city", 
+        "name": "Solana Beach "
+    }, 
+    "Covina ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0616742.html", 
+        "descriptor": "city", 
+        "name": "Covina "
+    }, 
+    "Aliso Viejo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0600947.html", 
+        "descriptor": "city", 
+        "name": "Aliso Viejo "
+    }, 
+    "Orange Cove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0654008.html", 
+        "descriptor": "city", 
+        "name": "Orange Cove "
+    }, 
+    "Napa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0650258.html", 
+        "descriptor": "city", 
+        "name": "Napa "
+    }, 
+    "Big Bear Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0606434.html", 
+        "descriptor": "city", 
+        "name": "Big Bear Lake "
+    }, 
+    "Palos Verdes Estates ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0655380.html", 
+        "descriptor": "city", 
+        "name": "Palos Verdes Estates "
+    }, 
+    "Lakeland Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639598.html", 
+        "descriptor": "CDP", 
+        "name": "Lakeland Village "
+    }, 
+    "Rancho Cordova ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0659444.html", 
+        "descriptor": "city", 
+        "name": "Rancho Cordova "
+    }, 
+    "San Marino ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0668224.html", 
+        "descriptor": "city", 
+        "name": "San Marino "
+    }, 
+    "Saranap ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0670266.html", 
+        "descriptor": "CDP", 
+        "name": "Saranap "
+    }, 
+    "Prunedale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0658870.html", 
+        "descriptor": "CDP", 
+        "name": "Prunedale "
+    }, 
+    "San Bruno ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0665028.html", 
+        "descriptor": "city", 
+        "name": "San Bruno "
+    }, 
+    "Belmont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0605108.html", 
+        "descriptor": "city", 
+        "name": "Belmont "
+    }, 
+    "Daly City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0617918.html", 
+        "descriptor": "city", 
+        "name": "Daly City "
+    }, 
+    "Moorpark ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0649138.html", 
+        "descriptor": "city", 
+        "name": "Moorpark "
+    }, 
+    "Bay Point ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0604415.html", 
+        "descriptor": "CDP", 
+        "name": "Bay Point "
+    }, 
+    "San Gabriel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0667042.html", 
+        "descriptor": "city", 
+        "name": "San Gabriel "
+    }, 
+    "Corning ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0616322.html", 
+        "descriptor": "city", 
+        "name": "Corning "
+    }, 
+    "King City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0638520.html", 
+        "descriptor": "city", 
+        "name": "King City "
+    }, 
+    "Mountain View ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0649670.html", 
+        "descriptor": "city", 
+        "name": "Mountain View "
+    }, 
+    "Whittier ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0685292.html", 
+        "descriptor": "city", 
+        "name": "Whittier "
+    }, 
+    "Walnut Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0683402.html", 
+        "descriptor": "CDP", 
+        "name": "Walnut Park "
+    }, 
+    "Carlsbad ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0611194.html", 
+        "descriptor": "city", 
+        "name": "Carlsbad "
+    }, 
+    "Bermuda Dunes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0606028.html", 
+        "descriptor": "CDP", 
+        "name": "Bermuda Dunes "
+    }, 
+    "Morgan Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0649278.html", 
+        "descriptor": "city", 
+        "name": "Morgan Hill "
+    }, 
+    "Yucaipa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0687042.html", 
+        "descriptor": "city", 
+        "name": "Yucaipa "
+    }, 
+    "Sanger ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0667056.html", 
+        "descriptor": "city", 
+        "name": "Sanger "
+    }, 
+    "Woodside ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0686440.html", 
+        "descriptor": "town", 
+        "name": "Woodside "
+    }, 
+    "Hollister ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0634120.html", 
+        "descriptor": "city", 
+        "name": "Hollister "
+    }, 
+    "Delano ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0618394.html", 
+        "descriptor": "city", 
+        "name": "Delano "
+    }, 
+    "Citrus Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0613588.html", 
+        "descriptor": "city", 
+        "name": "Citrus Heights "
+    }, 
+    "Bonadelle Ranchos-Madera Ranchos ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0607379.html", 
+        "descriptor": "CDP", 
+        "name": "Bonadelle Ranchos-Madera Ranchos "
+    }, 
+    "Willows ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0685684.html", 
+        "descriptor": "city", 
+        "name": "Willows "
+    }, 
+    "Joshua Tree ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0637554.html", 
+        "descriptor": "CDP", 
+        "name": "Joshua Tree "
+    }, 
+    "East Los Angeles ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0620802.html", 
+        "descriptor": "CDP", 
+        "name": "East Los Angeles "
+    }, 
+    "Home Gardens ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0634302.html", 
+        "descriptor": "CDP", 
+        "name": "Home Gardens "
+    }, 
+    "Torrance ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0680000.html", 
+        "descriptor": "city", 
+        "name": "Torrance "
+    }, 
+    "Calipatria ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0609878.html", 
+        "descriptor": "city", 
+        "name": "Calipatria "
+    }, 
+    "Olivehurst ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0653714.html", 
+        "descriptor": "CDP", 
+        "name": "Olivehurst "
+    }, 
+    "Carmichael ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0611390.html", 
+        "descriptor": "CDP", 
+        "name": "Carmichael "
+    }, 
+    "Oroville East ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0654388.html", 
+        "descriptor": "CDP", 
+        "name": "Oroville East "
+    }, 
+    "Campbell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0610345.html", 
+        "descriptor": "city", 
+        "name": "Campbell "
+    }, 
+    "Foster City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0625338.html", 
+        "descriptor": "city", 
+        "name": "Foster City "
+    }, 
+    "San Luis Obispo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0668154.html", 
+        "descriptor": "city", 
+        "name": "San Luis Obispo "
+    }, 
+    "East Pasadena ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0620984.html", 
+        "descriptor": "CDP", 
+        "name": "East Pasadena "
+    }, 
+    "San Juan Capistrano ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0668028.html", 
+        "descriptor": "city", 
+        "name": "San Juan Capistrano "
+    }, 
+    "Crestline ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0617162.html", 
+        "descriptor": "CDP", 
+        "name": "Crestline "
+    }, 
+    "Rosemead ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0662896.html", 
+        "descriptor": "city", 
+        "name": "Rosemead "
+    }, 
+    "La Mirada ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0640032.html", 
+        "descriptor": "city", 
+        "name": "La Mirada "
+    }, 
+    "Interlaken ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0636613.html", 
+        "descriptor": "CDP", 
+        "name": "Interlaken "
+    }, 
+    "Lakewood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639892.html", 
+        "descriptor": "city", 
+        "name": "Lakewood "
+    }, 
+    "Rancho San Diego ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0659550.html", 
+        "descriptor": "CDP", 
+        "name": "Rancho San Diego "
+    }, 
+    "Hawthorne ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0632548.html", 
+        "descriptor": "city", 
+        "name": "Hawthorne "
+    }, 
+    "East La Mirada ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0620746.html", 
+        "descriptor": "CDP", 
+        "name": "East La Mirada "
+    }, 
+    "Hilmar-Irwin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0633861.html", 
+        "descriptor": "CDP", 
+        "name": "Hilmar-Irwin "
+    }, 
+    "East Foothills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0620598.html", 
+        "descriptor": "CDP", 
+        "name": "East Foothills "
+    }, 
+    "Colusa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0614946.html", 
+        "descriptor": "city", 
+        "name": "Colusa "
+    }, 
+    "Morro Bay ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0649362.html", 
+        "descriptor": "city", 
+        "name": "Morro Bay "
+    }, 
+    "Duarte ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0619990.html", 
+        "descriptor": "city", 
+        "name": "Duarte "
+    }, 
+    "La Crescenta-Montrose ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639045.html", 
+        "descriptor": "CDP", 
+        "name": "La Crescenta-Montrose "
+    }, 
+    "Old Fig Garden ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0653505.html", 
+        "descriptor": "CDP", 
+        "name": "Old Fig Garden "
+    }, 
+    "Malibu ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0645246.html", 
+        "descriptor": "city", 
+        "name": "Malibu "
+    }, 
+    "Bell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0604870.html", 
+        "descriptor": "city", 
+        "name": "Bell "
+    }, 
+    "North Auburn ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0651637.html", 
+        "descriptor": "CDP", 
+        "name": "North Auburn "
+    }, 
+    "Lake Los Angeles ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639612.html", 
+        "descriptor": "CDP", 
+        "name": "Lake Los Angeles "
+    }, 
+    "Ripon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0661026.html", 
+        "descriptor": "city", 
+        "name": "Ripon "
+    }, 
+    "San Diego Country Estates ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0666004.html", 
+        "descriptor": "CDP", 
+        "name": "San Diego Country Estates "
+    }, 
+    "Turlock ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0680812.html", 
+        "descriptor": "city", 
+        "name": "Turlock "
+    }, 
+    "Cudahy ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0617498.html", 
+        "descriptor": "city", 
+        "name": "Cudahy "
+    }, 
+    "Monrovia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0648648.html", 
+        "descriptor": "city", 
+        "name": "Monrovia "
+    }, 
+    "Lamont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0640088.html", 
+        "descriptor": "CDP", 
+        "name": "Lamont "
+    }, 
+    "Atherton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0603092.html", 
+        "descriptor": "town", 
+        "name": "Atherton "
+    }, 
+    "Mecca ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0646660.html", 
+        "descriptor": "CDP", 
+        "name": "Mecca "
+    }, 
+    "Vallejo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0681666.html", 
+        "descriptor": "city", 
+        "name": "Vallejo "
+    }, 
+    "Clearlake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0613945.html", 
+        "descriptor": "city", 
+        "name": "Clearlake "
+    }, 
+    "Waterford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0683612.html", 
+        "descriptor": "city", 
+        "name": "Waterford "
+    }, 
+    "El Rio ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0622370.html", 
+        "descriptor": "CDP", 
+        "name": "El Rio "
+    }, 
+    "Vacaville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0681554.html", 
+        "descriptor": "city", 
+        "name": "Vacaville "
+    }, 
+    "Coronado ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0616378.html", 
+        "descriptor": "city", 
+        "name": "Coronado "
+    }, 
+    "Fairfax ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0623168.html", 
+        "descriptor": "town", 
+        "name": "Fairfax "
+    }, 
+    "Lafayette ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639122.html", 
+        "descriptor": "city", 
+        "name": "Lafayette "
+    }, 
+    "Corona ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0616350.html", 
+        "descriptor": "city", 
+        "name": "Corona "
+    }, 
+    "Stanton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0673962.html", 
+        "descriptor": "city", 
+        "name": "Stanton "
+    }, 
+    "Los Banos ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0644028.html", 
+        "descriptor": "city", 
+        "name": "Los Banos "
+    }, 
+    "Elk Grove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0622020.html", 
+        "descriptor": "city", 
+        "name": "Elk Grove "
+    }, 
+    "Contra Costa Centre ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0616090.html", 
+        "descriptor": "CDP", 
+        "name": "Contra Costa Centre "
+    }, 
+    "Thousand Palms ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0678596.html", 
+        "descriptor": "CDP", 
+        "name": "Thousand Palms "
+    }, 
+    "Escondido ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0622804.html", 
+        "descriptor": "city", 
+        "name": "Escondido "
+    }, 
+    "Quartz Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0659052.html", 
+        "descriptor": "CDP", 
+        "name": "Quartz Hill "
+    }, 
+    "Tracy ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0680238.html", 
+        "descriptor": "city", 
+        "name": "Tracy "
+    }, 
+    "Glendora ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0630014.html", 
+        "descriptor": "city", 
+        "name": "Glendora "
+    }, 
+    "Lincoln ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0641474.html", 
+        "descriptor": "city", 
+        "name": "Lincoln "
+    }, 
+    "Lennox ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0641180.html", 
+        "descriptor": "CDP", 
+        "name": "Lennox "
+    }, 
+    "Placentia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0657526.html", 
+        "descriptor": "city", 
+        "name": "Placentia "
+    }, 
+    "Porterville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0658240.html", 
+        "descriptor": "city", 
+        "name": "Porterville "
+    }, 
+    "Alameda ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0600562.html", 
+        "descriptor": "city", 
+        "name": "Alameda "
+    }, 
+    "Bear Valley Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0604734.html", 
+        "descriptor": "CDP", 
+        "name": "Bear Valley Springs "
+    }, 
+    "Corte Madera ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0616462.html", 
+        "descriptor": "town", 
+        "name": "Corte Madera "
+    }, 
+    "Midway City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0647430.html", 
+        "descriptor": "CDP", 
+        "name": "Midway City "
+    }, 
+    "Fresno ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0627000.html", 
+        "descriptor": "city", 
+        "name": "Fresno "
+    }, 
+    "Placerville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0657540.html", 
+        "descriptor": "city", 
+        "name": "Placerville "
+    }, 
+    "Livermore ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0641992.html", 
+        "descriptor": "city", 
+        "name": "Livermore "
+    }, 
+    "La Quinta ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0640354.html", 
+        "descriptor": "city", 
+        "name": "La Quinta "
+    }, 
+    "West Covina ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0684200.html", 
+        "descriptor": "city", 
+        "name": "West Covina "
+    }, 
+    "Rancho Santa Margarita ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0659587.html", 
+        "descriptor": "city", 
+        "name": "Rancho Santa Margarita "
+    }, 
+    "Montebello ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0648816.html", 
+        "descriptor": "city", 
+        "name": "Montebello "
+    }, 
+    "Glendale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0630000.html", 
+        "descriptor": "city", 
+        "name": "Glendale "
+    }, 
+    "Arcata ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0602476.html", 
+        "descriptor": "city", 
+        "name": "Arcata "
+    }, 
+    "Westlake Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0684438.html", 
+        "descriptor": "city", 
+        "name": "Westlake Village "
+    }, 
+    "Dos Palos ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0619612.html", 
+        "descriptor": "city", 
+        "name": "Dos Palos "
+    }, 
+    "North Highlands ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0651924.html", 
+        "descriptor": "CDP", 
+        "name": "North Highlands "
+    }, 
+    "San Leandro ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0668084.html", 
+        "descriptor": "city", 
+        "name": "San Leandro "
+    }, 
+    "Garden Acres ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0628182.html", 
+        "descriptor": "CDP", 
+        "name": "Garden Acres "
+    }, 
+    "Calabasas ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0609598.html", 
+        "descriptor": "city", 
+        "name": "Calabasas "
+    }, 
+    "Santa Barbara ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0669070.html", 
+        "descriptor": "city", 
+        "name": "Santa Barbara "
+    }, 
+    "Sonoma ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0672646.html", 
+        "descriptor": "city", 
+        "name": "Sonoma "
+    }, 
+    "El Segundo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0622412.html", 
+        "descriptor": "city", 
+        "name": "El Segundo "
+    }, 
+    "Live Oak ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0641936.html", 
+        "descriptor": "city", 
+        "name": "Live Oak "
+    }, 
+    "Galt ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0628112.html", 
+        "descriptor": "city", 
+        "name": "Galt "
+    }, 
+    "Santa Clarita ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0669088.html", 
+        "descriptor": "city", 
+        "name": "Santa Clarita "
+    }, 
+    "East Porterville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0621012.html", 
+        "descriptor": "CDP", 
+        "name": "East Porterville "
+    }, 
+    "Novato ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0652582.html", 
+        "descriptor": "city", 
+        "name": "Novato "
+    }, 
+    "Hacienda Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0631596.html", 
+        "descriptor": "CDP", 
+        "name": "Hacienda Heights "
+    }, 
+    "Country Club ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0616651.html", 
+        "descriptor": "CDP", 
+        "name": "Country Club "
+    }, 
+    "Fruitridge Pocket ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0627130.html", 
+        "descriptor": "CDP", 
+        "name": "Fruitridge Pocket "
+    }, 
+    "Lomita ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0642468.html", 
+        "descriptor": "city", 
+        "name": "Lomita "
+    }, 
+    "Ukiah ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0681134.html", 
+        "descriptor": "city", 
+        "name": "Ukiah "
+    }, 
+    "Hesperia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0633434.html", 
+        "descriptor": "city", 
+        "name": "Hesperia "
+    }, 
+    "Riverbank ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0661068.html", 
+        "descriptor": "city", 
+        "name": "Riverbank "
+    }, 
+    "Kensington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0638086.html", 
+        "descriptor": "CDP", 
+        "name": "Kensington "
+    }, 
+    "San Buenaventura (Ventura) ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0665042.html", 
+        "descriptor": "city", 
+        "name": "San Buenaventura (Ventura) "
+    }, 
+    "Arden-Arcade ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0602553.html", 
+        "descriptor": "CDP", 
+        "name": "Arden-Arcade "
+    }, 
+    "Garnet ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0629112.html", 
+        "descriptor": "CDP", 
+        "name": "Garnet "
+    }, 
+    "Hughson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0634904.html", 
+        "descriptor": "city", 
+        "name": "Hughson "
+    }, 
+    "East Rancho Dominguez ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0621034.html", 
+        "descriptor": "CDP", 
+        "name": "East Rancho Dominguez "
+    }, 
+    "El Paso de Robles (Paso Robles) ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0622300.html", 
+        "descriptor": "city", 
+        "name": "El Paso de Robles (Paso Robles) "
+    }, 
+    "Moraga ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0649187.html", 
+        "descriptor": "town", 
+        "name": "Moraga "
+    }, 
+    "Burlingame ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0609066.html", 
+        "descriptor": "city", 
+        "name": "Burlingame "
+    }, 
+    "Jamul ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0637120.html", 
+        "descriptor": "CDP", 
+        "name": "Jamul "
+    }, 
+    "Laguna Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639220.html", 
+        "descriptor": "city", 
+        "name": "Laguna Hills "
+    }, 
+    "Chino ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0613210.html", 
+        "descriptor": "city", 
+        "name": "Chino "
+    }, 
+    "Hayward ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0633000.html", 
+        "descriptor": "city", 
+        "name": "Hayward "
+    }, 
+    "Santee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0670224.html", 
+        "descriptor": "city", 
+        "name": "Santee "
+    }, 
+    "Thermalito ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0678470.html", 
+        "descriptor": "CDP", 
+        "name": "Thermalito "
+    }, 
+    "Granite Bay ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0630693.html", 
+        "descriptor": "CDP", 
+        "name": "Granite Bay "
+    }, 
+    "Larkspur ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0640438.html", 
+        "descriptor": "city", 
+        "name": "Larkspur "
+    }, 
+    "Davis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0618100.html", 
+        "descriptor": "city", 
+        "name": "Davis "
+    }, 
+    "Linda ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0641572.html", 
+        "descriptor": "CDP", 
+        "name": "Linda "
+    }, 
+    "San Lorenzo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0668112.html", 
+        "descriptor": "CDP", 
+        "name": "San Lorenzo "
+    }, 
+    "Perris ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0656700.html", 
+        "descriptor": "city", 
+        "name": "Perris "
+    }, 
+    "Los Osos ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0644182.html", 
+        "descriptor": "CDP", 
+        "name": "Los Osos "
+    }, 
+    "Huntington Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0636056.html", 
+        "descriptor": "city", 
+        "name": "Huntington Park "
+    }, 
+    "El Centro ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0621782.html", 
+        "descriptor": "city", 
+        "name": "El Centro "
+    }, 
+    "Tara Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0677924.html", 
+        "descriptor": "CDP", 
+        "name": "Tara Hills "
+    }, 
+    "Nipomo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0651476.html", 
+        "descriptor": "CDP", 
+        "name": "Nipomo "
+    }, 
+    "Camp Pendleton South ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0610561.html", 
+        "descriptor": "CDP", 
+        "name": "Camp Pendleton South "
+    }, 
+    "Sausalito ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0670364.html", 
+        "descriptor": "city", 
+        "name": "Sausalito "
+    }, 
+    "Tiburon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0678666.html", 
+        "descriptor": "town", 
+        "name": "Tiburon "
+    }, 
+    "Montclair ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0648788.html", 
+        "descriptor": "city", 
+        "name": "Montclair "
+    }, 
+    "Hercules ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0633308.html", 
+        "descriptor": "city", 
+        "name": "Hercules "
+    }, 
+    "Marina ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0645778.html", 
+        "descriptor": "city", 
+        "name": "Marina "
+    }, 
+    "Oxnard ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0654652.html", 
+        "descriptor": "city", 
+        "name": "Oxnard "
+    }, 
+    "Parlier ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0655856.html", 
+        "descriptor": "city", 
+        "name": "Parlier "
+    }, 
+    "South Lake Tahoe ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0673108.html", 
+        "descriptor": "city", 
+        "name": "South Lake Tahoe "
+    }, 
+    "Greenfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0630994.html", 
+        "descriptor": "city", 
+        "name": "Greenfield "
+    }, 
+    "Los Altos ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0643280.html", 
+        "descriptor": "city", 
+        "name": "Los Altos "
+    }, 
+    "Florin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0624498.html", 
+        "descriptor": "CDP", 
+        "name": "Florin "
+    }, 
+    "Delhi ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0618464.html", 
+        "descriptor": "CDP", 
+        "name": "Delhi "
+    }, 
+    "Patterson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0656112.html", 
+        "descriptor": "city", 
+        "name": "Patterson "
+    }, 
+    "Lemoore Station ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0641166.html", 
+        "descriptor": "CDP", 
+        "name": "Lemoore Station "
+    }, 
+    "San Marcos ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0668196.html", 
+        "descriptor": "city", 
+        "name": "San Marcos "
+    }, 
+    "Discovery Bay ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0619339.html", 
+        "descriptor": "CDP", 
+        "name": "Discovery Bay "
+    }, 
+    "Suisun City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0675630.html", 
+        "descriptor": "city", 
+        "name": "Suisun City "
+    }, 
+    "South San Francisco ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0673262.html", 
+        "descriptor": "city", 
+        "name": "South San Francisco "
+    }, 
+    "Martinez ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0646114.html", 
+        "descriptor": "city", 
+        "name": "Martinez "
+    }, 
+    "Encinitas ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0622678.html", 
+        "descriptor": "city", 
+        "name": "Encinitas "
+    }, 
+    "Winter Gardens ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0685992.html", 
+        "descriptor": "CDP", 
+        "name": "Winter Gardens "
+    }, 
+    "Earlimart ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0620438.html", 
+        "descriptor": "CDP", 
+        "name": "Earlimart "
+    }, 
+    "San Diego ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0666000.html", 
+        "descriptor": "city", 
+        "name": "San Diego "
+    }, 
+    "Winton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0686076.html", 
+        "descriptor": "CDP", 
+        "name": "Winton "
+    }, 
+    "Willowbrook ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0685614.html", 
+        "descriptor": "CDP", 
+        "name": "Willowbrook "
+    }, 
+    "Solvang ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0672576.html", 
+        "descriptor": "city", 
+        "name": "Solvang "
+    }, 
+    "Auburn ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0603204.html", 
+        "descriptor": "city", 
+        "name": "Auburn "
+    }, 
+    "Mira Loma ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0647976.html", 
+        "descriptor": "CDP", 
+        "name": "Mira Loma "
+    }, 
+    "Rosedale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0662854.html", 
+        "descriptor": "CDP", 
+        "name": "Rosedale "
+    }, 
+    "Kentfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0638114.html", 
+        "descriptor": "CDP", 
+        "name": "Kentfield "
+    }, 
+    "San Clemente ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0665084.html", 
+        "descriptor": "city", 
+        "name": "San Clemente "
+    }, 
+    "St. Helena ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0664140.html", 
+        "descriptor": "city", 
+        "name": "St. Helena "
+    }, 
+    "Pomona ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0658072.html", 
+        "descriptor": "city", 
+        "name": "Pomona "
+    }, 
+    "Mentone ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0646884.html", 
+        "descriptor": "CDP", 
+        "name": "Mentone "
+    }, 
+    "Sunnyslope ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0676022.html", 
+        "descriptor": "CDP", 
+        "name": "Sunnyslope "
+    }, 
+    "Vista ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0682996.html", 
+        "descriptor": "city", 
+        "name": "Vista "
+    }, 
+    "Rialto ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0660466.html", 
+        "descriptor": "city", 
+        "name": "Rialto "
+    }, 
+    "Newport Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0651182.html", 
+        "descriptor": "city", 
+        "name": "Newport Beach "
+    }, 
+    "Mead Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0646646.html", 
+        "descriptor": "CDP", 
+        "name": "Mead Valley "
+    }, 
+    "Spring Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0673696.html", 
+        "descriptor": "CDP", 
+        "name": "Spring Valley "
+    }, 
+    "Los Altos Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0643294.html", 
+        "descriptor": "town", 
+        "name": "Los Altos Hills "
+    }, 
+    "Claremont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0613756.html", 
+        "descriptor": "city", 
+        "name": "Claremont "
+    }, 
+    "Santa Clara ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0669084.html", 
+        "descriptor": "city", 
+        "name": "Santa Clara "
+    }, 
+    "Palm Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0655254.html", 
+        "descriptor": "city", 
+        "name": "Palm Springs "
+    }, 
+    "Clayton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0613882.html", 
+        "descriptor": "city", 
+        "name": "Clayton "
+    }, 
+    "Foothill Farms ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0624722.html", 
+        "descriptor": "CDP", 
+        "name": "Foothill Farms "
+    }, 
+    "San Mateo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0668252.html", 
+        "descriptor": "city", 
+        "name": "San Mateo "
+    }, 
+    "Antelope ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0602210.html", 
+        "descriptor": "CDP", 
+        "name": "Antelope "
+    }, 
+    "Atwater ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0603162.html", 
+        "descriptor": "city", 
+        "name": "Atwater "
+    }, 
+    "Pico Rivera ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0656924.html", 
+        "descriptor": "city", 
+        "name": "Pico Rivera "
+    }, 
+    "Rosemont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0662910.html", 
+        "descriptor": "CDP", 
+        "name": "Rosemont "
+    }, 
+    "Kerman ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0638226.html", 
+        "descriptor": "city", 
+        "name": "Kerman "
+    }, 
+    "Roseville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0662938.html", 
+        "descriptor": "city", 
+        "name": "Roseville "
+    }, 
+    "Windsor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0685922.html", 
+        "descriptor": "town", 
+        "name": "Windsor "
+    }, 
+    "Grover Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0631393.html", 
+        "descriptor": "city", 
+        "name": "Grover Beach "
+    }, 
+    "Wildomar ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0685446.html", 
+        "descriptor": "city", 
+        "name": "Wildomar "
+    }, 
+    "Orangevale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0654092.html", 
+        "descriptor": "CDP", 
+        "name": "Orangevale "
+    }, 
+    "McKinleyville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0644910.html", 
+        "descriptor": "CDP", 
+        "name": "McKinleyville "
+    }, 
+    "Burbank ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0608954.html", 
+        "descriptor": "city", 
+        "name": "Burbank "
+    }, 
+    "Walnut Creek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0683346.html", 
+        "descriptor": "city", 
+        "name": "Walnut Creek "
+    }, 
+    "Norwalk ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0652526.html", 
+        "descriptor": "city", 
+        "name": "Norwalk "
+    }, 
+    "Rancho Cucamonga ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0659451.html", 
+        "descriptor": "city", 
+        "name": "Rancho Cucamonga "
+    }, 
+    "Folsom ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0624638.html", 
+        "descriptor": "city", 
+        "name": "Folsom "
+    }, 
+    "Ramona ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0659346.html", 
+        "descriptor": "CDP", 
+        "name": "Ramona "
+    }, 
+    "Hermosa Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0633364.html", 
+        "descriptor": "city", 
+        "name": "Hermosa Beach "
+    }, 
+    "Arvin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0602924.html", 
+        "descriptor": "city", 
+        "name": "Arvin "
+    }, 
+    "Indio ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0636448.html", 
+        "descriptor": "city", 
+        "name": "Indio "
+    }, 
+    "South Oroville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0673178.html", 
+        "descriptor": "CDP", 
+        "name": "South Oroville "
+    }, 
+    "Oakland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0653000.html", 
+        "descriptor": "city", 
+        "name": "Oakland "
+    }, 
+    "Pleasure Point ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0657825.html", 
+        "descriptor": "CDP", 
+        "name": "Pleasure Point "
+    }, 
+    "Lake Forest ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0639496.html", 
+        "descriptor": "city", 
+        "name": "Lake Forest "
+    }, 
+    "Yucca Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0687056.html", 
+        "descriptor": "town", 
+        "name": "Yucca Valley "
+    }, 
+    "Cloverdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0614190.html", 
+        "descriptor": "city", 
+        "name": "Cloverdale "
+    }, 
+    "Valle Vista ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0681708.html", 
+        "descriptor": "CDP", 
+        "name": "Valle Vista "
+    }, 
+    "El Granada ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0621936.html", 
+        "descriptor": "CDP", 
+        "name": "El Granada "
+    }, 
+    "Oakdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0652694.html", 
+        "descriptor": "city", 
+        "name": "Oakdale "
+    }, 
+    "Benicia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0605290.html", 
+        "descriptor": "city", 
+        "name": "Benicia "
+    }, 
+    "Calexico ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0609710.html", 
+        "descriptor": "city", 
+        "name": "Calexico "
+    }, 
+    "Orinda ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0654232.html", 
+        "descriptor": "city", 
+        "name": "Orinda "
+    }, 
+    "South Gate ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0673080.html", 
+        "descriptor": "city", 
+        "name": "South Gate "
+    }, 
+    "San Francisco ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0667000.html", 
+        "descriptor": "city", 
+        "name": "San Francisco "
+    }, 
+    "Fowler ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0625436.html", 
+        "descriptor": "city", 
+        "name": "Fowler "
+    }, 
+    "Richmond ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0660620.html", 
+        "descriptor": "city", 
+        "name": "Richmond "
+    }, 
+    "Anaheim ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0602000.html", 
+        "descriptor": "city", 
+        "name": "Anaheim "
+    }, 
+    "La Puente ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0640340.html", 
+        "descriptor": "city", 
+        "name": "La Puente "
+    }, 
+    "Grass Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0630798.html", 
+        "descriptor": "city", 
+        "name": "Grass Valley "
+    }, 
+    "Winters ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0686034.html", 
+        "descriptor": "city", 
+        "name": "Winters "
+    }, 
+    "Compton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0615044.html", 
+        "descriptor": "city", 
+        "name": "Compton "
+    }, 
+    "Chico ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0613014.html", 
+        "descriptor": "city", 
+        "name": "Chico "
+    }, 
+    "Mission Viejo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0648256.html", 
+        "descriptor": "city", 
+        "name": "Mission Viejo "
+    }, 
+    "Chula Vista ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0613392.html", 
+        "descriptor": "city", 
+        "name": "Chula Vista "
+    }, 
+    "La Mesa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0640004.html", 
+        "descriptor": "city", 
+        "name": "La Mesa "
+    }, 
+    "Bellflower ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0604982.html", 
+        "descriptor": "city", 
+        "name": "Bellflower "
+    }, 
+    "South Whittier ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0673430.html", 
+        "descriptor": "CDP", 
+        "name": "South Whittier "
+    }, 
+    "Garden Grove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0629000.html", 
+        "descriptor": "city", 
+        "name": "Garden Grove "
+    }, 
+    "San Rafael ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0668364.html", 
+        "descriptor": "city", 
+        "name": "San Rafael "
+    }, 
+    "Fontana ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0624680.html", 
+        "descriptor": "city", 
+        "name": "Fontana "
+    }, 
+    "Rohnert Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0662546.html", 
+        "descriptor": "city", 
+        "name": "Rohnert Park "
+    }, 
+    "Salinas ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0664224.html", 
+        "descriptor": "city", 
+        "name": "Salinas "
+    }, 
+    "Taft ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0677574.html", 
+        "descriptor": "city", 
+        "name": "Taft "
+    }, 
+    "Rio Vista ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0660984.html", 
+        "descriptor": "city", 
+        "name": "Rio Vista "
+    }, 
+    "Los Angeles ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0644000.html", 
+        "descriptor": "city", 
+        "name": "Los Angeles "
+    }, 
+    "Lucas Valley-Marinwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0644399.html", 
+        "descriptor": "CDP", 
+        "name": "Lucas Valley-Marinwood "
+    }, 
+    "Mountain House ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0649582.html", 
+        "descriptor": "CDP", 
+        "name": "Mountain House "
+    }, 
+    "Menifee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0646842.html", 
+        "descriptor": "city", 
+        "name": "Menifee "
+    }, 
+    "San Dimas ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0666070.html", 
+        "descriptor": "city", 
+        "name": "San Dimas "
+    }, 
+    "Coto de Caza ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0616580.html", 
+        "descriptor": "CDP", 
+        "name": "Coto de Caza "
+    }, 
+    "Lemoore ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0641152.html", 
+        "descriptor": "city", 
+        "name": "Lemoore "
+    }, 
+    "Ashland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0602980.html", 
+        "descriptor": "CDP", 
+        "name": "Ashland "
+    }, 
+    "Palermo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0655086.html", 
+        "descriptor": "CDP", 
+        "name": "Palermo "
+    }, 
+    "Brea ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0608100.html", 
+        "descriptor": "city", 
+        "name": "Brea "
+    }, 
+    "Franklin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0625488.html", 
+        "descriptor": "CDP", 
+        "name": "Franklin "
+    }, 
+    "Big Bear City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0606406.html", 
+        "descriptor": "CDP", 
+        "name": "Big Bear City "
+    }, 
+    "San Fernando ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0666140.html", 
+        "descriptor": "city", 
+        "name": "San Fernando "
+    }, 
+    "Monterey Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0648914.html", 
+        "descriptor": "city", 
+        "name": "Monterey Park "
+    }, 
+    "Mill Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0647710.html", 
+        "descriptor": "city", 
+        "name": "Mill Valley "
+    }, 
+    "Magalia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0645120.html", 
+        "descriptor": "CDP", 
+        "name": "Magalia "
+    }, 
+    "Firebaugh ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0624134.html", 
+        "descriptor": "city", 
+        "name": "Firebaugh "
+    }, 
+    "Soquel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0672688.html", 
+        "descriptor": "CDP", 
+        "name": "Soquel "
+    }, 
+    "South Monrovia Island ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0673167.html", 
+        "descriptor": "CDP", 
+        "name": "South Monrovia Island "
+    }, 
+    "Upland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0681344.html", 
+        "descriptor": "city", 
+        "name": "Upland "
+    }, 
+    "South Pasadena ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0673220.html", 
+        "descriptor": "city", 
+        "name": "South Pasadena "
+    }, 
+    "Los Alamitos ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0643224.html", 
+        "descriptor": "city", 
+        "name": "Los Alamitos "
+    }, 
+    "Silver Lakes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0671964.html", 
+        "descriptor": "CDP", 
+        "name": "Silver Lakes "
+    }, 
+    "Acton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0600212.html", 
+        "descriptor": "CDP", 
+        "name": "Acton "
+    }, 
+    "Rancho Mirage ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0659500.html", 
+        "descriptor": "city", 
+        "name": "Rancho Mirage "
+    }, 
+    "Arcadia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0602462.html", 
+        "descriptor": "city", 
+        "name": "Arcadia "
+    }, 
+    "Maywood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0646492.html", 
+        "descriptor": "city", 
+        "name": "Maywood "
+    }, 
+    "National City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0650398.html", 
+        "descriptor": "city", 
+        "name": "National City "
+    }, 
+    "Blackhawk ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0606928.html", 
+        "descriptor": "CDP", 
+        "name": "Blackhawk "
+    }, 
+    "Hidden Valley Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0633549.html", 
+        "descriptor": "CDP", 
+        "name": "Hidden Valley Lake "
+    }, 
+    "Palmdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0655156.html", 
+        "descriptor": "city", 
+        "name": "Palmdale "
+    }, 
+    "Apple Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0602364.html", 
+        "descriptor": "town", 
+        "name": "Apple Valley "
+    }, 
+    "Loma Linda ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0642370.html", 
+        "descriptor": "city", 
+        "name": "Loma Linda "
+    }, 
+    "Westminster ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0684550.html", 
+        "descriptor": "city", 
+        "name": "Westminster "
+    }, 
+    "Beaumont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0604758.html", 
+        "descriptor": "city", 
+        "name": "Beaumont "
+    }, 
+    "Westmont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0684592.html", 
+        "descriptor": "CDP", 
+        "name": "Westmont "
+    }, 
+    "Goleta ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0630378.html", 
+        "descriptor": "city", 
+        "name": "Goleta "
+    }, 
+    "Castaic ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0611796.html", 
+        "descriptor": "CDP", 
+        "name": "Castaic "
+    }, 
+    "Seaside ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0670742.html", 
+        "descriptor": "city", 
+        "name": "Seaside "
+    }, 
+    "Cameron Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0610256.html", 
+        "descriptor": "CDP", 
+        "name": "Cameron Park "
+    }, 
+    "San Carlos ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0665070.html", 
+        "descriptor": "city", 
+        "name": "San Carlos "
+    }, 
+    "Alamo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0600618.html", 
+        "descriptor": "CDP", 
+        "name": "Alamo "
+    }, 
+    "Shasta Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0671225.html", 
+        "descriptor": "city", 
+        "name": "Shasta Lake "
+    }, 
+    "Desert Palms ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0619022.html", 
+        "descriptor": "CDP", 
+        "name": "Desert Palms "
+    }, 
+    "Ben Lomond ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0605332.html", 
+        "descriptor": "CDP", 
+        "name": "Ben Lomond "
+    }, 
+    "Alta Sierra ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0601360.html", 
+        "descriptor": "CDP", 
+        "name": "Alta Sierra "
+    }, 
+    "Newark ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0650916.html", 
+        "descriptor": "city", 
+        "name": "Newark "
+    }, 
+    "Pismo Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0657414.html", 
+        "descriptor": "city", 
+        "name": "Pismo Beach "
+    }, 
+    "Poway ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0658520.html", 
+        "descriptor": "city", 
+        "name": "Poway "
+    }, 
+    "Walnut ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0683332.html", 
+        "descriptor": "city", 
+        "name": "Walnut "
+    }, 
+    "Blythe ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0607218.html", 
+        "descriptor": "city", 
+        "name": "Blythe "
+    }, 
+    "Avocado Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0603344.html", 
+        "descriptor": "CDP", 
+        "name": "Avocado Heights "
+    }, 
+    "Corcoran ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0616224.html", 
+        "descriptor": "city", 
+        "name": "Corcoran "
+    }, 
+    "Chino Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0613214.html", 
+        "descriptor": "city", 
+        "name": "Chino Hills "
+    }, 
+    "Red Bluff ": {
+        "url": "http://quickfacts.census.gov/qfd/states/06/0659892.html", 
+        "descriptor": "city", 
+        "name": "Red Bluff "
+    }
+}

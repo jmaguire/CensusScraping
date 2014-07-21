@@ -1,0 +1,1272 @@
+{
+    "Matawan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3444520.html", 
+        "descriptor": "borough", 
+        "name": "Matawan "
+    }, 
+    "Montvale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3447610.html", 
+        "descriptor": "borough", 
+        "name": "Montvale "
+    }, 
+    "Carneys Point ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3410600.html", 
+        "descriptor": "CDP", 
+        "name": "Carneys Point "
+    }, 
+    "Mountainside ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3448510.html", 
+        "descriptor": "borough", 
+        "name": "Mountainside "
+    }, 
+    "Runnemede ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3465160.html", 
+        "descriptor": "borough", 
+        "name": "Runnemede "
+    }, 
+    "Rockaway ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3464050.html", 
+        "descriptor": "borough", 
+        "name": "Rockaway "
+    }, 
+    "Glen Ridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3426610.html", 
+        "descriptor": "borough", 
+        "name": "Glen Ridge "
+    }, 
+    "Stratford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3471220.html", 
+        "descriptor": "borough", 
+        "name": "Stratford "
+    }, 
+    "Paramus ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3455950.html", 
+        "descriptor": "borough", 
+        "name": "Paramus "
+    }, 
+    "Wallington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3476490.html", 
+        "descriptor": "borough", 
+        "name": "Wallington "
+    }, 
+    "Secaucus ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3466570.html", 
+        "descriptor": "town", 
+        "name": "Secaucus "
+    }, 
+    "West New York ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3479610.html", 
+        "descriptor": "town", 
+        "name": "West New York "
+    }, 
+    "Dover ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3418070.html", 
+        "descriptor": "town", 
+        "name": "Dover "
+    }, 
+    "Finderne ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3423310.html", 
+        "descriptor": "CDP", 
+        "name": "Finderne "
+    }, 
+    "Point Pleasant ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3459880.html", 
+        "descriptor": "borough", 
+        "name": "Point Pleasant "
+    }, 
+    "Fort Lee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3424420.html", 
+        "descriptor": "borough", 
+        "name": "Fort Lee "
+    }, 
+    "Penns Grove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3457750.html", 
+        "descriptor": "borough", 
+        "name": "Penns Grove "
+    }, 
+    "New Providence ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3451810.html", 
+        "descriptor": "borough", 
+        "name": "New Providence "
+    }, 
+    "Marlton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3444100.html", 
+        "descriptor": "CDP", 
+        "name": "Marlton "
+    }, 
+    "Kendall Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3436660.html", 
+        "descriptor": "CDP", 
+        "name": "Kendall Park "
+    }, 
+    "Franklin Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3425020.html", 
+        "descriptor": "CDP", 
+        "name": "Franklin Park "
+    }, 
+    "Pompton Lakes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3460090.html", 
+        "descriptor": "borough", 
+        "name": "Pompton Lakes "
+    }, 
+    "Jamesburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3434890.html", 
+        "descriptor": "borough", 
+        "name": "Jamesburg "
+    }, 
+    "Old Bridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3454690.html", 
+        "descriptor": "CDP", 
+        "name": "Old Bridge "
+    }, 
+    "Colonia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3414380.html", 
+        "descriptor": "CDP", 
+        "name": "Colonia "
+    }, 
+    "River Edge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3463360.html", 
+        "descriptor": "borough", 
+        "name": "River Edge "
+    }, 
+    "Garfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3425770.html", 
+        "descriptor": "city", 
+        "name": "Garfield "
+    }, 
+    "Tenafly ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3472420.html", 
+        "descriptor": "borough", 
+        "name": "Tenafly "
+    }, 
+    "Cliffside Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3413570.html", 
+        "descriptor": "borough", 
+        "name": "Cliffside Park "
+    }, 
+    "Haledon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3429070.html", 
+        "descriptor": "borough", 
+        "name": "Haledon "
+    }, 
+    "Bound Brook ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3406790.html", 
+        "descriptor": "borough", 
+        "name": "Bound Brook "
+    }, 
+    "Wood-Ridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3482570.html", 
+        "descriptor": "borough", 
+        "name": "Wood-Ridge "
+    }, 
+    "Elmwood Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3421300.html", 
+        "descriptor": "borough", 
+        "name": "Elmwood Park "
+    }, 
+    "South River ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3469420.html", 
+        "descriptor": "borough", 
+        "name": "South River "
+    }, 
+    "Iselin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3434470.html", 
+        "descriptor": "CDP", 
+        "name": "Iselin "
+    }, 
+    "Oradell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3454990.html", 
+        "descriptor": "borough", 
+        "name": "Oradell "
+    }, 
+    "Hoboken ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3432250.html", 
+        "descriptor": "city", 
+        "name": "Hoboken "
+    }, 
+    "Collingswood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3414260.html", 
+        "descriptor": "borough", 
+        "name": "Collingswood "
+    }, 
+    "Lake Mohawk ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3438040.html", 
+        "descriptor": "CDP", 
+        "name": "Lake Mohawk "
+    }, 
+    "Little Ferry ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3440680.html", 
+        "descriptor": "borough", 
+        "name": "Little Ferry "
+    }, 
+    "Fairview ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3422560.html", 
+        "descriptor": "borough", 
+        "name": "Fairview "
+    }, 
+    "Strathmore ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3471280.html", 
+        "descriptor": "CDP", 
+        "name": "Strathmore "
+    }, 
+    "Morristown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3448300.html", 
+        "descriptor": "town", 
+        "name": "Morristown "
+    }, 
+    "Yardville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3483170.html", 
+        "descriptor": "CDP", 
+        "name": "Yardville "
+    }, 
+    "Hillsdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3431920.html", 
+        "descriptor": "borough", 
+        "name": "Hillsdale "
+    }, 
+    "North Plainfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3453280.html", 
+        "descriptor": "borough", 
+        "name": "North Plainfield "
+    }, 
+    "Upper Saddle River ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3475140.html", 
+        "descriptor": "borough", 
+        "name": "Upper Saddle River "
+    }, 
+    "Avenel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3402350.html", 
+        "descriptor": "CDP", 
+        "name": "Avenel "
+    }, 
+    "Perth Amboy ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3458200.html", 
+        "descriptor": "city", 
+        "name": "Perth Amboy "
+    }, 
+    "Paterson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3457000.html", 
+        "descriptor": "city", 
+        "name": "Paterson "
+    }, 
+    "Englewood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3421480.html", 
+        "descriptor": "city", 
+        "name": "Englewood "
+    }, 
+    "Forked River ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3424180.html", 
+        "descriptor": "CDP", 
+        "name": "Forked River "
+    }, 
+    "Pine Lake Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3458830.html", 
+        "descriptor": "CDP", 
+        "name": "Pine Lake Park "
+    }, 
+    "Edgewater ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3420020.html", 
+        "descriptor": "borough", 
+        "name": "Edgewater "
+    }, 
+    "Fort Dix ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3424300.html", 
+        "descriptor": "CDP", 
+        "name": "Fort Dix "
+    }, 
+    "Red Bank ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3462430.html", 
+        "descriptor": "borough", 
+        "name": "Red Bank "
+    }, 
+    "East Orange ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3419390.html", 
+        "descriptor": "city", 
+        "name": "East Orange "
+    }, 
+    "Waldwick ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3476400.html", 
+        "descriptor": "borough", 
+        "name": "Waldwick "
+    }, 
+    "Clayton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3413360.html", 
+        "descriptor": "borough", 
+        "name": "Clayton "
+    }, 
+    "Emerson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3421450.html", 
+        "descriptor": "borough", 
+        "name": "Emerson "
+    }, 
+    "Somers Point ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3468430.html", 
+        "descriptor": "city", 
+        "name": "Somers Point "
+    }, 
+    "Brookdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3408110.html", 
+        "descriptor": "CDP", 
+        "name": "Brookdale "
+    }, 
+    "Rumson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3465130.html", 
+        "descriptor": "borough", 
+        "name": "Rumson "
+    }, 
+    "Morganville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3448030.html", 
+        "descriptor": "CDP", 
+        "name": "Morganville "
+    }, 
+    "Keyport ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3436810.html", 
+        "descriptor": "borough", 
+        "name": "Keyport "
+    }, 
+    "Ridgefield Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3462940.html", 
+        "descriptor": "village", 
+        "name": "Ridgefield Park "
+    }, 
+    "Greentree ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3427995.html", 
+        "descriptor": "CDP", 
+        "name": "Greentree "
+    }, 
+    "Smithville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3468190.html", 
+        "descriptor": "CDP", 
+        "name": "Smithville "
+    }, 
+    "Somerdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3468340.html", 
+        "descriptor": "borough", 
+        "name": "Somerdale "
+    }, 
+    "Pine Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3458770.html", 
+        "descriptor": "borough", 
+        "name": "Pine Hill "
+    }, 
+    "Pomona ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3460030.html", 
+        "descriptor": "CDP", 
+        "name": "Pomona "
+    }, 
+    "Maywood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3444880.html", 
+        "descriptor": "borough", 
+        "name": "Maywood "
+    }, 
+    "Villas ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3476010.html", 
+        "descriptor": "CDP", 
+        "name": "Villas "
+    }, 
+    "Crestwood Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3415910.html", 
+        "descriptor": "CDP", 
+        "name": "Crestwood Village "
+    }, 
+    "Beachwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3404180.html", 
+        "descriptor": "borough", 
+        "name": "Beachwood "
+    }, 
+    "Linwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3440530.html", 
+        "descriptor": "city", 
+        "name": "Linwood "
+    }, 
+    "Lakewood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3438580.html", 
+        "descriptor": "CDP", 
+        "name": "Lakewood "
+    }, 
+    "Dunellen ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3418490.html", 
+        "descriptor": "borough", 
+        "name": "Dunellen "
+    }, 
+    "Palmyra ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3455800.html", 
+        "descriptor": "borough", 
+        "name": "Palmyra "
+    }, 
+    "Morris Plains ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3448210.html", 
+        "descriptor": "borough", 
+        "name": "Morris Plains "
+    }, 
+    "Rutherford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3465280.html", 
+        "descriptor": "borough", 
+        "name": "Rutherford "
+    }, 
+    "Clifton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3413690.html", 
+        "descriptor": "city", 
+        "name": "Clifton "
+    }, 
+    "Fords ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3424030.html", 
+        "descriptor": "CDP", 
+        "name": "Fords "
+    }, 
+    "Kinnelon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3437110.html", 
+        "descriptor": "borough", 
+        "name": "Kinnelon "
+    }, 
+    "Tinton Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3473020.html", 
+        "descriptor": "borough", 
+        "name": "Tinton Falls "
+    }, 
+    "Mercerville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3445480.html", 
+        "descriptor": "CDP", 
+        "name": "Mercerville "
+    }, 
+    "Englewood Cliffs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3421510.html", 
+        "descriptor": "borough", 
+        "name": "Englewood Cliffs "
+    }, 
+    "North Haledon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3453040.html", 
+        "descriptor": "borough", 
+        "name": "North Haledon "
+    }, 
+    "Somerset ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3468370.html", 
+        "descriptor": "CDP", 
+        "name": "Somerset "
+    }, 
+    "Absecon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3400100.html", 
+        "descriptor": "city", 
+        "name": "Absecon "
+    }, 
+    "Keansburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3436480.html", 
+        "descriptor": "borough", 
+        "name": "Keansburg "
+    }, 
+    "Wanaque ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3476730.html", 
+        "descriptor": "borough", 
+        "name": "Wanaque "
+    }, 
+    "Williamstown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3481380.html", 
+        "descriptor": "CDP", 
+        "name": "Williamstown "
+    }, 
+    "Hawthorne ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3430570.html", 
+        "descriptor": "borough", 
+        "name": "Hawthorne "
+    }, 
+    "Westwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3480270.html", 
+        "descriptor": "borough", 
+        "name": "Westwood "
+    }, 
+    "Upper Montclair ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3475020.html", 
+        "descriptor": "CDP", 
+        "name": "Upper Montclair "
+    }, 
+    "Atlantic City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3402080.html", 
+        "descriptor": "city", 
+        "name": "Atlantic City "
+    }, 
+    "Belmar ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3404930.html", 
+        "descriptor": "borough", 
+        "name": "Belmar "
+    }, 
+    "North Arlington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3452320.html", 
+        "descriptor": "borough", 
+        "name": "North Arlington "
+    }, 
+    "Cresskill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3415820.html", 
+        "descriptor": "borough", 
+        "name": "Cresskill "
+    }, 
+    "Paulsboro ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3457150.html", 
+        "descriptor": "borough", 
+        "name": "Paulsboro "
+    }, 
+    "Ramblewood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3461650.html", 
+        "descriptor": "CDP", 
+        "name": "Ramblewood "
+    }, 
+    "Metuchen ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3445690.html", 
+        "descriptor": "borough", 
+        "name": "Metuchen "
+    }, 
+    "Kearny ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3436510.html", 
+        "descriptor": "town", 
+        "name": "Kearny "
+    }, 
+    "Bernardsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3405590.html", 
+        "descriptor": "borough", 
+        "name": "Bernardsville "
+    }, 
+    "Oakland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3453850.html", 
+        "descriptor": "borough", 
+        "name": "Oakland "
+    }, 
+    "Midland Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3446110.html", 
+        "descriptor": "borough", 
+        "name": "Midland Park "
+    }, 
+    "Bradley Gardens ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3407000.html", 
+        "descriptor": "CDP", 
+        "name": "Bradley Gardens "
+    }, 
+    "Woodbury ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3482120.html", 
+        "descriptor": "city", 
+        "name": "Woodbury "
+    }, 
+    "South Plainfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3469390.html", 
+        "descriptor": "borough", 
+        "name": "South Plainfield "
+    }, 
+    "Franklin Lakes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3424990.html", 
+        "descriptor": "borough", 
+        "name": "Franklin Lakes "
+    }, 
+    "Budd Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3408620.html", 
+        "descriptor": "CDP", 
+        "name": "Budd Lake "
+    }, 
+    "Hasbrouck Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3430420.html", 
+        "descriptor": "borough", 
+        "name": "Hasbrouck Heights "
+    }, 
+    "Hackensack ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3428680.html", 
+        "descriptor": "city", 
+        "name": "Hackensack "
+    }, 
+    "Bloomingdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3406340.html", 
+        "descriptor": "borough", 
+        "name": "Bloomingdale "
+    }, 
+    "New Milford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3451660.html", 
+        "descriptor": "borough", 
+        "name": "New Milford "
+    }, 
+    "Northfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3452950.html", 
+        "descriptor": "city", 
+        "name": "Northfield "
+    }, 
+    "Ramsey ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3461680.html", 
+        "descriptor": "borough", 
+        "name": "Ramsey "
+    }, 
+    "Green Knoll ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3427840.html", 
+        "descriptor": "CDP", 
+        "name": "Green Knoll "
+    }, 
+    "Asbury Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3401960.html", 
+        "descriptor": "city", 
+        "name": "Asbury Park "
+    }, 
+    "Raritan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3461980.html", 
+        "descriptor": "borough", 
+        "name": "Raritan "
+    }, 
+    "Allendale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3400700.html", 
+        "descriptor": "borough", 
+        "name": "Allendale "
+    }, 
+    "Succasunna ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3471370.html", 
+        "descriptor": "CDP", 
+        "name": "Succasunna "
+    }, 
+    "Freehold ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3425200.html", 
+        "descriptor": "borough", 
+        "name": "Freehold "
+    }, 
+    "Ramtown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3461725.html", 
+        "descriptor": "CDP", 
+        "name": "Ramtown "
+    }, 
+    "Lodi ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3441100.html", 
+        "descriptor": "borough", 
+        "name": "Lodi "
+    }, 
+    "Twin Rivers ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3474330.html", 
+        "descriptor": "CDP", 
+        "name": "Twin Rivers "
+    }, 
+    "Echelon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3419900.html", 
+        "descriptor": "CDP", 
+        "name": "Echelon "
+    }, 
+    "Mystic Island ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3449560.html", 
+        "descriptor": "CDP", 
+        "name": "Mystic Island "
+    }, 
+    "Westfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3479040.html", 
+        "descriptor": "town", 
+        "name": "Westfield "
+    }, 
+    "Bridgeton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3407600.html", 
+        "descriptor": "city", 
+        "name": "Bridgeton "
+    }, 
+    "Boonton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3406610.html", 
+        "descriptor": "town", 
+        "name": "Boonton "
+    }, 
+    "Summit ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3471430.html", 
+        "descriptor": "city", 
+        "name": "Summit "
+    }, 
+    "Union City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3474630.html", 
+        "descriptor": "city", 
+        "name": "Union City "
+    }, 
+    "Trenton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3474000.html", 
+        "descriptor": "city", 
+        "name": "Trenton "
+    }, 
+    "Pennsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3457840.html", 
+        "descriptor": "CDP", 
+        "name": "Pennsville "
+    }, 
+    "Chatham ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3412100.html", 
+        "descriptor": "borough", 
+        "name": "Chatham "
+    }, 
+    "Fair Haven ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3422440.html", 
+        "descriptor": "borough", 
+        "name": "Fair Haven "
+    }, 
+    "Brigantine ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3407810.html", 
+        "descriptor": "city", 
+        "name": "Brigantine "
+    }, 
+    "Phillipsburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3458350.html", 
+        "descriptor": "town", 
+        "name": "Phillipsburg "
+    }, 
+    "Palisades Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3455770.html", 
+        "descriptor": "borough", 
+        "name": "Palisades Park "
+    }, 
+    "Long Branch ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3441310.html", 
+        "descriptor": "city", 
+        "name": "Long Branch "
+    }, 
+    "Woodcliff Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3482300.html", 
+        "descriptor": "borough", 
+        "name": "Woodcliff Lake "
+    }, 
+    "Ventnor City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3475620.html", 
+        "descriptor": "city", 
+        "name": "Ventnor City "
+    }, 
+    "Elizabeth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3421000.html", 
+        "descriptor": "city", 
+        "name": "Elizabeth "
+    }, 
+    "Pitman ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3459070.html", 
+        "descriptor": "borough", 
+        "name": "Pitman "
+    }, 
+    "Glassboro ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3426340.html", 
+        "descriptor": "borough", 
+        "name": "Glassboro "
+    }, 
+    "Union Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3474540.html", 
+        "descriptor": "borough", 
+        "name": "Union Beach "
+    }, 
+    "Mount Arlington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3448690.html", 
+        "descriptor": "borough", 
+        "name": "Mount Arlington "
+    }, 
+    "Berlin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3405440.html", 
+        "descriptor": "borough", 
+        "name": "Berlin "
+    }, 
+    "Norwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3453610.html", 
+        "descriptor": "borough", 
+        "name": "Norwood "
+    }, 
+    "Jersey City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3436000.html", 
+        "descriptor": "city", 
+        "name": "Jersey City "
+    }, 
+    "Leonia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3440020.html", 
+        "descriptor": "borough", 
+        "name": "Leonia "
+    }, 
+    "Old Tappan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3454870.html", 
+        "descriptor": "borough", 
+        "name": "Old Tappan "
+    }, 
+    "Wharton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3480390.html", 
+        "descriptor": "borough", 
+        "name": "Wharton "
+    }, 
+    "White Meadow Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3480750.html", 
+        "descriptor": "CDP", 
+        "name": "White Meadow Lake "
+    }, 
+    "Plainfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3459190.html", 
+        "descriptor": "city", 
+        "name": "Plainfield "
+    }, 
+    "Passaic ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3456550.html", 
+        "descriptor": "city", 
+        "name": "Passaic "
+    }, 
+    "Linden ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3440350.html", 
+        "descriptor": "city", 
+        "name": "Linden "
+    }, 
+    "Audubon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3402200.html", 
+        "descriptor": "borough", 
+        "name": "Audubon "
+    }, 
+    "Hopatcong ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3432910.html", 
+        "descriptor": "borough", 
+        "name": "Hopatcong "
+    }, 
+    "Dumont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3418400.html", 
+        "descriptor": "borough", 
+        "name": "Dumont "
+    }, 
+    "Madison Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3442540.html", 
+        "descriptor": "CDP", 
+        "name": "Madison Park "
+    }, 
+    "Holiday City-Berkeley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3432415.html", 
+        "descriptor": "CDP", 
+        "name": "Holiday City-Berkeley "
+    }, 
+    "Mendham ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3445330.html", 
+        "descriptor": "borough", 
+        "name": "Mendham "
+    }, 
+    "West Long Branch ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3479310.html", 
+        "descriptor": "borough", 
+        "name": "West Long Branch "
+    }, 
+    "Yorketown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3483245.html", 
+        "descriptor": "CDP", 
+        "name": "Yorketown "
+    }, 
+    "Springdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3469900.html", 
+        "descriptor": "CDP", 
+        "name": "Springdale "
+    }, 
+    "Totowa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3473140.html", 
+        "descriptor": "borough", 
+        "name": "Totowa "
+    }, 
+    "Vineland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3476070.html", 
+        "descriptor": "city", 
+        "name": "Vineland "
+    }, 
+    "Rahway ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3461530.html", 
+        "descriptor": "city", 
+        "name": "Rahway "
+    }, 
+    "Millville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3446680.html", 
+        "descriptor": "city", 
+        "name": "Millville "
+    }, 
+    "Bogota ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3406490.html", 
+        "descriptor": "borough", 
+        "name": "Bogota "
+    }, 
+    "South Amboy ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3468550.html", 
+        "descriptor": "city", 
+        "name": "South Amboy "
+    }, 
+    "Hackettstown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3428710.html", 
+        "descriptor": "town", 
+        "name": "Hackettstown "
+    }, 
+    "Burlington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3408920.html", 
+        "descriptor": "city", 
+        "name": "Burlington "
+    }, 
+    "Barrington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3403250.html", 
+        "descriptor": "borough", 
+        "name": "Barrington "
+    }, 
+    "Ocean Acres ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3454315.html", 
+        "descriptor": "CDP", 
+        "name": "Ocean Acres "
+    }, 
+    "Ashland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3401990.html", 
+        "descriptor": "CDP", 
+        "name": "Ashland "
+    }, 
+    "Roselle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3464620.html", 
+        "descriptor": "borough", 
+        "name": "Roselle "
+    }, 
+    "Butler ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3409040.html", 
+        "descriptor": "borough", 
+        "name": "Butler "
+    }, 
+    "Prospect Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3461170.html", 
+        "descriptor": "borough", 
+        "name": "Prospect Park "
+    }, 
+    "Toms River ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3473110.html", 
+        "descriptor": "CDP", 
+        "name": "Toms River "
+    }, 
+    "Dayton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3416630.html", 
+        "descriptor": "CDP", 
+        "name": "Dayton "
+    }, 
+    "Cherry Hill Mall ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3412385.html", 
+        "descriptor": "CDP", 
+        "name": "Cherry Hill Mall "
+    }, 
+    "Highland Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3431470.html", 
+        "descriptor": "borough", 
+        "name": "Highland Park "
+    }, 
+    "Woodbridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3481950.html", 
+        "descriptor": "CDP", 
+        "name": "Woodbridge "
+    }, 
+    "Kenilworth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3436690.html", 
+        "descriptor": "borough", 
+        "name": "Kenilworth "
+    }, 
+    "Wildwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3481170.html", 
+        "descriptor": "city", 
+        "name": "Wildwood "
+    }, 
+    "Carlstadt ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3410480.html", 
+        "descriptor": "borough", 
+        "name": "Carlstadt "
+    }, 
+    "Manasquan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3443050.html", 
+        "descriptor": "borough", 
+        "name": "Manasquan "
+    }, 
+    "Kingston Estates ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3436960.html", 
+        "descriptor": "CDP", 
+        "name": "Kingston Estates "
+    }, 
+    "Washington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3477270.html", 
+        "descriptor": "borough", 
+        "name": "Washington "
+    }, 
+    "Heathcote ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3430738.html", 
+        "descriptor": "CDP", 
+        "name": "Heathcote "
+    }, 
+    "Hightstown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3431620.html", 
+        "descriptor": "borough", 
+        "name": "Hightstown "
+    }, 
+    "Cape May Court House ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3410300.html", 
+        "descriptor": "CDP", 
+        "name": "Cape May Court House "
+    }, 
+    "Fair Lawn ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3422470.html", 
+        "descriptor": "borough", 
+        "name": "Fair Lawn "
+    }, 
+    "Browns Mills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3408455.html", 
+        "descriptor": "CDP", 
+        "name": "Browns Mills "
+    }, 
+    "Woodland Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3482423.html", 
+        "descriptor": "borough", 
+        "name": "Woodland Park "
+    }, 
+    "Roseland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3464590.html", 
+        "descriptor": "borough", 
+        "name": "Roseland "
+    }, 
+    "West Freehold ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3479100.html", 
+        "descriptor": "CDP", 
+        "name": "West Freehold "
+    }, 
+    "Manville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3443620.html", 
+        "descriptor": "borough", 
+        "name": "Manville "
+    }, 
+    "Haddon Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3428800.html", 
+        "descriptor": "borough", 
+        "name": "Haddon Heights "
+    }, 
+    "East Franklin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3419130.html", 
+        "descriptor": "CDP", 
+        "name": "East Franklin "
+    }, 
+    "Watchung ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3477600.html", 
+        "descriptor": "borough", 
+        "name": "Watchung "
+    }, 
+    "Bayonne ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3403580.html", 
+        "descriptor": "city", 
+        "name": "Bayonne "
+    }, 
+    "Princeton Meadows ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3460975.html", 
+        "descriptor": "CDP", 
+        "name": "Princeton Meadows "
+    }, 
+    "Margate City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3443890.html", 
+        "descriptor": "city", 
+        "name": "Margate City "
+    }, 
+    "Fanwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3422860.html", 
+        "descriptor": "borough", 
+        "name": "Fanwood "
+    }, 
+    "Little Silver ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3440770.html", 
+        "descriptor": "borough", 
+        "name": "Little Silver "
+    }, 
+    "North Caldwell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3452620.html", 
+        "descriptor": "borough", 
+        "name": "North Caldwell "
+    }, 
+    "Roselle Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3464650.html", 
+        "descriptor": "borough", 
+        "name": "Roselle Park "
+    }, 
+    "Ridgewood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3463000.html", 
+        "descriptor": "village", 
+        "name": "Ridgewood "
+    }, 
+    "Moorestown-Lenola ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3447895.html", 
+        "descriptor": "CDP", 
+        "name": "Moorestown-Lenola "
+    }, 
+    "Milltown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3446620.html", 
+        "descriptor": "borough", 
+        "name": "Milltown "
+    }, 
+    "East Rutherford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3419510.html", 
+        "descriptor": "borough", 
+        "name": "East Rutherford "
+    }, 
+    "Glen Rock ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3426640.html", 
+        "descriptor": "borough", 
+        "name": "Glen Rock "
+    }, 
+    "Newton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3451930.html", 
+        "descriptor": "town", 
+        "name": "Newton "
+    }, 
+    "Oceanport ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3454570.html", 
+        "descriptor": "borough", 
+        "name": "Oceanport "
+    }, 
+    "Salem ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3465490.html", 
+        "descriptor": "city", 
+        "name": "Salem "
+    }, 
+    "Eatontown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3419840.html", 
+        "descriptor": "borough", 
+        "name": "Eatontown "
+    }, 
+    "Madison ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3442510.html", 
+        "descriptor": "borough", 
+        "name": "Madison "
+    }, 
+    "Florham Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3423910.html", 
+        "descriptor": "borough", 
+        "name": "Florham Park "
+    }, 
+    "Somerville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3468460.html", 
+        "descriptor": "borough", 
+        "name": "Somerville "
+    }, 
+    "Gloucester City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3426820.html", 
+        "descriptor": "city", 
+        "name": "Gloucester City "
+    }, 
+    "Bergenfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3405170.html", 
+        "descriptor": "borough", 
+        "name": "Bergenfield "
+    }, 
+    "Middlesex ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3445900.html", 
+        "descriptor": "borough", 
+        "name": "Middlesex "
+    }, 
+    "Haddonfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3428770.html", 
+        "descriptor": "borough", 
+        "name": "Haddonfield "
+    }, 
+    "Bellmawr ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3404750.html", 
+        "descriptor": "borough", 
+        "name": "Bellmawr "
+    }, 
+    "Short Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3467320.html", 
+        "descriptor": "CDP", 
+        "name": "Short Hills "
+    }, 
+    "Harrison ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3430210.html", 
+        "descriptor": "town", 
+        "name": "Harrison "
+    }, 
+    "Closter ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3413810.html", 
+        "descriptor": "borough", 
+        "name": "Closter "
+    }, 
+    "Ridgefield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3462910.html", 
+        "descriptor": "borough", 
+        "name": "Ridgefield "
+    }, 
+    "Hammonton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3429430.html", 
+        "descriptor": "town", 
+        "name": "Hammonton "
+    }, 
+    "Lincroft ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3440320.html", 
+        "descriptor": "CDP", 
+        "name": "Lincroft "
+    }, 
+    "Carteret ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3410750.html", 
+        "descriptor": "borough", 
+        "name": "Carteret "
+    }, 
+    "Pleasantville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3459640.html", 
+        "descriptor": "city", 
+        "name": "Pleasantville "
+    }, 
+    "Laurence Harbor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3439360.html", 
+        "descriptor": "CDP", 
+        "name": "Laurence Harbor "
+    }, 
+    "New Brunswick ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3451210.html", 
+        "descriptor": "city", 
+        "name": "New Brunswick "
+    }, 
+    "Park Ridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3456130.html", 
+        "descriptor": "borough", 
+        "name": "Park Ridge "
+    }, 
+    "Martinsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3444430.html", 
+        "descriptor": "CDP", 
+        "name": "Martinsville "
+    }, 
+    "White Horse ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3480630.html", 
+        "descriptor": "CDP", 
+        "name": "White Horse "
+    }, 
+    "Newark ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3451000.html", 
+        "descriptor": "city", 
+        "name": "Newark "
+    }, 
+    "Ocean City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3454360.html", 
+        "descriptor": "city", 
+        "name": "Ocean City "
+    }, 
+    "Robertsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3463900.html", 
+        "descriptor": "CDP", 
+        "name": "Robertsville "
+    }, 
+    "Lindenwold ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3440440.html", 
+        "descriptor": "borough", 
+        "name": "Lindenwold "
+    }, 
+    "Camden ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3410000.html", 
+        "descriptor": "city", 
+        "name": "Camden "
+    }, 
+    "Guttenberg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3428650.html", 
+        "descriptor": "town", 
+        "name": "Guttenberg "
+    }, 
+    "Caldwell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3409250.html", 
+        "descriptor": "borough", 
+        "name": "Caldwell "
+    }, 
+    "Hamilton Square ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3429370.html", 
+        "descriptor": "CDP", 
+        "name": "Hamilton Square "
+    }, 
+    "Lincoln Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3440290.html", 
+        "descriptor": "borough", 
+        "name": "Lincoln Park "
+    }, 
+    "Ringwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3463150.html", 
+        "descriptor": "borough", 
+        "name": "Ringwood "
+    }, 
+    "Spotswood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3469810.html", 
+        "descriptor": "borough", 
+        "name": "Spotswood "
+    }, 
+    "Sayreville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/34/3465790.html", 
+        "descriptor": "borough", 
+        "name": "Sayreville "
+    }
+}

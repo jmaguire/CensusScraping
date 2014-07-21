@@ -1,0 +1,412 @@
+{
+    "Anamosa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1901990.html", 
+        "descriptor": "city", 
+        "name": "Anamosa "
+    }, 
+    "Fort Madison ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1928605.html", 
+        "descriptor": "city", 
+        "name": "Fort Madison "
+    }, 
+    "Shenandoah ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1972525.html", 
+        "descriptor": "city", 
+        "name": "Shenandoah "
+    }, 
+    "Algona ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1901135.html", 
+        "descriptor": "city", 
+        "name": "Algona "
+    }, 
+    "Fort Dodge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1928515.html", 
+        "descriptor": "city", 
+        "name": "Fort Dodge "
+    }, 
+    "Vinton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1981210.html", 
+        "descriptor": "city", 
+        "name": "Vinton "
+    }, 
+    "Washington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1982335.html", 
+        "descriptor": "city", 
+        "name": "Washington "
+    }, 
+    "North Liberty ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1957360.html", 
+        "descriptor": "city", 
+        "name": "North Liberty "
+    }, 
+    "Manchester ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1948810.html", 
+        "descriptor": "city", 
+        "name": "Manchester "
+    }, 
+    "Le Mars ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1944400.html", 
+        "descriptor": "city", 
+        "name": "Le Mars "
+    }, 
+    "Waterloo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1982425.html", 
+        "descriptor": "city", 
+        "name": "Waterloo "
+    }, 
+    "Muscatine ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1955110.html", 
+        "descriptor": "city", 
+        "name": "Muscatine "
+    }, 
+    "Nevada ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1955695.html", 
+        "descriptor": "city", 
+        "name": "Nevada "
+    }, 
+    "Dubuque ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1922395.html", 
+        "descriptor": "city", 
+        "name": "Dubuque "
+    }, 
+    "Winterset ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1986520.html", 
+        "descriptor": "city", 
+        "name": "Winterset "
+    }, 
+    "Davenport ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1919000.html", 
+        "descriptor": "city", 
+        "name": "Davenport "
+    }, 
+    "Spencer ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1974280.html", 
+        "descriptor": "city", 
+        "name": "Spencer "
+    }, 
+    "Glenwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1931350.html", 
+        "descriptor": "city", 
+        "name": "Glenwood "
+    }, 
+    "Sioux City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1973335.html", 
+        "descriptor": "city", 
+        "name": "Sioux City "
+    }, 
+    "Johnston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1939765.html", 
+        "descriptor": "city", 
+        "name": "Johnston "
+    }, 
+    "Independence ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1938100.html", 
+        "descriptor": "city", 
+        "name": "Independence "
+    }, 
+    "Des Moines ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1921000.html", 
+        "descriptor": "city", 
+        "name": "Des Moines "
+    }, 
+    "Atlantic ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1903520.html", 
+        "descriptor": "city", 
+        "name": "Atlantic "
+    }, 
+    "Boone ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1907480.html", 
+        "descriptor": "city", 
+        "name": "Boone "
+    }, 
+    "Newton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1956505.html", 
+        "descriptor": "city", 
+        "name": "Newton "
+    }, 
+    "Pleasant Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1963525.html", 
+        "descriptor": "city", 
+        "name": "Pleasant Hill "
+    }, 
+    "Webster City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1983145.html", 
+        "descriptor": "city", 
+        "name": "Webster City "
+    }, 
+    "Iowa City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1938595.html", 
+        "descriptor": "city", 
+        "name": "Iowa City "
+    }, 
+    "Mason City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1950160.html", 
+        "descriptor": "city", 
+        "name": "Mason City "
+    }, 
+    "Clear Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1914025.html", 
+        "descriptor": "city", 
+        "name": "Clear Lake "
+    }, 
+    "Carroll ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1911080.html", 
+        "descriptor": "city", 
+        "name": "Carroll "
+    }, 
+    "Storm Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1975630.html", 
+        "descriptor": "city", 
+        "name": "Storm Lake "
+    }, 
+    "Knoxville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1942015.html", 
+        "descriptor": "city", 
+        "name": "Knoxville "
+    }, 
+    "Burlington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1909550.html", 
+        "descriptor": "city", 
+        "name": "Burlington "
+    }, 
+    "Keokuk ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1940845.html", 
+        "descriptor": "city", 
+        "name": "Keokuk "
+    }, 
+    "West Des Moines ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1983910.html", 
+        "descriptor": "city", 
+        "name": "West Des Moines "
+    }, 
+    "Marion ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1949485.html", 
+        "descriptor": "city", 
+        "name": "Marion "
+    }, 
+    "Perry ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1962355.html", 
+        "descriptor": "city", 
+        "name": "Perry "
+    }, 
+    "Indianola ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1938280.html", 
+        "descriptor": "city", 
+        "name": "Indianola "
+    }, 
+    "Harlan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1934500.html", 
+        "descriptor": "city", 
+        "name": "Harlan "
+    }, 
+    "Cedar Rapids ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1912000.html", 
+        "descriptor": "city", 
+        "name": "Cedar Rapids "
+    }, 
+    "Fairfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1926445.html", 
+        "descriptor": "city", 
+        "name": "Fairfield "
+    }, 
+    "Bettendorf ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1906355.html", 
+        "descriptor": "city", 
+        "name": "Bettendorf "
+    }, 
+    "Norwalk ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1957675.html", 
+        "descriptor": "city", 
+        "name": "Norwalk "
+    }, 
+    "Ames ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1901855.html", 
+        "descriptor": "city", 
+        "name": "Ames "
+    }, 
+    "Clive ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1914520.html", 
+        "descriptor": "city", 
+        "name": "Clive "
+    }, 
+    "Charles City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1912765.html", 
+        "descriptor": "city", 
+        "name": "Charles City "
+    }, 
+    "Centerville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1912315.html", 
+        "descriptor": "city", 
+        "name": "Centerville "
+    }, 
+    "Clinton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1914430.html", 
+        "descriptor": "city", 
+        "name": "Clinton "
+    }, 
+    "Sioux Center ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1973290.html", 
+        "descriptor": "city", 
+        "name": "Sioux Center "
+    }, 
+    "Grinnell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1933105.html", 
+        "descriptor": "city", 
+        "name": "Grinnell "
+    }, 
+    "Asbury ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1903160.html", 
+        "descriptor": "city", 
+        "name": "Asbury "
+    }, 
+    "Red Oak ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1966135.html", 
+        "descriptor": "city", 
+        "name": "Red Oak "
+    }, 
+    "Oelwein ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1958620.html", 
+        "descriptor": "city", 
+        "name": "Oelwein "
+    }, 
+    "Council Bluffs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1916860.html", 
+        "descriptor": "city", 
+        "name": "Council Bluffs "
+    }, 
+    "Maquoketa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1949215.html", 
+        "descriptor": "city", 
+        "name": "Maquoketa "
+    }, 
+    "Clarinda ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1913575.html", 
+        "descriptor": "city", 
+        "name": "Clarinda "
+    }, 
+    "Ottumwa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1960465.html", 
+        "descriptor": "city", 
+        "name": "Ottumwa "
+    }, 
+    "De Witt ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1921180.html", 
+        "descriptor": "city", 
+        "name": "De Witt "
+    }, 
+    "Waverly ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1982875.html", 
+        "descriptor": "city", 
+        "name": "Waverly "
+    }, 
+    "Waukee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1982695.html", 
+        "descriptor": "city", 
+        "name": "Waukee "
+    }, 
+    "Oskaloosa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1959925.html", 
+        "descriptor": "city", 
+        "name": "Oskaloosa "
+    }, 
+    "Mount Pleasant ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1954705.html", 
+        "descriptor": "city", 
+        "name": "Mount Pleasant "
+    }, 
+    "Marshalltown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1949755.html", 
+        "descriptor": "city", 
+        "name": "Marshalltown "
+    }, 
+    "Coralville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1916230.html", 
+        "descriptor": "city", 
+        "name": "Coralville "
+    }, 
+    "Orange City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1959475.html", 
+        "descriptor": "city", 
+        "name": "Orange City "
+    }, 
+    "Denison ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1919945.html", 
+        "descriptor": "city", 
+        "name": "Denison "
+    }, 
+    "Eldridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1924600.html", 
+        "descriptor": "city", 
+        "name": "Eldridge "
+    }, 
+    "Sheldon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1972390.html", 
+        "descriptor": "city", 
+        "name": "Sheldon "
+    }, 
+    "Grimes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1933060.html", 
+        "descriptor": "city", 
+        "name": "Grimes "
+    }, 
+    "Creston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1917265.html", 
+        "descriptor": "city", 
+        "name": "Creston "
+    }, 
+    "Ankeny ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1902305.html", 
+        "descriptor": "city", 
+        "name": "Ankeny "
+    }, 
+    "Osceola ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1959835.html", 
+        "descriptor": "city", 
+        "name": "Osceola "
+    }, 
+    "Cedar Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1911755.html", 
+        "descriptor": "city", 
+        "name": "Cedar Falls "
+    }, 
+    "Altoona ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1901630.html", 
+        "descriptor": "city", 
+        "name": "Altoona "
+    }, 
+    "Estherville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1925860.html", 
+        "descriptor": "city", 
+        "name": "Estherville "
+    }, 
+    "Cherokee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1913080.html", 
+        "descriptor": "city", 
+        "name": "Cherokee "
+    }, 
+    "Hiawatha ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1935940.html", 
+        "descriptor": "city", 
+        "name": "Hiawatha "
+    }, 
+    "Urbandale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1979950.html", 
+        "descriptor": "city", 
+        "name": "Urbandale "
+    }, 
+    "Pella ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1962040.html", 
+        "descriptor": "city", 
+        "name": "Pella "
+    }, 
+    "Decorah ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1919405.html", 
+        "descriptor": "city", 
+        "name": "Decorah "
+    }, 
+    "Iowa Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/19/1938640.html", 
+        "descriptor": "city", 
+        "name": "Iowa Falls "
+    }
+}

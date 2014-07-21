@@ -1,0 +1,92 @@
+{
+    "Jackson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/56/5640120.html", 
+        "descriptor": "town", 
+        "name": "Jackson "
+    }, 
+    "Gillette ": {
+        "url": "http://quickfacts.census.gov/qfd/states/56/5631855.html", 
+        "descriptor": "city", 
+        "name": "Gillette "
+    }, 
+    "Lander ": {
+        "url": "http://quickfacts.census.gov/qfd/states/56/5644760.html", 
+        "descriptor": "city", 
+        "name": "Lander "
+    }, 
+    "Worland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/56/5684925.html", 
+        "descriptor": "city", 
+        "name": "Worland "
+    }, 
+    "Riverton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/56/5666220.html", 
+        "descriptor": "city", 
+        "name": "Riverton "
+    }, 
+    "Sheridan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/56/5669845.html", 
+        "descriptor": "city", 
+        "name": "Sheridan "
+    }, 
+    "Rawlins ": {
+        "url": "http://quickfacts.census.gov/qfd/states/56/5663900.html", 
+        "descriptor": "city", 
+        "name": "Rawlins "
+    }, 
+    "Laramie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/56/5645050.html", 
+        "descriptor": "city", 
+        "name": "Laramie "
+    }, 
+    "Green River ": {
+        "url": "http://quickfacts.census.gov/qfd/states/56/5633740.html", 
+        "descriptor": "city", 
+        "name": "Green River "
+    }, 
+    "Douglas ": {
+        "url": "http://quickfacts.census.gov/qfd/states/56/5621125.html", 
+        "descriptor": "city", 
+        "name": "Douglas "
+    }, 
+    "Cody ": {
+        "url": "http://quickfacts.census.gov/qfd/states/56/5615760.html", 
+        "descriptor": "city", 
+        "name": "Cody "
+    }, 
+    "Rock Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/56/5667235.html", 
+        "descriptor": "city", 
+        "name": "Rock Springs "
+    }, 
+    "Powell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/56/5662450.html", 
+        "descriptor": "city", 
+        "name": "Powell "
+    }, 
+    "Casper ": {
+        "url": "http://quickfacts.census.gov/qfd/states/56/5613150.html", 
+        "descriptor": "city", 
+        "name": "Casper "
+    }, 
+    "Ranchettes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/56/5663800.html", 
+        "descriptor": "CDP", 
+        "name": "Ranchettes "
+    }, 
+    "Evanston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/56/5625620.html", 
+        "descriptor": "city", 
+        "name": "Evanston "
+    }, 
+    "Cheyenne ": {
+        "url": "http://quickfacts.census.gov/qfd/states/56/5613900.html", 
+        "descriptor": "city", 
+        "name": "Cheyenne "
+    }, 
+    "Torrington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/56/5677530.html", 
+        "descriptor": "city", 
+        "name": "Torrington "
+    }
+}

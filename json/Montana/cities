@@ -1,0 +1,107 @@
+{
+    "Livingston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3043975.html", 
+        "descriptor": "city", 
+        "name": "Livingston "
+    }, 
+    "Whitefish ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3079825.html", 
+        "descriptor": "city", 
+        "name": "Whitefish "
+    }, 
+    "Helena ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3035600.html", 
+        "descriptor": "city", 
+        "name": "Helena "
+    }, 
+    "Butte-Silver Bow ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3011397.html", 
+        "descriptor": "balance", 
+        "name": "Butte-Silver Bow "
+    }, 
+    "Missoula ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3050200.html", 
+        "descriptor": "city", 
+        "name": "Missoula "
+    }, 
+    "Bozeman ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3008950.html", 
+        "descriptor": "city", 
+        "name": "Bozeman "
+    }, 
+    "Sidney ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3067900.html", 
+        "descriptor": "city", 
+        "name": "Sidney "
+    }, 
+    "Helena Valley Southeast ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3035634.html", 
+        "descriptor": "CDP", 
+        "name": "Helena Valley Southeast "
+    }, 
+    "Kalispell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3040075.html", 
+        "descriptor": "city", 
+        "name": "Kalispell "
+    }, 
+    "Miles City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3049525.html", 
+        "descriptor": "city", 
+        "name": "Miles City "
+    }, 
+    "Lockwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3044200.html", 
+        "descriptor": "CDP", 
+        "name": "Lockwood "
+    }, 
+    "Evergreen ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3025075.html", 
+        "descriptor": "CDP", 
+        "name": "Evergreen "
+    }, 
+    "Belgrade ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3004975.html", 
+        "descriptor": "city", 
+        "name": "Belgrade "
+    }, 
+    "Orchard Homes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3055675.html", 
+        "descriptor": "CDP", 
+        "name": "Orchard Homes "
+    }, 
+    "Glendive ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3031450.html", 
+        "descriptor": "city", 
+        "name": "Glendive "
+    }, 
+    "Havre ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3035050.html", 
+        "descriptor": "city", 
+        "name": "Havre "
+    }, 
+    "Billings ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3006550.html", 
+        "descriptor": "city", 
+        "name": "Billings "
+    }, 
+    "Laurel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3042700.html", 
+        "descriptor": "city", 
+        "name": "Laurel "
+    }, 
+    "Great Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3032800.html", 
+        "descriptor": "city", 
+        "name": "Great Falls "
+    }, 
+    "Lewistown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3043375.html", 
+        "descriptor": "city", 
+        "name": "Lewistown "
+    }, 
+    "Helena Valley West Central ": {
+        "url": "http://quickfacts.census.gov/qfd/states/30/3035637.html", 
+        "descriptor": "CDP", 
+        "name": "Helena Valley West Central "
+    }
+}

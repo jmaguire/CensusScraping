@@ -1,0 +1,62 @@
+{
+    "Middlebury ": {
+        "url": "http://quickfacts.census.gov/qfd/states/50/5044275.html", 
+        "descriptor": "CDP", 
+        "name": "Middlebury "
+    }, 
+    "Bennington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/50/5004750.html", 
+        "descriptor": "CDP", 
+        "name": "Bennington "
+    }, 
+    "Winooski ": {
+        "url": "http://quickfacts.census.gov/qfd/states/50/5085150.html", 
+        "descriptor": "city", 
+        "name": "Winooski "
+    }, 
+    "Burlington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/50/5010675.html", 
+        "descriptor": "city", 
+        "name": "Burlington "
+    }, 
+    "Rutland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/50/5061225.html", 
+        "descriptor": "city", 
+        "name": "Rutland "
+    }, 
+    "Essex Junction ": {
+        "url": "http://quickfacts.census.gov/qfd/states/50/5024400.html", 
+        "descriptor": "village", 
+        "name": "Essex Junction "
+    }, 
+    "Brattleboro ": {
+        "url": "http://quickfacts.census.gov/qfd/states/50/5007975.html", 
+        "descriptor": "CDP", 
+        "name": "Brattleboro "
+    }, 
+    "Barre ": {
+        "url": "http://quickfacts.census.gov/qfd/states/50/5003175.html", 
+        "descriptor": "city", 
+        "name": "Barre "
+    }, 
+    "South Burlington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/50/5066175.html", 
+        "descriptor": "city", 
+        "name": "South Burlington "
+    }, 
+    "St. Albans ": {
+        "url": "http://quickfacts.census.gov/qfd/states/50/5061675.html", 
+        "descriptor": "city", 
+        "name": "St. Albans "
+    }, 
+    "Montpelier ": {
+        "url": "http://quickfacts.census.gov/qfd/states/50/5046000.html", 
+        "descriptor": "city", 
+        "name": "Montpelier "
+    }, 
+    "St. Johnsbury ": {
+        "url": "http://quickfacts.census.gov/qfd/states/50/5062125.html", 
+        "descriptor": "CDP", 
+        "name": "St. Johnsbury "
+    }
+}

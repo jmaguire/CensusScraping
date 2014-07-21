@@ -1,0 +1,162 @@
+{
+    "Boise City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1608830.html", 
+        "descriptor": "city", 
+        "name": "Boise City "
+    }, 
+    "Lewiston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1646540.html", 
+        "descriptor": "city", 
+        "name": "Lewiston "
+    }, 
+    "Blackfoot ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1607840.html", 
+        "descriptor": "city", 
+        "name": "Blackfoot "
+    }, 
+    "Garden City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1629620.html", 
+        "descriptor": "city", 
+        "name": "Garden City "
+    }, 
+    "Hayden ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1636370.html", 
+        "descriptor": "city", 
+        "name": "Hayden "
+    }, 
+    "Moscow ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1654550.html", 
+        "descriptor": "city", 
+        "name": "Moscow "
+    }, 
+    "Ammon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1601990.html", 
+        "descriptor": "city", 
+        "name": "Ammon "
+    }, 
+    "Idaho Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1639700.html", 
+        "descriptor": "city", 
+        "name": "Idaho Falls "
+    }, 
+    "Caldwell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1612250.html", 
+        "descriptor": "city", 
+        "name": "Caldwell "
+    }, 
+    "Preston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1665260.html", 
+        "descriptor": "city", 
+        "name": "Preston "
+    }, 
+    "Nampa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1656260.html", 
+        "descriptor": "city", 
+        "name": "Nampa "
+    }, 
+    "Emmett ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1625570.html", 
+        "descriptor": "city", 
+        "name": "Emmett "
+    }, 
+    "Rathdrum ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1666340.html", 
+        "descriptor": "city", 
+        "name": "Rathdrum "
+    }, 
+    "Burley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1611260.html", 
+        "descriptor": "city", 
+        "name": "Burley "
+    }, 
+    "Twin Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1682810.html", 
+        "descriptor": "city", 
+        "name": "Twin Falls "
+    }, 
+    "Middleton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1652660.html", 
+        "descriptor": "city", 
+        "name": "Middleton "
+    }, 
+    "Star ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1676870.html", 
+        "descriptor": "city", 
+        "name": "Star "
+    }, 
+    "Weiser ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1686140.html", 
+        "descriptor": "city", 
+        "name": "Weiser "
+    }, 
+    "Eagle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1623410.html", 
+        "descriptor": "city", 
+        "name": "Eagle "
+    }, 
+    "Rexburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1667420.html", 
+        "descriptor": "city", 
+        "name": "Rexburg "
+    }, 
+    "Sandpoint ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1672100.html", 
+        "descriptor": "city", 
+        "name": "Sandpoint "
+    }, 
+    "Jerome ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1641320.html", 
+        "descriptor": "city", 
+        "name": "Jerome "
+    }, 
+    "Post Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1664810.html", 
+        "descriptor": "city", 
+        "name": "Post Falls "
+    }, 
+    "Payette ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1661300.html", 
+        "descriptor": "city", 
+        "name": "Payette "
+    }, 
+    "Meridian ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1652120.html", 
+        "descriptor": "city", 
+        "name": "Meridian "
+    }, 
+    "Hailey ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1634390.html", 
+        "descriptor": "city", 
+        "name": "Hailey "
+    }, 
+    "Kuna ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1644290.html", 
+        "descriptor": "city", 
+        "name": "Kuna "
+    }, 
+    "Coeur d'Alene ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1616750.html", 
+        "descriptor": "city", 
+        "name": "Coeur d'Alene "
+    }, 
+    "Chubbuck ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1614680.html", 
+        "descriptor": "city", 
+        "name": "Chubbuck "
+    }, 
+    "Rupert ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1670660.html", 
+        "descriptor": "city", 
+        "name": "Rupert "
+    }, 
+    "Pocatello ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1664090.html", 
+        "descriptor": "city", 
+        "name": "Pocatello "
+    }, 
+    "Mountain Home ": {
+        "url": "http://quickfacts.census.gov/qfd/states/16/1654730.html", 
+        "descriptor": "city", 
+        "name": "Mountain Home "
+    }
+}

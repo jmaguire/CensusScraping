@@ -1,0 +1,2277 @@
+{
+    "Miami ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1245000.html", 
+        "descriptor": "city", 
+        "name": "Miami "
+    }, 
+    "Cooper City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1214125.html", 
+        "descriptor": "city", 
+        "name": "Cooper City "
+    }, 
+    "Palm Harbor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1254350.html", 
+        "descriptor": "CDP", 
+        "name": "Palm Harbor "
+    }, 
+    "Fellsmere ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1222100.html", 
+        "descriptor": "city", 
+        "name": "Fellsmere "
+    }, 
+    "Lauderdale Lakes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1239525.html", 
+        "descriptor": "city", 
+        "name": "Lauderdale Lakes "
+    }, 
+    "San Carlos Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1263425.html", 
+        "descriptor": "CDP", 
+        "name": "San Carlos Park "
+    }, 
+    "Sebastian ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1264825.html", 
+        "descriptor": "city", 
+        "name": "Sebastian "
+    }, 
+    "Gonzalez ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1226700.html", 
+        "descriptor": "CDP", 
+        "name": "Gonzalez "
+    }, 
+    "St. Augustine ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1262500.html", 
+        "descriptor": "city", 
+        "name": "St. Augustine "
+    }, 
+    "Zephyrhills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1279225.html", 
+        "descriptor": "city", 
+        "name": "Zephyrhills "
+    }, 
+    "Doctor Phillips ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1217725.html", 
+        "descriptor": "CDP", 
+        "name": "Doctor Phillips "
+    }, 
+    "Cypress Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1216062.html", 
+        "descriptor": "CDP", 
+        "name": "Cypress Lake "
+    }, 
+    "Spring Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1268350.html", 
+        "descriptor": "CDP", 
+        "name": "Spring Hill "
+    }, 
+    "Siesta Key ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1266000.html", 
+        "descriptor": "CDP", 
+        "name": "Siesta Key "
+    }, 
+    "The Acreage ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1271564.html", 
+        "descriptor": "CDP", 
+        "name": "The Acreage "
+    }, 
+    "New Port Richey ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1248500.html", 
+        "descriptor": "city", 
+        "name": "New Port Richey "
+    }, 
+    "Memphis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1244175.html", 
+        "descriptor": "CDP", 
+        "name": "Memphis "
+    }, 
+    "Cocoa West ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1213225.html", 
+        "descriptor": "CDP", 
+        "name": "Cocoa West "
+    }, 
+    "Medulla ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1243925.html", 
+        "descriptor": "CDP", 
+        "name": "Medulla "
+    }, 
+    "Kendall West ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1236121.html", 
+        "descriptor": "CDP", 
+        "name": "Kendall West "
+    }, 
+    "Fairview Shores ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1221750.html", 
+        "descriptor": "CDP", 
+        "name": "Fairview Shores "
+    }, 
+    "Goldenrod ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1226475.html", 
+        "descriptor": "CDP", 
+        "name": "Goldenrod "
+    }, 
+    "The Crossings ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1271567.html", 
+        "descriptor": "CDP", 
+        "name": "The Crossings "
+    }, 
+    "Indian River Estates ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1233585.html", 
+        "descriptor": "CDP", 
+        "name": "Indian River Estates "
+    }, 
+    "Daytona Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1216525.html", 
+        "descriptor": "city", 
+        "name": "Daytona Beach "
+    }, 
+    "Westgate ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1276290.html", 
+        "descriptor": "CDP", 
+        "name": "Westgate "
+    }, 
+    "Buenaventura Lakes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1209415.html", 
+        "descriptor": "CDP", 
+        "name": "Buenaventura Lakes "
+    }, 
+    "Delray Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1217100.html", 
+        "descriptor": "city", 
+        "name": "Delray Beach "
+    }, 
+    "Oak Ridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1250638.html", 
+        "descriptor": "CDP", 
+        "name": "Oak Ridge "
+    }, 
+    "Micco ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1245275.html", 
+        "descriptor": "CDP", 
+        "name": "Micco "
+    }, 
+    "Combee Settlement ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1213775.html", 
+        "descriptor": "CDP", 
+        "name": "Combee Settlement "
+    }, 
+    "Heathrow ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1229320.html", 
+        "descriptor": "CDP", 
+        "name": "Heathrow "
+    }, 
+    "Zephyrhills South ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1279237.html", 
+        "descriptor": "CDP", 
+        "name": "Zephyrhills South "
+    }, 
+    "Fort Myers ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1224125.html", 
+        "descriptor": "city", 
+        "name": "Fort Myers "
+    }, 
+    "South Miami ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1267550.html", 
+        "descriptor": "city", 
+        "name": "South Miami "
+    }, 
+    "Inwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1234000.html", 
+        "descriptor": "CDP", 
+        "name": "Inwood "
+    }, 
+    "Palm River-Clair Mel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1254387.html", 
+        "descriptor": "CDP", 
+        "name": "Palm River-Clair Mel "
+    }, 
+    "Jacksonville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1235000.html", 
+        "descriptor": "city", 
+        "name": "Jacksonville "
+    }, 
+    "Clewiston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1213000.html", 
+        "descriptor": "city", 
+        "name": "Clewiston "
+    }, 
+    "Altamonte Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1200950.html", 
+        "descriptor": "city", 
+        "name": "Altamonte Springs "
+    }, 
+    "Citrus Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1212425.html", 
+        "descriptor": "CDP", 
+        "name": "Citrus Park "
+    }, 
+    "Longwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1241250.html", 
+        "descriptor": "city", 
+        "name": "Longwood "
+    }, 
+    "Islamorada, Village of Islands ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1234132.html", 
+        "descriptor": "village", 
+        "name": "Islamorada, Village of Islands "
+    }, 
+    "Progress Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1259050.html", 
+        "descriptor": "CDP", 
+        "name": "Progress Village "
+    }, 
+    "Town 'n' Country ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1272145.html", 
+        "descriptor": "CDP", 
+        "name": "Town 'n' Country "
+    }, 
+    "Viera West ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1274370.html", 
+        "descriptor": "CDP", 
+        "name": "Viera West "
+    }, 
+    "Niceville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1248750.html", 
+        "descriptor": "city", 
+        "name": "Niceville "
+    }, 
+    "Pinecrest ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1256625.html", 
+        "descriptor": "village", 
+        "name": "Pinecrest "
+    }, 
+    "Gladeview ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1225987.html", 
+        "descriptor": "CDP", 
+        "name": "Gladeview "
+    }, 
+    "Miami Gardens ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1245060.html", 
+        "descriptor": "city", 
+        "name": "Miami Gardens "
+    }, 
+    "Miami Shores ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1245175.html", 
+        "descriptor": "village", 
+        "name": "Miami Shores "
+    }, 
+    "Egypt Lake-Leto ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1220108.html", 
+        "descriptor": "CDP", 
+        "name": "Egypt Lake-Leto "
+    }, 
+    "West Pensacola ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1276675.html", 
+        "descriptor": "CDP", 
+        "name": "West Pensacola "
+    }, 
+    "Meadow Woods ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1243800.html", 
+        "descriptor": "CDP", 
+        "name": "Meadow Woods "
+    }, 
+    "Jupiter ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1235875.html", 
+        "descriptor": "town", 
+        "name": "Jupiter "
+    }, 
+    "Celebration ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1211285.html", 
+        "descriptor": "CDP", 
+        "name": "Celebration "
+    }, 
+    "Lake Alfred ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1237525.html", 
+        "descriptor": "city", 
+        "name": "Lake Alfred "
+    }, 
+    "Lehigh Acres ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1239925.html", 
+        "descriptor": "CDP", 
+        "name": "Lehigh Acres "
+    }, 
+    "East Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1219206.html", 
+        "descriptor": "CDP", 
+        "name": "East Lake "
+    }, 
+    "Inverness ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1233950.html", 
+        "descriptor": "city", 
+        "name": "Inverness "
+    }, 
+    "Coral Terrace ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1214412.html", 
+        "descriptor": "CDP", 
+        "name": "Coral Terrace "
+    }, 
+    "Middleburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1245350.html", 
+        "descriptor": "CDP", 
+        "name": "Middleburg "
+    }, 
+    "Lady Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1237375.html", 
+        "descriptor": "town", 
+        "name": "Lady Lake "
+    }, 
+    "Citrus Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1212412.html", 
+        "descriptor": "CDP", 
+        "name": "Citrus Hills "
+    }, 
+    "Neptune Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1248100.html", 
+        "descriptor": "city", 
+        "name": "Neptune Beach "
+    }, 
+    "Warm Mineral Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1275175.html", 
+        "descriptor": "CDP", 
+        "name": "Warm Mineral Springs "
+    }, 
+    "Clearwater ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1212875.html", 
+        "descriptor": "city", 
+        "name": "Clearwater "
+    }, 
+    "Palm Beach Gardens ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1254075.html", 
+        "descriptor": "city", 
+        "name": "Palm Beach Gardens "
+    }, 
+    "Port St. Lucie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1258715.html", 
+        "descriptor": "city", 
+        "name": "Port St. Lucie "
+    }, 
+    "Seminole ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1264975.html", 
+        "descriptor": "city", 
+        "name": "Seminole "
+    }, 
+    "Pinewood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1257250.html", 
+        "descriptor": "CDP", 
+        "name": "Pinewood "
+    }, 
+    "Wesley Chapel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1275875.html", 
+        "descriptor": "CDP", 
+        "name": "Wesley Chapel "
+    }, 
+    "Sunrise ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1269700.html", 
+        "descriptor": "city", 
+        "name": "Sunrise "
+    }, 
+    "Osprey ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1253425.html", 
+        "descriptor": "CDP", 
+        "name": "Osprey "
+    }, 
+    "Surfside ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1270075.html", 
+        "descriptor": "town", 
+        "name": "Surfside "
+    }, 
+    "Lauderdale-by-the-Sea ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1239475.html", 
+        "descriptor": "town", 
+        "name": "Lauderdale-by-the-Sea "
+    }, 
+    "Fort Pierce South ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1224387.html", 
+        "descriptor": "CDP", 
+        "name": "Fort Pierce South "
+    }, 
+    "South Bradenton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1267258.html", 
+        "descriptor": "CDP", 
+        "name": "South Bradenton "
+    }, 
+    "Yulee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1279175.html", 
+        "descriptor": "CDP", 
+        "name": "Yulee "
+    }, 
+    "Fuller Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1225025.html", 
+        "descriptor": "CDP", 
+        "name": "Fuller Heights "
+    }, 
+    "Oldsmar ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1251350.html", 
+        "descriptor": "city", 
+        "name": "Oldsmar "
+    }, 
+    "Sanibel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1263700.html", 
+        "descriptor": "city", 
+        "name": "Sanibel "
+    }, 
+    "Wright ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1278800.html", 
+        "descriptor": "CDP", 
+        "name": "Wright "
+    }, 
+    "Seffner ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1264925.html", 
+        "descriptor": "CDP", 
+        "name": "Seffner "
+    }, 
+    "Venice ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1273900.html", 
+        "descriptor": "city", 
+        "name": "Venice "
+    }, 
+    "Bayshore Gardens ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1204350.html", 
+        "descriptor": "CDP", 
+        "name": "Bayshore Gardens "
+    }, 
+    "Ocoee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1251075.html", 
+        "descriptor": "city", 
+        "name": "Ocoee "
+    }, 
+    "West Lealman ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1276481.html", 
+        "descriptor": "CDP", 
+        "name": "West Lealman "
+    }, 
+    "Hutchinson Island South ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1232993.html", 
+        "descriptor": "CDP", 
+        "name": "Hutchinson Island South "
+    }, 
+    "Treasure Island ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1272325.html", 
+        "descriptor": "city", 
+        "name": "Treasure Island "
+    }, 
+    "Palm Coast ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1254200.html", 
+        "descriptor": "city", 
+        "name": "Palm Coast "
+    }, 
+    "Tamiami ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1270700.html", 
+        "descriptor": "CDP", 
+        "name": "Tamiami "
+    }, 
+    "Hunters Creek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1232967.html", 
+        "descriptor": "CDP", 
+        "name": "Hunters Creek "
+    }, 
+    "Avon Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1202750.html", 
+        "descriptor": "city", 
+        "name": "Avon Park "
+    }, 
+    "Golden Gate ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1226300.html", 
+        "descriptor": "CDP", 
+        "name": "Golden Gate "
+    }, 
+    "Mims ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1245775.html", 
+        "descriptor": "CDP", 
+        "name": "Mims "
+    }, 
+    "Carrollwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1210825.html", 
+        "descriptor": "CDP", 
+        "name": "Carrollwood "
+    }, 
+    "McGregor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1242090.html", 
+        "descriptor": "CDP", 
+        "name": "McGregor "
+    }, 
+    "Lantana ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1239375.html", 
+        "descriptor": "town", 
+        "name": "Lantana "
+    }, 
+    "Fort Pierce North ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1224337.html", 
+        "descriptor": "CDP", 
+        "name": "Fort Pierce North "
+    }, 
+    "DeFuniak Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1216800.html", 
+        "descriptor": "city", 
+        "name": "DeFuniak Springs "
+    }, 
+    "Quincy ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1259325.html", 
+        "descriptor": "city", 
+        "name": "Quincy "
+    }, 
+    "Midway ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1245465.html", 
+        "descriptor": "CDP", 
+        "name": "Midway "
+    }, 
+    "The Hammocks ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1271569.html", 
+        "descriptor": "CDP", 
+        "name": "The Hammocks "
+    }, 
+    "Royal Palm Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1262100.html", 
+        "descriptor": "village", 
+        "name": "Royal Palm Beach "
+    }, 
+    "North Palm Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1249600.html", 
+        "descriptor": "village", 
+        "name": "North Palm Beach "
+    }, 
+    "Fort Meade ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1224100.html", 
+        "descriptor": "city", 
+        "name": "Fort Meade "
+    }, 
+    "Oviedo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1253575.html", 
+        "descriptor": "city", 
+        "name": "Oviedo "
+    }, 
+    "Brent ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1208300.html", 
+        "descriptor": "CDP", 
+        "name": "Brent "
+    }, 
+    "Rockledge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1261500.html", 
+        "descriptor": "city", 
+        "name": "Rockledge "
+    }, 
+    "Deltona ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1217200.html", 
+        "descriptor": "city", 
+        "name": "Deltona "
+    }, 
+    "Wahneta ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1274775.html", 
+        "descriptor": "CDP", 
+        "name": "Wahneta "
+    }, 
+    "High Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1230525.html", 
+        "descriptor": "city", 
+        "name": "High Springs "
+    }, 
+    "Williamsburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1277735.html", 
+        "descriptor": "CDP", 
+        "name": "Williamsburg "
+    }, 
+    "Pebble Creek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1255540.html", 
+        "descriptor": "CDP", 
+        "name": "Pebble Creek "
+    }, 
+    "Westview ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1276950.html", 
+        "descriptor": "CDP", 
+        "name": "Westview "
+    }, 
+    "Conway ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1214050.html", 
+        "descriptor": "CDP", 
+        "name": "Conway "
+    }, 
+    "Gateway ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1225655.html", 
+        "descriptor": "CDP", 
+        "name": "Gateway "
+    }, 
+    "Rotonda ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1261937.html", 
+        "descriptor": "CDP", 
+        "name": "Rotonda "
+    }, 
+    "Leesburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1239875.html", 
+        "descriptor": "city", 
+        "name": "Leesburg "
+    }, 
+    "Tarpon Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1271150.html", 
+        "descriptor": "city", 
+        "name": "Tarpon Springs "
+    }, 
+    "Sunset ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1269812.html", 
+        "descriptor": "CDP", 
+        "name": "Sunset "
+    }, 
+    "Bay Harbor Islands ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1203975.html", 
+        "descriptor": "town", 
+        "name": "Bay Harbor Islands "
+    }, 
+    "St. Augustine Shores ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1262550.html", 
+        "descriptor": "CDP", 
+        "name": "St. Augustine Shores "
+    }, 
+    "Tavares ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1271225.html", 
+        "descriptor": "city", 
+        "name": "Tavares "
+    }, 
+    "Nassau Village-Ratliff ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1247787.html", 
+        "descriptor": "CDP", 
+        "name": "Nassau Village-Ratliff "
+    }, 
+    "Orange Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1252125.html", 
+        "descriptor": "town", 
+        "name": "Orange Park "
+    }, 
+    "Winter Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1278325.html", 
+        "descriptor": "city", 
+        "name": "Winter Springs "
+    }, 
+    "Gibsonton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1225900.html", 
+        "descriptor": "CDP", 
+        "name": "Gibsonton "
+    }, 
+    "Miami Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1245025.html", 
+        "descriptor": "city", 
+        "name": "Miami Beach "
+    }, 
+    "South Daytona ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1267325.html", 
+        "descriptor": "city", 
+        "name": "South Daytona "
+    }, 
+    "West Miami ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1276525.html", 
+        "descriptor": "city", 
+        "name": "West Miami "
+    }, 
+    "Iona ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1234012.html", 
+        "descriptor": "CDP", 
+        "name": "Iona "
+    }, 
+    "Miami Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1245200.html", 
+        "descriptor": "city", 
+        "name": "Miami Springs "
+    }, 
+    "Casselberry ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1211050.html", 
+        "descriptor": "city", 
+        "name": "Casselberry "
+    }, 
+    "Riviera Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1260975.html", 
+        "descriptor": "city", 
+        "name": "Riviera Beach "
+    }, 
+    "Hallandale Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1228452.html", 
+        "descriptor": "city", 
+        "name": "Hallandale Beach "
+    }, 
+    "Kennneth City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1236175.html", 
+        "descriptor": "town", 
+        "name": "Kennneth City "
+    }, 
+    "Fish Hawk ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1222387.html", 
+        "descriptor": "CDP", 
+        "name": "Fish Hawk "
+    }, 
+    "Miami Lakes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1245100.html", 
+        "descriptor": "town", 
+        "name": "Miami Lakes "
+    }, 
+    "Lake Wales ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1238950.html", 
+        "descriptor": "city", 
+        "name": "Lake Wales "
+    }, 
+    "Villas ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1274512.html", 
+        "descriptor": "CDP", 
+        "name": "Villas "
+    }, 
+    "Panama City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1254700.html", 
+        "descriptor": "city", 
+        "name": "Panama City "
+    }, 
+    "Richmond Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1260225.html", 
+        "descriptor": "CDP", 
+        "name": "Richmond Heights "
+    }, 
+    "Green Cove Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1227400.html", 
+        "descriptor": "city", 
+        "name": "Green Cove Springs "
+    }, 
+    "Naples Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1247675.html", 
+        "descriptor": "CDP", 
+        "name": "Naples Park "
+    }, 
+    "Greenacres ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1227322.html", 
+        "descriptor": "city", 
+        "name": "Greenacres "
+    }, 
+    "Silver Springs Shores ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1266175.html", 
+        "descriptor": "CDP", 
+        "name": "Silver Springs Shores "
+    }, 
+    "South Apopka ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1267163.html", 
+        "descriptor": "CDP", 
+        "name": "South Apopka "
+    }, 
+    "World Golf Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1278740.html", 
+        "descriptor": "CDP", 
+        "name": "World Golf Village "
+    }, 
+    "Palm Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1254025.html", 
+        "descriptor": "town", 
+        "name": "Palm Beach "
+    }, 
+    "South Gate Ridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1267450.html", 
+        "descriptor": "CDP", 
+        "name": "South Gate Ridge "
+    }, 
+    "Destin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1217325.html", 
+        "descriptor": "city", 
+        "name": "Destin "
+    }, 
+    "South Venice ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1268100.html", 
+        "descriptor": "CDP", 
+        "name": "South Venice "
+    }, 
+    "Deerfield Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1216725.html", 
+        "descriptor": "city", 
+        "name": "Deerfield Beach "
+    }, 
+    "Mount Dora ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1247050.html", 
+        "descriptor": "city", 
+        "name": "Mount Dora "
+    }, 
+    "Coral Gables ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1214250.html", 
+        "descriptor": "city", 
+        "name": "Coral Gables "
+    }, 
+    "Lake Lorraine ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1238287.html", 
+        "descriptor": "CDP", 
+        "name": "Lake Lorraine "
+    }, 
+    "Panama City Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1254725.html", 
+        "descriptor": "city", 
+        "name": "Panama City Beach "
+    }, 
+    "Bloomingdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1206875.html", 
+        "descriptor": "CDP", 
+        "name": "Bloomingdale "
+    }, 
+    "Goulds ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1226950.html", 
+        "descriptor": "CDP", 
+        "name": "Goulds "
+    }, 
+    "Largo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1239425.html", 
+        "descriptor": "city", 
+        "name": "Largo "
+    }, 
+    "Inverness Highlands South ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1233966.html", 
+        "descriptor": "CDP", 
+        "name": "Inverness Highlands South "
+    }, 
+    "Odessa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1251100.html", 
+        "descriptor": "CDP", 
+        "name": "Odessa "
+    }, 
+    "Oakleaf Plantation ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1250630.html", 
+        "descriptor": "CDP", 
+        "name": "Oakleaf Plantation "
+    }, 
+    "Riverview ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1260950.html", 
+        "descriptor": "CDP", 
+        "name": "Riverview "
+    }, 
+    "Mango ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1242850.html", 
+        "descriptor": "CDP", 
+        "name": "Mango "
+    }, 
+    "Vero Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1274150.html", 
+        "descriptor": "city", 
+        "name": "Vero Beach "
+    }, 
+    "Jensen Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1235550.html", 
+        "descriptor": "CDP", 
+        "name": "Jensen Beach "
+    }, 
+    "Pensacola ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1255925.html", 
+        "descriptor": "city", 
+        "name": "Pensacola "
+    }, 
+    "Fernandina Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1222175.html", 
+        "descriptor": "city", 
+        "name": "Fernandina Beach "
+    }, 
+    "Cutler Bay ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1215968.html", 
+        "descriptor": "town", 
+        "name": "Cutler Bay "
+    }, 
+    "Temple Terrace ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1271400.html", 
+        "descriptor": "city", 
+        "name": "Temple Terrace "
+    }, 
+    "Vero Beach South ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1274200.html", 
+        "descriptor": "CDP", 
+        "name": "Vero Beach South "
+    }, 
+    "West Little River ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1276487.html", 
+        "descriptor": "CDP", 
+        "name": "West Little River "
+    }, 
+    "Eustis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1221350.html", 
+        "descriptor": "city", 
+        "name": "Eustis "
+    }, 
+    "North Sarasota ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1249787.html", 
+        "descriptor": "CDP", 
+        "name": "North Sarasota "
+    }, 
+    "Floral City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1222775.html", 
+        "descriptor": "CDP", 
+        "name": "Floral City "
+    }, 
+    "Sarasota ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1264175.html", 
+        "descriptor": "city", 
+        "name": "Sarasota "
+    }, 
+    "Okeechobee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1251200.html", 
+        "descriptor": "city", 
+        "name": "Okeechobee "
+    }, 
+    "East Lake-Orient Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1219212.html", 
+        "descriptor": "CDP", 
+        "name": "East Lake-Orient Park "
+    }, 
+    "St. Augustine Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1262525.html", 
+        "descriptor": "city", 
+        "name": "St. Augustine Beach "
+    }, 
+    "Winter Garden ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1278250.html", 
+        "descriptor": "city", 
+        "name": "Winter Garden "
+    }, 
+    "Zephyrhills West ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1279243.html", 
+        "descriptor": "CDP", 
+        "name": "Zephyrhills West "
+    }, 
+    "Beverly Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1206125.html", 
+        "descriptor": "CDP", 
+        "name": "Beverly Hills "
+    }, 
+    "Groveland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1227800.html", 
+        "descriptor": "city", 
+        "name": "Groveland "
+    }, 
+    "Florida Ridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1223050.html", 
+        "descriptor": "CDP", 
+        "name": "Florida Ridge "
+    }, 
+    "Orange City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1251825.html", 
+        "descriptor": "city", 
+        "name": "Orange City "
+    }, 
+    "Wilton Manors ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1278000.html", 
+        "descriptor": "city", 
+        "name": "Wilton Manors "
+    }, 
+    "Coral Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1214400.html", 
+        "descriptor": "city", 
+        "name": "Coral Springs "
+    }, 
+    "Golden Glades ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1226375.html", 
+        "descriptor": "CDP", 
+        "name": "Golden Glades "
+    }, 
+    "Gainesville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1225175.html", 
+        "descriptor": "city", 
+        "name": "Gainesville "
+    }, 
+    "Forest City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1223375.html", 
+        "descriptor": "CDP", 
+        "name": "Forest City "
+    }, 
+    "Lakeside ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1238813.html", 
+        "descriptor": "CDP", 
+        "name": "Lakeside "
+    }, 
+    "DeBary ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1216675.html", 
+        "descriptor": "city", 
+        "name": "DeBary "
+    }, 
+    "Brownsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1209000.html", 
+        "descriptor": "CDP", 
+        "name": "Brownsville "
+    }, 
+    "Upper Grand Lagoon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1273312.html", 
+        "descriptor": "CDP", 
+        "name": "Upper Grand Lagoon "
+    }, 
+    "Pace ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1253725.html", 
+        "descriptor": "CDP", 
+        "name": "Pace "
+    }, 
+    "Pahokee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1253800.html", 
+        "descriptor": "city", 
+        "name": "Pahokee "
+    }, 
+    "Southchase ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1267270.html", 
+        "descriptor": "CDP", 
+        "name": "Southchase "
+    }, 
+    "Ives Estates ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1234400.html", 
+        "descriptor": "CDP", 
+        "name": "Ives Estates "
+    }, 
+    "Olympia Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1251475.html", 
+        "descriptor": "CDP", 
+        "name": "Olympia Heights "
+    }, 
+    "Punta Gorda ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1259200.html", 
+        "descriptor": "city", 
+        "name": "Punta Gorda "
+    }, 
+    "Dania Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1216335.html", 
+        "descriptor": "city", 
+        "name": "Dania Beach "
+    }, 
+    "Oakland Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1250575.html", 
+        "descriptor": "city", 
+        "name": "Oakland Park "
+    }, 
+    "St. Cloud ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1262625.html", 
+        "descriptor": "city", 
+        "name": "St. Cloud "
+    }, 
+    "Timber Pines ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1271867.html", 
+        "descriptor": "CDP", 
+        "name": "Timber Pines "
+    }, 
+    "Palm Springs North ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1254500.html", 
+        "descriptor": "CDP", 
+        "name": "Palm Springs North "
+    }, 
+    "Thonotosassa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1271725.html", 
+        "descriptor": "CDP", 
+        "name": "Thonotosassa "
+    }, 
+    "Hudson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1232825.html", 
+        "descriptor": "CDP", 
+        "name": "Hudson "
+    }, 
+    "Parkland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1255125.html", 
+        "descriptor": "city", 
+        "name": "Parkland "
+    }, 
+    "Citrus Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1212450.html", 
+        "descriptor": "CDP", 
+        "name": "Citrus Springs "
+    }, 
+    "Highland City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1230225.html", 
+        "descriptor": "CDP", 
+        "name": "Highland City "
+    }, 
+    "Beacon Square ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1204650.html", 
+        "descriptor": "CDP", 
+        "name": "Beacon Square "
+    }, 
+    "Hollywood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1232000.html", 
+        "descriptor": "city", 
+        "name": "Hollywood "
+    }, 
+    "Poinciana ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1257900.html", 
+        "descriptor": "CDP", 
+        "name": "Poinciana "
+    }, 
+    "Hernando ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1229425.html", 
+        "descriptor": "CDP", 
+        "name": "Hernando "
+    }, 
+    "Palmetto Bay ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1254275.html", 
+        "descriptor": "village", 
+        "name": "Palmetto Bay "
+    }, 
+    "Sky Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1266425.html", 
+        "descriptor": "CDP", 
+        "name": "Sky Lake "
+    }, 
+    "Ocean City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1250925.html", 
+        "descriptor": "CDP", 
+        "name": "Ocean City "
+    }, 
+    "Lakewood Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1239062.html", 
+        "descriptor": "CDP", 
+        "name": "Lakewood Park "
+    }, 
+    "Key Largo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1236375.html", 
+        "descriptor": "CDP", 
+        "name": "Key Largo "
+    }, 
+    "Kissimmee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1236950.html", 
+        "descriptor": "city", 
+        "name": "Kissimmee "
+    }, 
+    "Cheval ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1211912.html", 
+        "descriptor": "CDP", 
+        "name": "Cheval "
+    }, 
+    "West Samoset ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1276740.html", 
+        "descriptor": "CDP", 
+        "name": "West Samoset "
+    }, 
+    "Holly Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1231350.html", 
+        "descriptor": "city", 
+        "name": "Holly Hill "
+    }, 
+    "Sugarmill Woods ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1268950.html", 
+        "descriptor": "CDP", 
+        "name": "Sugarmill Woods "
+    }, 
+    "Hialeah Gardens ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1230025.html", 
+        "descriptor": "city", 
+        "name": "Hialeah Gardens "
+    }, 
+    "Broadview Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1208650.html", 
+        "descriptor": "CDP", 
+        "name": "Broadview Park "
+    }, 
+    "Cocoa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1213150.html", 
+        "descriptor": "city", 
+        "name": "Cocoa "
+    }, 
+    "Willow Oak ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1277862.html", 
+        "descriptor": "CDP", 
+        "name": "Willow Oak "
+    }, 
+    "Wildwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1277675.html", 
+        "descriptor": "city", 
+        "name": "Wildwood "
+    }, 
+    "Port St. John ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1258700.html", 
+        "descriptor": "CDP", 
+        "name": "Port St. John "
+    }, 
+    "Alafaya ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1200410.html", 
+        "descriptor": "CDP", 
+        "name": "Alafaya "
+    }, 
+    "Miramar Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1246000.html", 
+        "descriptor": "CDP", 
+        "name": "Miramar Beach "
+    }, 
+    "Azalea Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1202850.html", 
+        "descriptor": "CDP", 
+        "name": "Azalea Park "
+    }, 
+    "Kendall ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1236100.html", 
+        "descriptor": "CDP", 
+        "name": "Kendall "
+    }, 
+    "Plantation ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1257425.html", 
+        "descriptor": "city", 
+        "name": "Plantation "
+    }, 
+    "Satellite Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1264400.html", 
+        "descriptor": "city", 
+        "name": "Satellite Beach "
+    }, 
+    "North Fort Myers ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1249350.html", 
+        "descriptor": "CDP", 
+        "name": "North Fort Myers "
+    }, 
+    "West Vero Corridor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1276937.html", 
+        "descriptor": "CDP", 
+        "name": "West Vero Corridor "
+    }, 
+    "Fruitville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1225000.html", 
+        "descriptor": "CDP", 
+        "name": "Fruitville "
+    }, 
+    "Sanford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1263650.html", 
+        "descriptor": "city", 
+        "name": "Sanford "
+    }, 
+    "Coconut Creek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1213275.html", 
+        "descriptor": "city", 
+        "name": "Coconut Creek "
+    }, 
+    "Bithlo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1206625.html", 
+        "descriptor": "CDP", 
+        "name": "Bithlo "
+    }, 
+    "Marco Island ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1243083.html", 
+        "descriptor": "city", 
+        "name": "Marco Island "
+    }, 
+    "Clermont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1212925.html", 
+        "descriptor": "city", 
+        "name": "Clermont "
+    }, 
+    "Englewood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1220825.html", 
+        "descriptor": "CDP", 
+        "name": "Englewood "
+    }, 
+    "Palm City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1254175.html", 
+        "descriptor": "CDP", 
+        "name": "Palm City "
+    }, 
+    "Edgewater ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1219825.html", 
+        "descriptor": "city", 
+        "name": "Edgewater "
+    }, 
+    "Keystone ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1236462.html", 
+        "descriptor": "CDP", 
+        "name": "Keystone "
+    }, 
+    "Bellair-Meadowbrook Terrace ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1205025.html", 
+        "descriptor": "CDP", 
+        "name": "Bellair-Meadowbrook Terrace "
+    }, 
+    "Apollo Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1201675.html", 
+        "descriptor": "CDP", 
+        "name": "Apollo Beach "
+    }, 
+    "Orlando ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1253000.html", 
+        "descriptor": "city", 
+        "name": "Orlando "
+    }, 
+    "Cocoa Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1213175.html", 
+        "descriptor": "city", 
+        "name": "Cocoa Beach "
+    }, 
+    "Myrtle Grove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1247550.html", 
+        "descriptor": "CDP", 
+        "name": "Myrtle Grove "
+    }, 
+    "Palmetto Estates ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1254300.html", 
+        "descriptor": "CDP", 
+        "name": "Palmetto Estates "
+    }, 
+    "Ensley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1220925.html", 
+        "descriptor": "CDP", 
+        "name": "Ensley "
+    }, 
+    "Pompano Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1258050.html", 
+        "descriptor": "city", 
+        "name": "Pompano Beach "
+    }, 
+    "Warrington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1275200.html", 
+        "descriptor": "CDP", 
+        "name": "Warrington "
+    }, 
+    "Pinellas Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1256975.html", 
+        "descriptor": "city", 
+        "name": "Pinellas Park "
+    }, 
+    "Kathleen ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1235950.html", 
+        "descriptor": "CDP", 
+        "name": "Kathleen "
+    }, 
+    "South Highpoint ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1267462.html", 
+        "descriptor": "CDP", 
+        "name": "South Highpoint "
+    }, 
+    "Port Salerno ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1258727.html", 
+        "descriptor": "CDP", 
+        "name": "Port Salerno "
+    }, 
+    "Lake City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1237775.html", 
+        "descriptor": "city", 
+        "name": "Lake City "
+    }, 
+    "Cape Coral ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1210275.html", 
+        "descriptor": "city", 
+        "name": "Cape Coral "
+    }, 
+    "Fort Myers Shores ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1224175.html", 
+        "descriptor": "CDP", 
+        "name": "Fort Myers Shores "
+    }, 
+    "Pine Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1256825.html", 
+        "descriptor": "CDP", 
+        "name": "Pine Hills "
+    }, 
+    "University Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1273287.html", 
+        "descriptor": "CDP", 
+        "name": "University Park "
+    }, 
+    "Bardmoor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1203480.html", 
+        "descriptor": "CDP", 
+        "name": "Bardmoor "
+    }, 
+    "Homosassa Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1232400.html", 
+        "descriptor": "CDP", 
+        "name": "Homosassa Springs "
+    }, 
+    "Crystal Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1215725.html", 
+        "descriptor": "CDP", 
+        "name": "Crystal Lake "
+    }, 
+    "Sunny Isles Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1269555.html", 
+        "descriptor": "city", 
+        "name": "Sunny Isles Beach "
+    }, 
+    "Davie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1216475.html", 
+        "descriptor": "town", 
+        "name": "Davie "
+    }, 
+    "Tamarac ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1270675.html", 
+        "descriptor": "city", 
+        "name": "Tamarac "
+    }, 
+    "Hialeah ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1230000.html", 
+        "descriptor": "city", 
+        "name": "Hialeah "
+    }, 
+    "Naranja ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1247700.html", 
+        "descriptor": "CDP", 
+        "name": "Naranja "
+    }, 
+    "Winter Haven ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1278275.html", 
+        "descriptor": "city", 
+        "name": "Winter Haven "
+    }, 
+    "Bee Ridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1204925.html", 
+        "descriptor": "CDP", 
+        "name": "Bee Ridge "
+    }, 
+    "Pasadena Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1255305.html", 
+        "descriptor": "CDP", 
+        "name": "Pasadena Hills "
+    }, 
+    "Ojus ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1251125.html", 
+        "descriptor": "CDP", 
+        "name": "Ojus "
+    }, 
+    "South Miami Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1267575.html", 
+        "descriptor": "CDP", 
+        "name": "South Miami Heights "
+    }, 
+    "Brooksville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1208800.html", 
+        "descriptor": "city", 
+        "name": "Brooksville "
+    }, 
+    "Leisure City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1239950.html", 
+        "descriptor": "CDP", 
+        "name": "Leisure City "
+    }, 
+    "St. Petersburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1263000.html", 
+        "descriptor": "city", 
+        "name": "St. Petersburg "
+    }, 
+    "Safety Harbor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1262425.html", 
+        "descriptor": "city", 
+        "name": "Safety Harbor "
+    }, 
+    "Ruskin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1262275.html", 
+        "descriptor": "CDP", 
+        "name": "Ruskin "
+    }, 
+    "Northdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1249260.html", 
+        "descriptor": "CDP", 
+        "name": "Northdale "
+    }, 
+    "Palmetto ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1254250.html", 
+        "descriptor": "city", 
+        "name": "Palmetto "
+    }, 
+    "Fort Lauderdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1224000.html", 
+        "descriptor": "city", 
+        "name": "Fort Lauderdale "
+    }, 
+    "Naples Manor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1247650.html", 
+        "descriptor": "CDP", 
+        "name": "Naples Manor "
+    }, 
+    "North Weeki Wachee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1249905.html", 
+        "descriptor": "CDP", 
+        "name": "North Weeki Wachee "
+    }, 
+    "Weston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1276582.html", 
+        "descriptor": "city", 
+        "name": "Weston "
+    }, 
+    "Lake Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1238600.html", 
+        "descriptor": "town", 
+        "name": "Lake Park "
+    }, 
+    "North Miami ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1249450.html", 
+        "descriptor": "city", 
+        "name": "North Miami "
+    }, 
+    "Fruit Cove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1224925.html", 
+        "descriptor": "CDP", 
+        "name": "Fruit Cove "
+    }, 
+    "Lighthouse Point ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1240450.html", 
+        "descriptor": "city", 
+        "name": "Lighthouse Point "
+    }, 
+    "Samsula-Spruce Creek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1263362.html", 
+        "descriptor": "CDP", 
+        "name": "Samsula-Spruce Creek "
+    }, 
+    "Westchase ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1276062.html", 
+        "descriptor": "CDP", 
+        "name": "Westchase "
+    }, 
+    "Pine Ridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1257058.html", 
+        "descriptor": "CDP", 
+        "name": "Pine Ridge "
+    }, 
+    "Four Corners ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1224581.html", 
+        "descriptor": "CDP", 
+        "name": "Four Corners "
+    }, 
+    "Titusville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1271900.html", 
+        "descriptor": "city", 
+        "name": "Titusville "
+    }, 
+    "Fountainebleau ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1224562.html", 
+        "descriptor": "CDP", 
+        "name": "Fountainebleau "
+    }, 
+    "Lakeland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1238250.html", 
+        "descriptor": "city", 
+        "name": "Lakeland "
+    }, 
+    "St. Pete Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1262885.html", 
+        "descriptor": "city", 
+        "name": "St. Pete Beach "
+    }, 
+    "Jupiter Farms ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1235890.html", 
+        "descriptor": "CDP", 
+        "name": "Jupiter Farms "
+    }, 
+    "West Melbourne ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1276500.html", 
+        "descriptor": "city", 
+        "name": "West Melbourne "
+    }, 
+    "Maitland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1242575.html", 
+        "descriptor": "city", 
+        "name": "Maitland "
+    }, 
+    "Bellview ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1205462.html", 
+        "descriptor": "CDP", 
+        "name": "Bellview "
+    }, 
+    "Lake Magdalene ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1238350.html", 
+        "descriptor": "CDP", 
+        "name": "Lake Magdalene "
+    }, 
+    "Cape Canaveral ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1210250.html", 
+        "descriptor": "city", 
+        "name": "Cape Canaveral "
+    }, 
+    "Live Oak ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1240875.html", 
+        "descriptor": "city", 
+        "name": "Live Oak "
+    }, 
+    "Newberry ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1248200.html", 
+        "descriptor": "city", 
+        "name": "Newberry "
+    }, 
+    "Florida City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1222975.html", 
+        "descriptor": "city", 
+        "name": "Florida City "
+    }, 
+    "Callaway ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1209725.html", 
+        "descriptor": "city", 
+        "name": "Callaway "
+    }, 
+    "Hobe Sound ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1230975.html", 
+        "descriptor": "CDP", 
+        "name": "Hobe Sound "
+    }, 
+    "North Lauderdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1249425.html", 
+        "descriptor": "city", 
+        "name": "North Lauderdale "
+    }, 
+    "Bayonet Point ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1204162.html", 
+        "descriptor": "CDP", 
+        "name": "Bayonet Point "
+    }, 
+    "DeLand ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1216875.html", 
+        "descriptor": "city", 
+        "name": "DeLand "
+    }, 
+    "West Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1276658.html", 
+        "descriptor": "city", 
+        "name": "West Park "
+    }, 
+    "Valrico ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1273700.html", 
+        "descriptor": "CDP", 
+        "name": "Valrico "
+    }, 
+    "Country Club ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1214895.html", 
+        "descriptor": "CDP", 
+        "name": "Country Club "
+    }, 
+    "Starke ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1268525.html", 
+        "descriptor": "city", 
+        "name": "Starke "
+    }, 
+    "Brandon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1208150.html", 
+        "descriptor": "CDP", 
+        "name": "Brandon "
+    }, 
+    "Boynton Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1207875.html", 
+        "descriptor": "city", 
+        "name": "Boynton Beach "
+    }, 
+    "Lake Worth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1239075.html", 
+        "descriptor": "city", 
+        "name": "Lake Worth "
+    }, 
+    "Wedgefield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1275612.html", 
+        "descriptor": "CDP", 
+        "name": "Wedgefield "
+    }, 
+    "Wekiwa Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1275725.html", 
+        "descriptor": "CDP", 
+        "name": "Wekiwa Springs "
+    }, 
+    "Sweetwater ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1270345.html", 
+        "descriptor": "city", 
+        "name": "Sweetwater "
+    }, 
+    "Westwood Lakes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1277075.html", 
+        "descriptor": "CDP", 
+        "name": "Westwood Lakes "
+    }, 
+    "Wimauma ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1278025.html", 
+        "descriptor": "CDP", 
+        "name": "Wimauma "
+    }, 
+    "North Bay Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1249225.html", 
+        "descriptor": "city", 
+        "name": "North Bay Village "
+    }, 
+    "Indian Harbour Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1233450.html", 
+        "descriptor": "city", 
+        "name": "Indian Harbour Beach "
+    }, 
+    "Springfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1268275.html", 
+        "descriptor": "city", 
+        "name": "Springfield "
+    }, 
+    "West Perrine ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1276700.html", 
+        "descriptor": "CDP", 
+        "name": "West Perrine "
+    }, 
+    "Pembroke Pines ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1255775.html", 
+        "descriptor": "city", 
+        "name": "Pembroke Pines "
+    }, 
+    "Longboat Key ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1241150.html", 
+        "descriptor": "town", 
+        "name": "Longboat Key "
+    }, 
+    "Sebring ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1264875.html", 
+        "descriptor": "city", 
+        "name": "Sebring "
+    }, 
+    "Gulf Breeze ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1228000.html", 
+        "descriptor": "city", 
+        "name": "Gulf Breeze "
+    }, 
+    "Crestview ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1215475.html", 
+        "descriptor": "city", 
+        "name": "Crestview "
+    }, 
+    "Southeast Arcadia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1267355.html", 
+        "descriptor": "CDP", 
+        "name": "Southeast Arcadia "
+    }, 
+    "The Villages ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1271625.html", 
+        "descriptor": "CDP", 
+        "name": "The Villages "
+    }, 
+    "Land O' Lakes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1239200.html", 
+        "descriptor": "CDP", 
+        "name": "Land O' Lakes "
+    }, 
+    "Margate ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1243125.html", 
+        "descriptor": "city", 
+        "name": "Margate "
+    }, 
+    "Elfers ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1220275.html", 
+        "descriptor": "CDP", 
+        "name": "Elfers "
+    }, 
+    "Pine Castle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1256500.html", 
+        "descriptor": "CDP", 
+        "name": "Pine Castle "
+    }, 
+    "Lecanto ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1239825.html", 
+        "descriptor": "CDP", 
+        "name": "Lecanto "
+    }, 
+    "Pembroke Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1255750.html", 
+        "descriptor": "town", 
+        "name": "Pembroke Park "
+    }, 
+    "Jasmine Estates ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1235350.html", 
+        "descriptor": "CDP", 
+        "name": "Jasmine Estates "
+    }, 
+    "Bradenton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1207950.html", 
+        "descriptor": "city", 
+        "name": "Bradenton "
+    }, 
+    "Asbury Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1202187.html", 
+        "descriptor": "CDP", 
+        "name": "Asbury Lake "
+    }, 
+    "Stuart ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1268875.html", 
+        "descriptor": "city", 
+        "name": "Stuart "
+    }, 
+    "Valparaiso ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1273675.html", 
+        "descriptor": "city", 
+        "name": "Valparaiso "
+    }, 
+    "Laurel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1239600.html", 
+        "descriptor": "CDP", 
+        "name": "Laurel "
+    }, 
+    "Key West ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1236550.html", 
+        "descriptor": "city", 
+        "name": "Key West "
+    }, 
+    "Cypress Gardens ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1216050.html", 
+        "descriptor": "CDP", 
+        "name": "Cypress Gardens "
+    }, 
+    "Atlantic Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1202400.html", 
+        "descriptor": "city", 
+        "name": "Atlantic Beach "
+    }, 
+    "Fleming Island ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1222660.html", 
+        "descriptor": "CDP", 
+        "name": "Fleming Island "
+    }, 
+    "River Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1260785.html", 
+        "descriptor": "CDP", 
+        "name": "River Park "
+    }, 
+    "Venice Gardens ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1273950.html", 
+        "descriptor": "CDP", 
+        "name": "Venice Gardens "
+    }, 
+    "Miramar ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1245975.html", 
+        "descriptor": "city", 
+        "name": "Miramar "
+    }, 
+    "Lealman ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1239775.html", 
+        "descriptor": "CDP", 
+        "name": "Lealman "
+    }, 
+    "Ferry Pass ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1222275.html", 
+        "descriptor": "CDP", 
+        "name": "Ferry Pass "
+    }, 
+    "Lauderhill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1239550.html", 
+        "descriptor": "city", 
+        "name": "Lauderhill "
+    }, 
+    "Gulfport ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1228175.html", 
+        "descriptor": "city", 
+        "name": "Gulfport "
+    }, 
+    "Orlovista ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1253100.html", 
+        "descriptor": "CDP", 
+        "name": "Orlovista "
+    }, 
+    "Gifford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1225925.html", 
+        "descriptor": "CDP", 
+        "name": "Gifford "
+    }, 
+    "Southgate ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1267425.html", 
+        "descriptor": "CDP", 
+        "name": "Southgate "
+    }, 
+    "Haines City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1228400.html", 
+        "descriptor": "city", 
+        "name": "Haines City "
+    }, 
+    "Key Biscayne ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1236300.html", 
+        "descriptor": "village", 
+        "name": "Key Biscayne "
+    }, 
+    "New Port Richey East ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1248525.html", 
+        "descriptor": "CDP", 
+        "name": "New Port Richey East "
+    }, 
+    "Country Walk ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1215055.html", 
+        "descriptor": "CDP", 
+        "name": "Country Walk "
+    }, 
+    "Belle Isle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1205300.html", 
+        "descriptor": "city", 
+        "name": "Belle Isle "
+    }, 
+    "Holiday ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1231075.html", 
+        "descriptor": "CDP", 
+        "name": "Holiday "
+    }, 
+    "Navarre ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1248050.html", 
+        "descriptor": "CDP", 
+        "name": "Navarre "
+    }, 
+    "Pelican Bay ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1255650.html", 
+        "descriptor": "CDP", 
+        "name": "Pelican Bay "
+    }, 
+    "Palm Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1254450.html", 
+        "descriptor": "village", 
+        "name": "Palm Springs "
+    }, 
+    "Richmond West ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1260230.html", 
+        "descriptor": "CDP", 
+        "name": "Richmond West "
+    }, 
+    "Southwest Ranches ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1268135.html", 
+        "descriptor": "town", 
+        "name": "Southwest Ranches "
+    }, 
+    "Minneola ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1245900.html", 
+        "descriptor": "city", 
+        "name": "Minneola "
+    }, 
+    "Immokalee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1233250.html", 
+        "descriptor": "CDP", 
+        "name": "Immokalee "
+    }, 
+    "Trinity ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1272442.html", 
+        "descriptor": "CDP", 
+        "name": "Trinity "
+    }, 
+    "Lockhart ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1241025.html", 
+        "descriptor": "CDP", 
+        "name": "Lockhart "
+    }, 
+    "Fort Myers Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1224150.html", 
+        "descriptor": "town", 
+        "name": "Fort Myers Beach "
+    }, 
+    "Three Lakes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1271741.html", 
+        "descriptor": "CDP", 
+        "name": "Three Lakes "
+    }, 
+    "Merritt Island ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1244275.html", 
+        "descriptor": "CDP", 
+        "name": "Merritt Island "
+    }, 
+    "New Smyrna Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1248625.html", 
+        "descriptor": "city", 
+        "name": "New Smyrna Beach "
+    }, 
+    "East Milton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1219275.html", 
+        "descriptor": "CDP", 
+        "name": "East Milton "
+    }, 
+    "Aventura ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1202681.html", 
+        "descriptor": "city", 
+        "name": "Aventura "
+    }, 
+    "Tequesta ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1271525.html", 
+        "descriptor": "village", 
+        "name": "Tequesta "
+    }, 
+    "Plant City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1257550.html", 
+        "descriptor": "city", 
+        "name": "Plant City "
+    }, 
+    "North Port ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1249675.html", 
+        "descriptor": "city", 
+        "name": "North Port "
+    }, 
+    "Sarasota Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1264325.html", 
+        "descriptor": "CDP", 
+        "name": "Sarasota Springs "
+    }, 
+    "Bonita Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1207525.html", 
+        "descriptor": "city", 
+        "name": "Bonita Springs "
+    }, 
+    "Westchester ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1276075.html", 
+        "descriptor": "CDP", 
+        "name": "Westchester "
+    }, 
+    "Fussels Corner ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1225125.html", 
+        "descriptor": "CDP", 
+        "name": "Fussels Corner "
+    }, 
+    "Horizon West ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1232610.html", 
+        "descriptor": "CDP", 
+        "name": "Horizon West "
+    }, 
+    "Homestead ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1232275.html", 
+        "descriptor": "city", 
+        "name": "Homestead "
+    }, 
+    "Jacksonville Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1235050.html", 
+        "descriptor": "city", 
+        "name": "Jacksonville Beach "
+    }, 
+    "Palm Bay ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1254000.html", 
+        "descriptor": "city", 
+        "name": "Palm Bay "
+    }, 
+    "Bartow ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1203675.html", 
+        "descriptor": "city", 
+        "name": "Bartow "
+    }, 
+    "Apopka ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1201700.html", 
+        "descriptor": "city", 
+        "name": "Apopka "
+    }, 
+    "Union Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1273075.html", 
+        "descriptor": "CDP", 
+        "name": "Union Park "
+    }, 
+    "Marianna ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1243175.html", 
+        "descriptor": "city", 
+        "name": "Marianna "
+    }, 
+    "Jan Phyl Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1235300.html", 
+        "descriptor": "CDP", 
+        "name": "Jan Phyl Village "
+    }, 
+    "Ocala ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1250750.html", 
+        "descriptor": "city", 
+        "name": "Ocala "
+    }, 
+    "Perry ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1256150.html", 
+        "descriptor": "city", 
+        "name": "Perry "
+    }, 
+    "Lynn Haven ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1241825.html", 
+        "descriptor": "city", 
+        "name": "Lynn Haven "
+    }, 
+    "Princeton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1258975.html", 
+        "descriptor": "CDP", 
+        "name": "Princeton "
+    }, 
+    "Mascotte ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1243425.html", 
+        "descriptor": "city", 
+        "name": "Mascotte "
+    }, 
+    "Port Orange ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1258575.html", 
+        "descriptor": "city", 
+        "name": "Port Orange "
+    }, 
+    "Rio Pinar ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1260562.html", 
+        "descriptor": "CDP", 
+        "name": "Rio Pinar "
+    }, 
+    "West Palm Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1276600.html", 
+        "descriptor": "city", 
+        "name": "West Palm Beach "
+    }, 
+    "South Patrick Shores ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1267725.html", 
+        "descriptor": "CDP", 
+        "name": "South Patrick Shores "
+    }, 
+    "Port Charlotte ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1258350.html", 
+        "descriptor": "CDP", 
+        "name": "Port Charlotte "
+    }, 
+    "Shady Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1265385.html", 
+        "descriptor": "CDP", 
+        "name": "Shady Hills "
+    }, 
+    "Sun City Center ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1269250.html", 
+        "descriptor": "CDP", 
+        "name": "Sun City Center "
+    }, 
+    "Marathon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1243000.html", 
+        "descriptor": "city", 
+        "name": "Marathon "
+    }, 
+    "Milton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1245750.html", 
+        "descriptor": "city", 
+        "name": "Milton "
+    }, 
+    "Estero ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1221150.html", 
+        "descriptor": "CDP", 
+        "name": "Estero "
+    }, 
+    "Tampa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1271000.html", 
+        "descriptor": "city", 
+        "name": "Tampa "
+    }, 
+    "Opa-locka ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1251650.html", 
+        "descriptor": "city", 
+        "name": "Opa-locka "
+    }, 
+    "Gulf Gate Estates ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1228050.html", 
+        "descriptor": "CDP", 
+        "name": "Gulf Gate Estates "
+    }, 
+    "Viera East ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1274368.html", 
+        "descriptor": "CDP", 
+        "name": "Viera East "
+    }, 
+    "Fort Walton Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1224475.html", 
+        "descriptor": "city", 
+        "name": "Fort Walton Beach "
+    }, 
+    "Lutz ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1241775.html", 
+        "descriptor": "CDP", 
+        "name": "Lutz "
+    }, 
+    "Lake Butler ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1237648.html", 
+        "descriptor": "CDP", 
+        "name": "Lake Butler "
+    }, 
+    "Lake Mary ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1238425.html", 
+        "descriptor": "city", 
+        "name": "Lake Mary "
+    }, 
+    "Winter Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1278300.html", 
+        "descriptor": "city", 
+        "name": "Winter Park "
+    }, 
+    "Fern Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1222250.html", 
+        "descriptor": "CDP", 
+        "name": "Fern Park "
+    }, 
+    "Boca Raton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1207300.html", 
+        "descriptor": "city", 
+        "name": "Boca Raton "
+    }, 
+    "Glenvar Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1226100.html", 
+        "descriptor": "CDP", 
+        "name": "Glenvar Heights "
+    }, 
+    "Palatka ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1253875.html", 
+        "descriptor": "city", 
+        "name": "Palatka "
+    }, 
+    "Lakeland Highlands ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1238262.html", 
+        "descriptor": "CDP", 
+        "name": "Lakeland Highlands "
+    }, 
+    "South Pasadena ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1267675.html", 
+        "descriptor": "city", 
+        "name": "South Pasadena "
+    }, 
+    "Tallahassee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1270600.html", 
+        "descriptor": "city", 
+        "name": "Tallahassee "
+    }, 
+    "Arcadia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1201750.html", 
+        "descriptor": "city", 
+        "name": "Arcadia "
+    }, 
+    "Fort Pierce ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1224300.html", 
+        "descriptor": "city", 
+        "name": "Fort Pierce "
+    }, 
+    "Kendale Lakes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1236062.html", 
+        "descriptor": "CDP", 
+        "name": "Kendale Lakes "
+    }, 
+    "Naples ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1247625.html", 
+        "descriptor": "city", 
+        "name": "Naples "
+    }, 
+    "Belle Glade ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1205200.html", 
+        "descriptor": "city", 
+        "name": "Belle Glade "
+    }, 
+    "Wellington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1275812.html", 
+        "descriptor": "village", 
+        "name": "Wellington "
+    }, 
+    "Indiantown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1233700.html", 
+        "descriptor": "CDP", 
+        "name": "Indiantown "
+    }, 
+    "Palm Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1254525.html", 
+        "descriptor": "CDP", 
+        "name": "Palm Valley "
+    }, 
+    "Doral ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1217935.html", 
+        "descriptor": "city", 
+        "name": "Doral "
+    }, 
+    "Ormond-by-the-Sea ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1253200.html", 
+        "descriptor": "CDP", 
+        "name": "Ormond-by-the-Sea "
+    }, 
+    "Dade City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1216125.html", 
+        "descriptor": "city", 
+        "name": "Dade City "
+    }, 
+    "Macclenny ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1241950.html", 
+        "descriptor": "city", 
+        "name": "Macclenny "
+    }, 
+    "Melbourne ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1243975.html", 
+        "descriptor": "city", 
+        "name": "Melbourne "
+    }, 
+    "Ormond Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1253150.html", 
+        "descriptor": "city", 
+        "name": "Ormond Beach "
+    }, 
+    "Auburndale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1202550.html", 
+        "descriptor": "city", 
+        "name": "Auburndale "
+    }, 
+    "University (CDP ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1273172.html", 
+        "descriptor": "Orange", 
+        "name": "University (CDP "
+    }, 
+    "North Miami Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1249475.html", 
+        "descriptor": "city", 
+        "name": "North Miami Beach "
+    }, 
+    "Dunedin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1218575.html", 
+        "descriptor": "city", 
+        "name": "Dunedin "
+    }, 
+    "Alachua ": {
+        "url": "http://quickfacts.census.gov/qfd/states/12/1200375.html", 
+        "descriptor": "city", 
+        "name": "Alachua "
+    }
+}

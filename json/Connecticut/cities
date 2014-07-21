@@ -1,0 +1,302 @@
+{
+    "East Hartford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0922700.html", 
+        "descriptor": "CDP", 
+        "name": "East Hartford "
+    }, 
+    "Waterbury ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0980000.html", 
+        "descriptor": "city", 
+        "name": "Waterbury "
+    }, 
+    "Pawcatuck ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0959140.html", 
+        "descriptor": "CDP", 
+        "name": "Pawcatuck "
+    }, 
+    "Danbury ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0918430.html", 
+        "descriptor": "city", 
+        "name": "Danbury "
+    }, 
+    "Greenwich ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0933690.html", 
+        "descriptor": "CDP", 
+        "name": "Greenwich "
+    }, 
+    "New Haven ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0952000.html", 
+        "descriptor": "city", 
+        "name": "New Haven "
+    }, 
+    "New Britain ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0950370.html", 
+        "descriptor": "city", 
+        "name": "New Britain "
+    }, 
+    "Darien ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0918920.html", 
+        "descriptor": "CDP", 
+        "name": "Darien "
+    }, 
+    "Westport ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0983570.html", 
+        "descriptor": "CDP", 
+        "name": "Westport "
+    }, 
+    "Cos Cob ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0917520.html", 
+        "descriptor": "CDP", 
+        "name": "Cos Cob "
+    }, 
+    "Hartford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0937000.html", 
+        "descriptor": "city", 
+        "name": "Hartford "
+    }, 
+    "Meriden ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0946450.html", 
+        "descriptor": "city", 
+        "name": "Meriden "
+    }, 
+    "North Haven ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0954940.html", 
+        "descriptor": "CDP", 
+        "name": "North Haven "
+    }, 
+    "Groton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0934180.html", 
+        "descriptor": "city", 
+        "name": "Groton "
+    }, 
+    "Bristol ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0908420.html", 
+        "descriptor": "city", 
+        "name": "Bristol "
+    }, 
+    "Oakville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0956690.html", 
+        "descriptor": "CDP", 
+        "name": "Oakville "
+    }, 
+    "Ansonia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0901150.html", 
+        "descriptor": "city", 
+        "name": "Ansonia "
+    }, 
+    "Rockville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0965230.html", 
+        "descriptor": "CDP", 
+        "name": "Rockville "
+    }, 
+    "Sherwood Manor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0968450.html", 
+        "descriptor": "CDP", 
+        "name": "Sherwood Manor "
+    }, 
+    "Putnam ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0962640.html", 
+        "descriptor": "CDP", 
+        "name": "Putnam "
+    }, 
+    "Stamford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0973000.html", 
+        "descriptor": "city", 
+        "name": "Stamford "
+    }, 
+    "New London ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0952280.html", 
+        "descriptor": "city", 
+        "name": "New London "
+    }, 
+    "East Haven ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0922980.html", 
+        "descriptor": "CDP", 
+        "name": "East Haven "
+    }, 
+    "Stratford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0974260.html", 
+        "descriptor": "CDP", 
+        "name": "Stratford "
+    }, 
+    "Shelton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0968100.html", 
+        "descriptor": "city", 
+        "name": "Shelton "
+    }, 
+    "Kensington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0940150.html", 
+        "descriptor": "CDP", 
+        "name": "Kensington "
+    }, 
+    "Norwalk ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0955990.html", 
+        "descriptor": "city", 
+        "name": "Norwalk "
+    }, 
+    "Cheshire Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0914200.html", 
+        "descriptor": "CDP", 
+        "name": "Cheshire Village "
+    }, 
+    "Torrington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0976500.html", 
+        "descriptor": "city", 
+        "name": "Torrington "
+    }, 
+    "Trumbull ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0977270.html", 
+        "descriptor": "CDP", 
+        "name": "Trumbull "
+    }, 
+    "Conning Towers Nautilus Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0916960.html", 
+        "descriptor": "CDP", 
+        "name": "Conning Towers Nautilus Park "
+    }, 
+    "Old Greenwich ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0956900.html", 
+        "descriptor": "CDP", 
+        "name": "Old Greenwich "
+    }, 
+    "West Haven ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0982800.html", 
+        "descriptor": "city", 
+        "name": "West Haven "
+    }, 
+    "Glastonbury Center ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0931270.html", 
+        "descriptor": "CDP", 
+        "name": "Glastonbury Center "
+    }, 
+    "Norwich ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0956200.html", 
+        "descriptor": "city", 
+        "name": "Norwich "
+    }, 
+    "Wallingford Center ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0978880.html", 
+        "descriptor": "CDP", 
+        "name": "Wallingford Center "
+    }, 
+    "Bethel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0904790.html", 
+        "descriptor": "CDP", 
+        "name": "Bethel "
+    }, 
+    "Terryville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0975240.html", 
+        "descriptor": "CDP", 
+        "name": "Terryville "
+    }, 
+    "Milford (city ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0947515.html", 
+        "descriptor": "balance", 
+        "name": "Milford (city "
+    }, 
+    "Derby ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0919480.html", 
+        "descriptor": "city", 
+        "name": "Derby "
+    }, 
+    "Manchester ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0944690.html", 
+        "descriptor": "CDP", 
+        "name": "Manchester "
+    }, 
+    "Thompsonville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0975940.html", 
+        "descriptor": "CDP", 
+        "name": "Thompsonville "
+    }, 
+    "Naugatuck ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0949880.html", 
+        "descriptor": "borough", 
+        "name": "Naugatuck "
+    }, 
+    "Ridgefield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0963900.html", 
+        "descriptor": "CDP", 
+        "name": "Ridgefield "
+    }, 
+    "Wethersfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0984970.html", 
+        "descriptor": "CDP", 
+        "name": "Wethersfield "
+    }, 
+    "West Hartford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0982660.html", 
+        "descriptor": "CDP", 
+        "name": "West Hartford "
+    }, 
+    "Southwood Acres ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0971460.html", 
+        "descriptor": "CDP", 
+        "name": "Southwood Acres "
+    }, 
+    "Branford Center ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0907345.html", 
+        "descriptor": "CDP", 
+        "name": "Branford Center "
+    }, 
+    "Storrs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0973980.html", 
+        "descriptor": "CDP", 
+        "name": "Storrs "
+    }, 
+    "Newington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0952210.html", 
+        "descriptor": "CDP", 
+        "name": "Newington "
+    }, 
+    "Willimantic ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0985810.html", 
+        "descriptor": "CDP", 
+        "name": "Willimantic "
+    }, 
+    "Windsor Locks ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0987140.html", 
+        "descriptor": "CDP", 
+        "name": "Windsor Locks "
+    }, 
+    "Bridgeport ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0908000.html", 
+        "descriptor": "city", 
+        "name": "Bridgeport "
+    }, 
+    "Simsbury Center ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0969010.html", 
+        "descriptor": "CDP", 
+        "name": "Simsbury Center "
+    }, 
+    "Riverside ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0964530.html", 
+        "descriptor": "CDP", 
+        "name": "Riverside "
+    }, 
+    "New Milford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0952560.html", 
+        "descriptor": "CDP", 
+        "name": "New Milford "
+    }, 
+    "Winsted ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0987350.html", 
+        "descriptor": "CDP", 
+        "name": "Winsted "
+    }, 
+    "Orange ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0957670.html", 
+        "descriptor": "CDP", 
+        "name": "Orange "
+    }, 
+    "Middletown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0947290.html", 
+        "descriptor": "city", 
+        "name": "Middletown "
+    }, 
+    "Portland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/09/0961870.html", 
+        "descriptor": "CDP", 
+        "name": "Portland "
+    }
+}

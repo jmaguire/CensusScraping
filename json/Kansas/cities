@@ -1,0 +1,307 @@
+{
+    "Roeland Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2060825.html", 
+        "descriptor": "city", 
+        "name": "Roeland Park "
+    }, 
+    "McPherson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2043950.html", 
+        "descriptor": "city", 
+        "name": "McPherson "
+    }, 
+    "Overland Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2053775.html", 
+        "descriptor": "city", 
+        "name": "Overland Park "
+    }, 
+    "Bonner Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2007975.html", 
+        "descriptor": "city", 
+        "name": "Bonner Springs "
+    }, 
+    "Wichita ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2079000.html", 
+        "descriptor": "city", 
+        "name": "Wichita "
+    }, 
+    "Salina ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2062700.html", 
+        "descriptor": "city", 
+        "name": "Salina "
+    }, 
+    "Garden City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2025325.html", 
+        "descriptor": "city", 
+        "name": "Garden City "
+    }, 
+    "Gardner ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2025425.html", 
+        "descriptor": "city", 
+        "name": "Gardner "
+    }, 
+    "Prairie Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2057575.html", 
+        "descriptor": "city", 
+        "name": "Prairie Village "
+    }, 
+    "Manhattan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2044250.html", 
+        "descriptor": "city", 
+        "name": "Manhattan "
+    }, 
+    "El Dorado ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2020075.html", 
+        "descriptor": "city", 
+        "name": "El Dorado "
+    }, 
+    "Independence ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2033875.html", 
+        "descriptor": "city", 
+        "name": "Independence "
+    }, 
+    "Park City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2054450.html", 
+        "descriptor": "city", 
+        "name": "Park City "
+    }, 
+    "Newton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2050475.html", 
+        "descriptor": "city", 
+        "name": "Newton "
+    }, 
+    "Eudora ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2021675.html", 
+        "descriptor": "city", 
+        "name": "Eudora "
+    }, 
+    "Bel Aire ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2005337.html", 
+        "descriptor": "city", 
+        "name": "Bel Aire "
+    }, 
+    "Abilene ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2000125.html", 
+        "descriptor": "city", 
+        "name": "Abilene "
+    }, 
+    "Hays ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2031100.html", 
+        "descriptor": "city", 
+        "name": "Hays "
+    }, 
+    "Lansing ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2038650.html", 
+        "descriptor": "city", 
+        "name": "Lansing "
+    }, 
+    "Tonganoxie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2070800.html", 
+        "descriptor": "city", 
+        "name": "Tonganoxie "
+    }, 
+    "Iola ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2034300.html", 
+        "descriptor": "city", 
+        "name": "Iola "
+    }, 
+    "Leavenworth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2039000.html", 
+        "descriptor": "city", 
+        "name": "Leavenworth "
+    }, 
+    "Shawnee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2064500.html", 
+        "descriptor": "city", 
+        "name": "Shawnee "
+    }, 
+    "Chanute ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2012500.html", 
+        "descriptor": "city", 
+        "name": "Chanute "
+    }, 
+    "Paola ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2054250.html", 
+        "descriptor": "city", 
+        "name": "Paola "
+    }, 
+    "Ulysses ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2071975.html", 
+        "descriptor": "city", 
+        "name": "Ulysses "
+    }, 
+    "Liberal ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2039825.html", 
+        "descriptor": "city", 
+        "name": "Liberal "
+    }, 
+    "Atchison ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2002900.html", 
+        "descriptor": "city", 
+        "name": "Atchison "
+    }, 
+    "Pratt ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2057625.html", 
+        "descriptor": "city", 
+        "name": "Pratt "
+    }, 
+    "Concordia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2015200.html", 
+        "descriptor": "city", 
+        "name": "Concordia "
+    }, 
+    "Mulvane ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2049100.html", 
+        "descriptor": "city", 
+        "name": "Mulvane "
+    }, 
+    "Dodge City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2018250.html", 
+        "descriptor": "city", 
+        "name": "Dodge City "
+    }, 
+    "Spring Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2067625.html", 
+        "descriptor": "city", 
+        "name": "Spring Hill "
+    }, 
+    "Mission ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2047225.html", 
+        "descriptor": "city", 
+        "name": "Mission "
+    }, 
+    "Fort Riley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2023975.html", 
+        "descriptor": "CDP", 
+        "name": "Fort Riley "
+    }, 
+    "Great Bend ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2028300.html", 
+        "descriptor": "city", 
+        "name": "Great Bend "
+    }, 
+    "Derby ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2017800.html", 
+        "descriptor": "city", 
+        "name": "Derby "
+    }, 
+    "Topeka ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2071000.html", 
+        "descriptor": "city", 
+        "name": "Topeka "
+    }, 
+    "Andover ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2001800.html", 
+        "descriptor": "city", 
+        "name": "Andover "
+    }, 
+    "Colby ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2014650.html", 
+        "descriptor": "city", 
+        "name": "Colby "
+    }, 
+    "Lenexa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2039350.html", 
+        "descriptor": "city", 
+        "name": "Lenexa "
+    }, 
+    "Leawood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2039075.html", 
+        "descriptor": "city", 
+        "name": "Leawood "
+    }, 
+    "Coffeyville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2014600.html", 
+        "descriptor": "city", 
+        "name": "Coffeyville "
+    }, 
+    "Fort Scott ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2024000.html", 
+        "descriptor": "city", 
+        "name": "Fort Scott "
+    }, 
+    "Olathe ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2052575.html", 
+        "descriptor": "city", 
+        "name": "Olathe "
+    }, 
+    "Pittsburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2056025.html", 
+        "descriptor": "city", 
+        "name": "Pittsburg "
+    }, 
+    "Emporia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2021275.html", 
+        "descriptor": "city", 
+        "name": "Emporia "
+    }, 
+    "Lawrence ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2038900.html", 
+        "descriptor": "city", 
+        "name": "Lawrence "
+    }, 
+    "Winfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2079950.html", 
+        "descriptor": "city", 
+        "name": "Winfield "
+    }, 
+    "Arkansas City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2002300.html", 
+        "descriptor": "city", 
+        "name": "Arkansas City "
+    }, 
+    "De Soto ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2017850.html", 
+        "descriptor": "city", 
+        "name": "De Soto "
+    }, 
+    "Augusta ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2003300.html", 
+        "descriptor": "city", 
+        "name": "Augusta "
+    }, 
+    "Hutchinson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2033625.html", 
+        "descriptor": "city", 
+        "name": "Hutchinson "
+    }, 
+    "Haysville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2031125.html", 
+        "descriptor": "city", 
+        "name": "Haysville "
+    }, 
+    "Wellington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2076475.html", 
+        "descriptor": "city", 
+        "name": "Wellington "
+    }, 
+    "Parsons ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2054675.html", 
+        "descriptor": "city", 
+        "name": "Parsons "
+    }, 
+    "Merriam ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2046000.html", 
+        "descriptor": "city", 
+        "name": "Merriam "
+    }, 
+    "Valley Center ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2073250.html", 
+        "descriptor": "city", 
+        "name": "Valley Center "
+    }, 
+    "Junction City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2035750.html", 
+        "descriptor": "city", 
+        "name": "Junction City "
+    }, 
+    "Kansas City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2036000.html", 
+        "descriptor": "city", 
+        "name": "Kansas City "
+    }, 
+    "Ottawa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/20/2053550.html", 
+        "descriptor": "city", 
+        "name": "Ottawa "
+    }
+}

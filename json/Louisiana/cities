@@ -1,0 +1,542 @@
+{
+    "DeRidder ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2220610.html", 
+        "descriptor": "city", 
+        "name": "DeRidder "
+    }, 
+    "Baker ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2203985.html", 
+        "descriptor": "city", 
+        "name": "Baker "
+    }, 
+    "Leesville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2243010.html", 
+        "descriptor": "city", 
+        "name": "Leesville "
+    }, 
+    "Schriever ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2268300.html", 
+        "descriptor": "CDP", 
+        "name": "Schriever "
+    }, 
+    "Larose ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2242135.html", 
+        "descriptor": "CDP", 
+        "name": "Larose "
+    }, 
+    "Cut Off ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2218930.html", 
+        "descriptor": "CDP", 
+        "name": "Cut Off "
+    }, 
+    "Bastrop ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2204685.html", 
+        "descriptor": "city", 
+        "name": "Bastrop "
+    }, 
+    "Port Allen ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2261790.html", 
+        "descriptor": "city", 
+        "name": "Port Allen "
+    }, 
+    "Bogalusa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2208150.html", 
+        "descriptor": "city", 
+        "name": "Bogalusa "
+    }, 
+    "Thibodaux ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2275425.html", 
+        "descriptor": "city", 
+        "name": "Thibodaux "
+    }, 
+    "Patterson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2259340.html", 
+        "descriptor": "city", 
+        "name": "Patterson "
+    }, 
+    "Marksville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2248750.html", 
+        "descriptor": "city", 
+        "name": "Marksville "
+    }, 
+    "Timberlane ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2275740.html", 
+        "descriptor": "CDP", 
+        "name": "Timberlane "
+    }, 
+    "Scott ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2268475.html", 
+        "descriptor": "city", 
+        "name": "Scott "
+    }, 
+    "Marrero ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2248785.html", 
+        "descriptor": "CDP", 
+        "name": "Marrero "
+    }, 
+    "Donaldsonville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2221240.html", 
+        "descriptor": "city", 
+        "name": "Donaldsonville "
+    }, 
+    "New Orleans ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2255000.html", 
+        "descriptor": "city", 
+        "name": "New Orleans "
+    }, 
+    "Minden ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2250885.html", 
+        "descriptor": "city", 
+        "name": "Minden "
+    }, 
+    "Westwego ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2281165.html", 
+        "descriptor": "city", 
+        "name": "Westwego "
+    }, 
+    "Ville Platte ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2278715.html", 
+        "descriptor": "city", 
+        "name": "Ville Platte "
+    }, 
+    "St. Rose ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2267740.html", 
+        "descriptor": "CDP", 
+        "name": "St. Rose "
+    }, 
+    "Jefferson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2238145.html", 
+        "descriptor": "CDP", 
+        "name": "Jefferson "
+    }, 
+    "Springhill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2272485.html", 
+        "descriptor": "city", 
+        "name": "Springhill "
+    }, 
+    "Gonzales ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2229850.html", 
+        "descriptor": "city", 
+        "name": "Gonzales "
+    }, 
+    "Abbeville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2200100.html", 
+        "descriptor": "city", 
+        "name": "Abbeville "
+    }, 
+    "Broussard ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2210075.html", 
+        "descriptor": "city", 
+        "name": "Broussard "
+    }, 
+    "Fort Polk South ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2226757.html", 
+        "descriptor": "CDP", 
+        "name": "Fort Polk South "
+    }, 
+    "Chackbay ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2214100.html", 
+        "descriptor": "CDP", 
+        "name": "Chackbay "
+    }, 
+    "Houma ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2236255.html", 
+        "descriptor": "city", 
+        "name": "Houma "
+    }, 
+    "Prairieville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2262385.html", 
+        "descriptor": "CDP", 
+        "name": "Prairieville "
+    }, 
+    "Meraux ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2249800.html", 
+        "descriptor": "CDP", 
+        "name": "Meraux "
+    }, 
+    "Shreveport ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2270000.html", 
+        "descriptor": "city", 
+        "name": "Shreveport "
+    }, 
+    "Chalmette ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2214135.html", 
+        "descriptor": "CDP", 
+        "name": "Chalmette "
+    }, 
+    "Prien ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2262647.html", 
+        "descriptor": "CDP", 
+        "name": "Prien "
+    }, 
+    "Laplace ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2242030.html", 
+        "descriptor": "CDP", 
+        "name": "Laplace "
+    }, 
+    "Merrydale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2249940.html", 
+        "descriptor": "CDP", 
+        "name": "Merrydale "
+    }, 
+    "Lacombe ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2240665.html", 
+        "descriptor": "CDP", 
+        "name": "Lacombe "
+    }, 
+    "Destrehan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2220820.html", 
+        "descriptor": "CDP", 
+        "name": "Destrehan "
+    }, 
+    "Metairie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2250115.html", 
+        "descriptor": "CDP", 
+        "name": "Metairie "
+    }, 
+    "Denham Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2220435.html", 
+        "descriptor": "city", 
+        "name": "Denham Springs "
+    }, 
+    "Harvey ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2233245.html", 
+        "descriptor": "CDP", 
+        "name": "Harvey "
+    }, 
+    "Zachary ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2283405.html", 
+        "descriptor": "city", 
+        "name": "Zachary "
+    }, 
+    "Red Chute ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2263855.html", 
+        "descriptor": "CDP", 
+        "name": "Red Chute "
+    }, 
+    "St. Martinville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2267600.html", 
+        "descriptor": "city", 
+        "name": "St. Martinville "
+    }, 
+    "Plaquemine ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2260880.html", 
+        "descriptor": "city", 
+        "name": "Plaquemine "
+    }, 
+    "Old Jefferson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2257705.html", 
+        "descriptor": "CDP", 
+        "name": "Old Jefferson "
+    }, 
+    "Opelousas ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2258045.html", 
+        "descriptor": "city", 
+        "name": "Opelousas "
+    }, 
+    "Rayne ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2263645.html", 
+        "descriptor": "city", 
+        "name": "Rayne "
+    }, 
+    "Jeanerette ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2238075.html", 
+        "descriptor": "city", 
+        "name": "Jeanerette "
+    }, 
+    "Estelle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2224390.html", 
+        "descriptor": "CDP", 
+        "name": "Estelle "
+    }, 
+    "Grambling ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2230515.html", 
+        "descriptor": "city", 
+        "name": "Grambling "
+    }, 
+    "Lafayette ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2240735.html", 
+        "descriptor": "city", 
+        "name": "Lafayette "
+    }, 
+    "Natchitoches ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2253545.html", 
+        "descriptor": "city", 
+        "name": "Natchitoches "
+    }, 
+    "Oakdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2256540.html", 
+        "descriptor": "city", 
+        "name": "Oakdale "
+    }, 
+    "Bayou Cane ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2205210.html", 
+        "descriptor": "CDP", 
+        "name": "Bayou Cane "
+    }, 
+    "New Iberia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2254035.html", 
+        "descriptor": "city", 
+        "name": "New Iberia "
+    }, 
+    "Galliano ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2228065.html", 
+        "descriptor": "CDP", 
+        "name": "Galliano "
+    }, 
+    "Lake Charles ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2241155.html", 
+        "descriptor": "city", 
+        "name": "Lake Charles "
+    }, 
+    "Morgan City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2252040.html", 
+        "descriptor": "city", 
+        "name": "Morgan City "
+    }, 
+    "Brownfields ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2210145.html", 
+        "descriptor": "CDP", 
+        "name": "Brownfields "
+    }, 
+    "Tallulah ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2274690.html", 
+        "descriptor": "city", 
+        "name": "Tallulah "
+    }, 
+    "Crowley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2218650.html", 
+        "descriptor": "city", 
+        "name": "Crowley "
+    }, 
+    "Shenandoah ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2269225.html", 
+        "descriptor": "CDP", 
+        "name": "Shenandoah "
+    }, 
+    "Bridge City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2209480.html", 
+        "descriptor": "CDP", 
+        "name": "Bridge City "
+    }, 
+    "Moss Bluff ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2252425.html", 
+        "descriptor": "CDP", 
+        "name": "Moss Bluff "
+    }, 
+    "Central ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2213960.html", 
+        "descriptor": "city", 
+        "name": "Central "
+    }, 
+    "Waggaman ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2279100.html", 
+        "descriptor": "CDP", 
+        "name": "Waggaman "
+    }, 
+    "Hammond ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2232755.html", 
+        "descriptor": "city", 
+        "name": "Hammond "
+    }, 
+    "Mansfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2248365.html", 
+        "descriptor": "city", 
+        "name": "Mansfield "
+    }, 
+    "Luling ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2246615.html", 
+        "descriptor": "CDP", 
+        "name": "Luling "
+    }, 
+    "St. Gabriel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2267250.html", 
+        "descriptor": "city", 
+        "name": "St. Gabriel "
+    }, 
+    "Covington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2218125.html", 
+        "descriptor": "city", 
+        "name": "Covington "
+    }, 
+    "Ruston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2266655.html", 
+        "descriptor": "city", 
+        "name": "Ruston "
+    }, 
+    "Eunice ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2224565.html", 
+        "descriptor": "city", 
+        "name": "Eunice "
+    }, 
+    "Mandeville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2248225.html", 
+        "descriptor": "city", 
+        "name": "Mandeville "
+    }, 
+    "Jennings ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2238355.html", 
+        "descriptor": "city", 
+        "name": "Jennings "
+    }, 
+    "Youngsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2283335.html", 
+        "descriptor": "city", 
+        "name": "Youngsville "
+    }, 
+    "Baton Rouge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2205000.html", 
+        "descriptor": "city", 
+        "name": "Baton Rouge "
+    }, 
+    "Claiborne ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2215605.html", 
+        "descriptor": "CDP", 
+        "name": "Claiborne "
+    }, 
+    "Alexandria ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2200975.html", 
+        "descriptor": "city", 
+        "name": "Alexandria "
+    }, 
+    "Breaux Bridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2209340.html", 
+        "descriptor": "city", 
+        "name": "Breaux Bridge "
+    }, 
+    "Ponchatoula ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2261615.html", 
+        "descriptor": "city", 
+        "name": "Ponchatoula "
+    }, 
+    "Gretna ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2231915.html", 
+        "descriptor": "city", 
+        "name": "Gretna "
+    }, 
+    "Woodmere ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2283002.html", 
+        "descriptor": "CDP", 
+        "name": "Woodmere "
+    }, 
+    "Franklin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2227155.html", 
+        "descriptor": "city", 
+        "name": "Franklin "
+    }, 
+    "Pineville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2260530.html", 
+        "descriptor": "city", 
+        "name": "Pineville "
+    }, 
+    "West Monroe ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2280955.html", 
+        "descriptor": "city", 
+        "name": "West Monroe "
+    }, 
+    "Carencro ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2212665.html", 
+        "descriptor": "city", 
+        "name": "Carencro "
+    }, 
+    "Oak Hills Place ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2256855.html", 
+        "descriptor": "CDP", 
+        "name": "Oak Hills Place "
+    }, 
+    "Reserve ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2264310.html", 
+        "descriptor": "CDP", 
+        "name": "Reserve "
+    }, 
+    "Bayou Blue ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2205175.html", 
+        "descriptor": "CDP", 
+        "name": "Bayou Blue "
+    }, 
+    "Bossier City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2208920.html", 
+        "descriptor": "city", 
+        "name": "Bossier City "
+    }, 
+    "Kenner ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2239475.html", 
+        "descriptor": "city", 
+        "name": "Kenner "
+    }, 
+    "Gray ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2231180.html", 
+        "descriptor": "CDP", 
+        "name": "Gray "
+    }, 
+    "River Ridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2265150.html", 
+        "descriptor": "CDP", 
+        "name": "River Ridge "
+    }, 
+    "Terrytown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2275180.html", 
+        "descriptor": "CDP", 
+        "name": "Terrytown "
+    }, 
+    "Sulphur ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2273640.html", 
+        "descriptor": "city", 
+        "name": "Sulphur "
+    }, 
+    "Eden Isle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2222722.html", 
+        "descriptor": "CDP", 
+        "name": "Eden Isle "
+    }, 
+    "Walker ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2279240.html", 
+        "descriptor": "town", 
+        "name": "Walker "
+    }, 
+    "Monroe ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2251410.html", 
+        "descriptor": "city", 
+        "name": "Monroe "
+    }, 
+    "Village St. George ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2278680.html", 
+        "descriptor": "CDP", 
+        "name": "Village St. George "
+    }, 
+    "Monticello ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2251645.html", 
+        "descriptor": "CDP", 
+        "name": "Monticello "
+    }, 
+    "Inniswold ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2237270.html", 
+        "descriptor": "CDP", 
+        "name": "Inniswold "
+    }, 
+    "Gardere ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2228275.html", 
+        "descriptor": "CDP", 
+        "name": "Gardere "
+    }, 
+    "Raceland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2263155.html", 
+        "descriptor": "CDP", 
+        "name": "Raceland "
+    }, 
+    "Belle Chasse ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2206120.html", 
+        "descriptor": "CDP", 
+        "name": "Belle Chasse "
+    }, 
+    "Slidell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2270805.html", 
+        "descriptor": "city", 
+        "name": "Slidell "
+    }, 
+    "Harahan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/22/2232930.html", 
+        "descriptor": "city", 
+        "name": "Harahan "
+    }
+}

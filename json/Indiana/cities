@@ -1,0 +1,642 @@
+{
+    "Portage ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1861092.html", 
+        "descriptor": "city", 
+        "name": "Portage "
+    }, 
+    "Greenwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1829898.html", 
+        "descriptor": "city", 
+        "name": "Greenwood "
+    }, 
+    "Munster ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1851912.html", 
+        "descriptor": "town", 
+        "name": "Munster "
+    }, 
+    "Noblesville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1854180.html", 
+        "descriptor": "city", 
+        "name": "Noblesville "
+    }, 
+    "New Albany ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1852326.html", 
+        "descriptor": "city", 
+        "name": "New Albany "
+    }, 
+    "New Castle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1852740.html", 
+        "descriptor": "city", 
+        "name": "New Castle "
+    }, 
+    "Valparaiso ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1878326.html", 
+        "descriptor": "city", 
+        "name": "Valparaiso "
+    }, 
+    "Speedway ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1871828.html", 
+        "descriptor": "town", 
+        "name": "Speedway "
+    }, 
+    "Avon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1802908.html", 
+        "descriptor": "town", 
+        "name": "Avon "
+    }, 
+    "Greenfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1829520.html", 
+        "descriptor": "city", 
+        "name": "Greenfield "
+    }, 
+    "Plymouth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1860822.html", 
+        "descriptor": "city", 
+        "name": "Plymouth "
+    }, 
+    "Tell City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1875248.html", 
+        "descriptor": "city", 
+        "name": "Tell City "
+    }, 
+    "Mishawaka ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1849932.html", 
+        "descriptor": "city", 
+        "name": "Mishawaka "
+    }, 
+    "Greencastle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1829358.html", 
+        "descriptor": "city", 
+        "name": "Greencastle "
+    }, 
+    "Gary ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1827000.html", 
+        "descriptor": "city", 
+        "name": "Gary "
+    }, 
+    "Jasper ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1837782.html", 
+        "descriptor": "city", 
+        "name": "Jasper "
+    }, 
+    "Crown Point ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1816138.html", 
+        "descriptor": "city", 
+        "name": "Crown Point "
+    }, 
+    "Cumberland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1816336.html", 
+        "descriptor": "town", 
+        "name": "Cumberland "
+    }, 
+    "Cedar Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1811062.html", 
+        "descriptor": "town", 
+        "name": "Cedar Lake "
+    }, 
+    "Batesville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1803664.html", 
+        "descriptor": "city", 
+        "name": "Batesville "
+    }, 
+    "Chesterton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1812412.html", 
+        "descriptor": "town", 
+        "name": "Chesterton "
+    }, 
+    "McCordsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1845648.html", 
+        "descriptor": "town", 
+        "name": "McCordsville "
+    }, 
+    "Nappanee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1852020.html", 
+        "descriptor": "city", 
+        "name": "Nappanee "
+    }, 
+    "Auburn ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1802674.html", 
+        "descriptor": "city", 
+        "name": "Auburn "
+    }, 
+    "North Manchester ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1854954.html", 
+        "descriptor": "town", 
+        "name": "North Manchester "
+    }, 
+    "Anderson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1801468.html", 
+        "descriptor": "city", 
+        "name": "Anderson "
+    }, 
+    "Michigan City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1848798.html", 
+        "descriptor": "city", 
+        "name": "Michigan City "
+    }, 
+    "Peru ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1859328.html", 
+        "descriptor": "city", 
+        "name": "Peru "
+    }, 
+    "Hobart ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1834114.html", 
+        "descriptor": "city", 
+        "name": "Hobart "
+    }, 
+    "New Haven ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1852992.html", 
+        "descriptor": "city", 
+        "name": "New Haven "
+    }, 
+    "Bedford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1804114.html", 
+        "descriptor": "city", 
+        "name": "Bedford "
+    }, 
+    "Bright ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1807624.html", 
+        "descriptor": "CDP", 
+        "name": "Bright "
+    }, 
+    "Portland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1861236.html", 
+        "descriptor": "city", 
+        "name": "Portland "
+    }, 
+    "St. John ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1866852.html", 
+        "descriptor": "town", 
+        "name": "St. John "
+    }, 
+    "Grissom AFB ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1830060.html", 
+        "descriptor": "CDP", 
+        "name": "Grissom AFB "
+    }, 
+    "Connersville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1814932.html", 
+        "descriptor": "city", 
+        "name": "Connersville "
+    }, 
+    "Highland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1833466.html", 
+        "descriptor": "town", 
+        "name": "Highland "
+    }, 
+    "Lowell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1845144.html", 
+        "descriptor": "town", 
+        "name": "Lowell "
+    }, 
+    "Goshen ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1828386.html", 
+        "descriptor": "city", 
+        "name": "Goshen "
+    }, 
+    "Logansport ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1844658.html", 
+        "descriptor": "city", 
+        "name": "Logansport "
+    }, 
+    "Washington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1880504.html", 
+        "descriptor": "city", 
+        "name": "Washington "
+    }, 
+    "Bloomington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1805860.html", 
+        "descriptor": "city", 
+        "name": "Bloomington "
+    }, 
+    "Kokomo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1840392.html", 
+        "descriptor": "city", 
+        "name": "Kokomo "
+    }, 
+    "Brownsburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1808416.html", 
+        "descriptor": "town", 
+        "name": "Brownsburg "
+    }, 
+    "Yorktown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1886084.html", 
+        "descriptor": "town", 
+        "name": "Yorktown "
+    }, 
+    "Mooresville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1850976.html", 
+        "descriptor": "town", 
+        "name": "Mooresville "
+    }, 
+    "Danville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1816804.html", 
+        "descriptor": "town", 
+        "name": "Danville "
+    }, 
+    "Brazil ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1807174.html", 
+        "descriptor": "city", 
+        "name": "Brazil "
+    }, 
+    "Griffith ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1830042.html", 
+        "descriptor": "town", 
+        "name": "Griffith "
+    }, 
+    "Purdue University ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1862388.html", 
+        "descriptor": "CDP", 
+        "name": "Purdue University "
+    }, 
+    "Granger ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1828800.html", 
+        "descriptor": "CDP", 
+        "name": "Granger "
+    }, 
+    "New Whiteland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1853874.html", 
+        "descriptor": "town", 
+        "name": "New Whiteland "
+    }, 
+    "Charlestown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1812124.html", 
+        "descriptor": "city", 
+        "name": "Charlestown "
+    }, 
+    "Fort Wayne ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1825000.html", 
+        "descriptor": "city", 
+        "name": "Fort Wayne "
+    }, 
+    "La Porte ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1842246.html", 
+        "descriptor": "city", 
+        "name": "La Porte "
+    }, 
+    "West Lafayette ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1882862.html", 
+        "descriptor": "city", 
+        "name": "West Lafayette "
+    }, 
+    "Hartford City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1832242.html", 
+        "descriptor": "city", 
+        "name": "Hartford City "
+    }, 
+    "Garrett ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1826386.html", 
+        "descriptor": "city", 
+        "name": "Garrett "
+    }, 
+    "Bargersville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1803394.html", 
+        "descriptor": "town", 
+        "name": "Bargersville "
+    }, 
+    "Kendallville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1839402.html", 
+        "descriptor": "city", 
+        "name": "Kendallville "
+    }, 
+    "Ellettsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1820800.html", 
+        "descriptor": "town", 
+        "name": "Ellettsville "
+    }, 
+    "Dunlap ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1819072.html", 
+        "descriptor": "CDP", 
+        "name": "Dunlap "
+    }, 
+    "Crawfordsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1815742.html", 
+        "descriptor": "city", 
+        "name": "Crawfordsville "
+    }, 
+    "Rochester ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1865214.html", 
+        "descriptor": "city", 
+        "name": "Rochester "
+    }, 
+    "Plainfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1860246.html", 
+        "descriptor": "town", 
+        "name": "Plainfield "
+    }, 
+    "North Vernon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1855116.html", 
+        "descriptor": "city", 
+        "name": "North Vernon "
+    }, 
+    "Sellersburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1868670.html", 
+        "descriptor": "town", 
+        "name": "Sellersburg "
+    }, 
+    "Lake Station ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1841535.html", 
+        "descriptor": "city", 
+        "name": "Lake Station "
+    }, 
+    "South Haven ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1871288.html", 
+        "descriptor": "CDP", 
+        "name": "South Haven "
+    }, 
+    "Elkhart ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1820728.html", 
+        "descriptor": "city", 
+        "name": "Elkhart "
+    }, 
+    "Winfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1884878.html", 
+        "descriptor": "town", 
+        "name": "Winfield "
+    }, 
+    "Franklin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1825450.html", 
+        "descriptor": "city", 
+        "name": "Franklin "
+    }, 
+    "Huntington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1835302.html", 
+        "descriptor": "city", 
+        "name": "Huntington "
+    }, 
+    "Lafayette ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1840788.html", 
+        "descriptor": "city", 
+        "name": "Lafayette "
+    }, 
+    "Angola ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1801666.html", 
+        "descriptor": "city", 
+        "name": "Angola "
+    }, 
+    "Shelbyville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1869318.html", 
+        "descriptor": "city", 
+        "name": "Shelbyville "
+    }, 
+    "Westfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1882700.html", 
+        "descriptor": "city", 
+        "name": "Westfield "
+    }, 
+    "Rushville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1866438.html", 
+        "descriptor": "city", 
+        "name": "Rushville "
+    }, 
+    "Schererville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1868220.html", 
+        "descriptor": "town", 
+        "name": "Schererville "
+    }, 
+    "Westville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1883420.html", 
+        "descriptor": "town", 
+        "name": "Westville "
+    }, 
+    "Hidden Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1833392.html", 
+        "descriptor": "CDP", 
+        "name": "Hidden Valley "
+    }, 
+    "Boonville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1806616.html", 
+        "descriptor": "city", 
+        "name": "Boonville "
+    }, 
+    "Scottsburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1868526.html", 
+        "descriptor": "city", 
+        "name": "Scottsburg "
+    }, 
+    "Rensselaer ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1863792.html", 
+        "descriptor": "city", 
+        "name": "Rensselaer "
+    }, 
+    "Lebanon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1842624.html", 
+        "descriptor": "city", 
+        "name": "Lebanon "
+    }, 
+    "Hammond ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1831000.html", 
+        "descriptor": "city", 
+        "name": "Hammond "
+    }, 
+    "Muncie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1851876.html", 
+        "descriptor": "city", 
+        "name": "Muncie "
+    }, 
+    "Dyer ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1819270.html", 
+        "descriptor": "town", 
+        "name": "Dyer "
+    }, 
+    "Greensburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1829718.html", 
+        "descriptor": "city", 
+        "name": "Greensburg "
+    }, 
+    "Jeffersonville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1838358.html", 
+        "descriptor": "city", 
+        "name": "Jeffersonville "
+    }, 
+    "Linton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1844190.html", 
+        "descriptor": "city", 
+        "name": "Linton "
+    }, 
+    "Princeton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1862046.html", 
+        "descriptor": "city", 
+        "name": "Princeton "
+    }, 
+    "Frankfort ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1825324.html", 
+        "descriptor": "city", 
+        "name": "Frankfort "
+    }, 
+    "Seymour ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1868832.html", 
+        "descriptor": "city", 
+        "name": "Seymour "
+    }, 
+    "Huntingburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1835284.html", 
+        "descriptor": "city", 
+        "name": "Huntingburg "
+    }, 
+    "South Bend ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1871000.html", 
+        "descriptor": "city", 
+        "name": "South Bend "
+    }, 
+    "Alexandria ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1800910.html", 
+        "descriptor": "city", 
+        "name": "Alexandria "
+    }, 
+    "Gas City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1827054.html", 
+        "descriptor": "city", 
+        "name": "Gas City "
+    }, 
+    "Lawrenceburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1842462.html", 
+        "descriptor": "city", 
+        "name": "Lawrenceburg "
+    }, 
+    "East Chicago ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1819486.html", 
+        "descriptor": "city", 
+        "name": "East Chicago "
+    }, 
+    "Richmond ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1864260.html", 
+        "descriptor": "city", 
+        "name": "Richmond "
+    }, 
+    "Lawrence ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1842426.html", 
+        "descriptor": "city", 
+        "name": "Lawrence "
+    }, 
+    "Zionsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1886372.html", 
+        "descriptor": "town", 
+        "name": "Zionsville "
+    }, 
+    "Huntertown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1835266.html", 
+        "descriptor": "town", 
+        "name": "Huntertown "
+    }, 
+    "Indianapolis (city ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1836003.html", 
+        "descriptor": "balance", 
+        "name": "Indianapolis (city "
+    }, 
+    "Columbia City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1814716.html", 
+        "descriptor": "city", 
+        "name": "Columbia City "
+    }, 
+    "Mount Vernon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1851732.html", 
+        "descriptor": "city", 
+        "name": "Mount Vernon "
+    }, 
+    "Fishers ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1823278.html", 
+        "descriptor": "town", 
+        "name": "Fishers "
+    }, 
+    "Vincennes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1879208.html", 
+        "descriptor": "city", 
+        "name": "Vincennes "
+    }, 
+    "Decatur ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1817074.html", 
+        "descriptor": "city", 
+        "name": "Decatur "
+    }, 
+    "Carmel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1810342.html", 
+        "descriptor": "city", 
+        "name": "Carmel "
+    }, 
+    "Warsaw ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1880306.html", 
+        "descriptor": "city", 
+        "name": "Warsaw "
+    }, 
+    "Clarksville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1812934.html", 
+        "descriptor": "town", 
+        "name": "Clarksville "
+    }, 
+    "Terre Haute ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1875428.html", 
+        "descriptor": "city", 
+        "name": "Terre Haute "
+    }, 
+    "Salem ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1867464.html", 
+        "descriptor": "city", 
+        "name": "Salem "
+    }, 
+    "Madison ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1845990.html", 
+        "descriptor": "city", 
+        "name": "Madison "
+    }, 
+    "Lakes of the Four Seasons ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1841530.html", 
+        "descriptor": "CDP", 
+        "name": "Lakes of the Four Seasons "
+    }, 
+    "Beech Grove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1804204.html", 
+        "descriptor": "city", 
+        "name": "Beech Grove "
+    }, 
+    "Columbus ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1814734.html", 
+        "descriptor": "city", 
+        "name": "Columbus "
+    }, 
+    "Evansville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1822000.html", 
+        "descriptor": "city", 
+        "name": "Evansville "
+    }, 
+    "Monticello ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1850760.html", 
+        "descriptor": "city", 
+        "name": "Monticello "
+    }, 
+    "Merrillville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1848528.html", 
+        "descriptor": "town", 
+        "name": "Merrillville "
+    }, 
+    "Martinsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1847448.html", 
+        "descriptor": "city", 
+        "name": "Martinsville "
+    }, 
+    "Elwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1821070.html", 
+        "descriptor": "city", 
+        "name": "Elwood "
+    }, 
+    "Bluffton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1806220.html", 
+        "descriptor": "city", 
+        "name": "Bluffton "
+    }, 
+    "Notre Dame ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1855386.html", 
+        "descriptor": "CDP", 
+        "name": "Notre Dame "
+    }, 
+    "Marion ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1846908.html", 
+        "descriptor": "city", 
+        "name": "Marion "
+    }, 
+    "Wabash ": {
+        "url": "http://quickfacts.census.gov/qfd/states/18/1879370.html", 
+        "descriptor": "city", 
+        "name": "Wabash "
+    }
+}

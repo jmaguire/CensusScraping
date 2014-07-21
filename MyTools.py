@@ -14,4 +14,8 @@ def getSoup(url):
     html = page.read()
     return BeautifulSoup(html)
 
+def saveJSONData(data, filename):
+    with open(filename, 'wb') as outfile:
+        data = json.dump(data, outfile, indent = 4)
+
 

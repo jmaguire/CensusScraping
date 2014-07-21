@@ -1,0 +1,482 @@
+{
+    "Bisbee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0406260.html", 
+        "descriptor": "city", 
+        "name": "Bisbee "
+    }, 
+    "Queen Creek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0458150.html", 
+        "descriptor": "town", 
+        "name": "Queen Creek "
+    }, 
+    "Glendale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0427820.html", 
+        "descriptor": "city", 
+        "name": "Glendale "
+    }, 
+    "Wickenburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0482740.html", 
+        "descriptor": "town", 
+        "name": "Wickenburg "
+    }, 
+    "Verde Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0479830.html", 
+        "descriptor": "CDP", 
+        "name": "Verde Village "
+    }, 
+    "Avra Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0404880.html", 
+        "descriptor": "CDP", 
+        "name": "Avra Valley "
+    }, 
+    "Catalina Foothills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0411230.html", 
+        "descriptor": "CDP", 
+        "name": "Catalina Foothills "
+    }, 
+    "Casa Grande ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0410530.html", 
+        "descriptor": "city", 
+        "name": "Casa Grande "
+    }, 
+    "Three Points ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0473700.html", 
+        "descriptor": "CDP", 
+        "name": "Three Points "
+    }, 
+    "Flowing Wells ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0423960.html", 
+        "descriptor": "CDP", 
+        "name": "Flowing Wells "
+    }, 
+    "New Kingman-Butler ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0449270.html", 
+        "descriptor": "CDP", 
+        "name": "New Kingman-Butler "
+    }, 
+    "Tucson Estates ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0477035.html", 
+        "descriptor": "CDP", 
+        "name": "Tucson Estates "
+    }, 
+    "Fountain Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0425300.html", 
+        "descriptor": "town", 
+        "name": "Fountain Hills "
+    }, 
+    "Surprise ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0471510.html", 
+        "descriptor": "city", 
+        "name": "Surprise "
+    }, 
+    "Vail ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0478540.html", 
+        "descriptor": "CDP", 
+        "name": "Vail "
+    }, 
+    "Corona de Tucson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0416030.html", 
+        "descriptor": "CDP", 
+        "name": "Corona de Tucson "
+    }, 
+    "Buckeye ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0407940.html", 
+        "descriptor": "town", 
+        "name": "Buckeye "
+    }, 
+    "Avondale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0404720.html", 
+        "descriptor": "city", 
+        "name": "Avondale "
+    }, 
+    "San Tan Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0464210.html", 
+        "descriptor": "CDP", 
+        "name": "San Tan Valley "
+    }, 
+    "Goodyear ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0428380.html", 
+        "descriptor": "city", 
+        "name": "Goodyear "
+    }, 
+    "Snowflake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0467800.html", 
+        "descriptor": "town", 
+        "name": "Snowflake "
+    }, 
+    "Sun City West ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0470355.html", 
+        "descriptor": "CDP", 
+        "name": "Sun City West "
+    }, 
+    "Fortuna Foothills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0425030.html", 
+        "descriptor": "CDP", 
+        "name": "Fortuna Foothills "
+    }, 
+    "Somerton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0468080.html", 
+        "descriptor": "city", 
+        "name": "Somerton "
+    }, 
+    "Gilbert ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0427400.html", 
+        "descriptor": "town", 
+        "name": "Gilbert "
+    }, 
+    "Cave Creek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0411300.html", 
+        "descriptor": "town", 
+        "name": "Cave Creek "
+    }, 
+    "Valencia West ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0478760.html", 
+        "descriptor": "CDP", 
+        "name": "Valencia West "
+    }, 
+    "Benson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0405770.html", 
+        "descriptor": "city", 
+        "name": "Benson "
+    }, 
+    "Village of Oak Creek (Big Park) ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0480095.html", 
+        "descriptor": "CDP", 
+        "name": "Village of Oak Creek (Big Park) "
+    }, 
+    "Rincon Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0460120.html", 
+        "descriptor": "CDP", 
+        "name": "Rincon Valley "
+    }, 
+    "Camp Verde ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0409690.html", 
+        "descriptor": "town", 
+        "name": "Camp Verde "
+    }, 
+    "Drexel Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0420540.html", 
+        "descriptor": "CDP", 
+        "name": "Drexel Heights "
+    }, 
+    "Litchfield Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0441330.html", 
+        "descriptor": "city", 
+        "name": "Litchfield Park "
+    }, 
+    "Show Low ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0466470.html", 
+        "descriptor": "city", 
+        "name": "Show Low "
+    }, 
+    "Douglas ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0420050.html", 
+        "descriptor": "city", 
+        "name": "Douglas "
+    }, 
+    "Golden Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0428195.html", 
+        "descriptor": "CDP", 
+        "name": "Golden Valley "
+    }, 
+    "Prescott Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0457450.html", 
+        "descriptor": "town", 
+        "name": "Prescott Valley "
+    }, 
+    "Flagstaff ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0423620.html", 
+        "descriptor": "city", 
+        "name": "Flagstaff "
+    }, 
+    "Maricopa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0444410.html", 
+        "descriptor": "city", 
+        "name": "Maricopa "
+    }, 
+    "Sun Lakes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0470530.html", 
+        "descriptor": "CDP", 
+        "name": "Sun Lakes "
+    }, 
+    "Tolleson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0474190.html", 
+        "descriptor": "city", 
+        "name": "Tolleson "
+    }, 
+    "Picture Rocks ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0455300.html", 
+        "descriptor": "CDP", 
+        "name": "Picture Rocks "
+    }, 
+    "Phoenix ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0455000.html", 
+        "descriptor": "city", 
+        "name": "Phoenix "
+    }, 
+    "Williamson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0483388.html", 
+        "descriptor": "CDP", 
+        "name": "Williamson "
+    }, 
+    "Tanque Verde ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0472000.html", 
+        "descriptor": "CDP", 
+        "name": "Tanque Verde "
+    }, 
+    "Summit ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0470240.html", 
+        "descriptor": "CDP", 
+        "name": "Summit "
+    }, 
+    "Mesa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0446000.html", 
+        "descriptor": "city", 
+        "name": "Mesa "
+    }, 
+    "Peoria ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0454050.html", 
+        "descriptor": "city", 
+        "name": "Peoria "
+    }, 
+    "Payson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0453700.html", 
+        "descriptor": "town", 
+        "name": "Payson "
+    }, 
+    "Tuba City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0476010.html", 
+        "descriptor": "CDP", 
+        "name": "Tuba City "
+    }, 
+    "Catalina ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0411160.html", 
+        "descriptor": "CDP", 
+        "name": "Catalina "
+    }, 
+    "Globe ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0428030.html", 
+        "descriptor": "city", 
+        "name": "Globe "
+    }, 
+    "El Mirage ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0422220.html", 
+        "descriptor": "city", 
+        "name": "El Mirage "
+    }, 
+    "Winslow ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0483930.html", 
+        "descriptor": "city", 
+        "name": "Winslow "
+    }, 
+    "Oro Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0451600.html", 
+        "descriptor": "town", 
+        "name": "Oro Valley "
+    }, 
+    "Scottsdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0465000.html", 
+        "descriptor": "city", 
+        "name": "Scottsdale "
+    }, 
+    "Yuma ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0485540.html", 
+        "descriptor": "city", 
+        "name": "Yuma "
+    }, 
+    "Sierra Vista ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0466820.html", 
+        "descriptor": "city", 
+        "name": "Sierra Vista "
+    }, 
+    "Chino Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0412840.html", 
+        "descriptor": "town", 
+        "name": "Chino Valley "
+    }, 
+    "Cottonwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0416410.html", 
+        "descriptor": "city", 
+        "name": "Cottonwood "
+    }, 
+    "Apache Junction ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0402830.html", 
+        "descriptor": "city", 
+        "name": "Apache Junction "
+    }, 
+    "Prescott ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0457380.html", 
+        "descriptor": "city", 
+        "name": "Prescott "
+    }, 
+    "Tucson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0477000.html", 
+        "descriptor": "city", 
+        "name": "Tucson "
+    }, 
+    "Guadalupe ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0430270.html", 
+        "descriptor": "town", 
+        "name": "Guadalupe "
+    }, 
+    "Arizona City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0403530.html", 
+        "descriptor": "CDP", 
+        "name": "Arizona City "
+    }, 
+    "Casas Adobes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0410670.html", 
+        "descriptor": "CDP", 
+        "name": "Casas Adobes "
+    }, 
+    "Paradise Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0452930.html", 
+        "descriptor": "town", 
+        "name": "Paradise Valley "
+    }, 
+    "Lake Havasu City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0439370.html", 
+        "descriptor": "city", 
+        "name": "Lake Havasu City "
+    }, 
+    "Florence ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0423760.html", 
+        "descriptor": "town", 
+        "name": "Florence "
+    }, 
+    "Sahuarita ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0462140.html", 
+        "descriptor": "town", 
+        "name": "Sahuarita "
+    }, 
+    "Green Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0429710.html", 
+        "descriptor": "CDP", 
+        "name": "Green Valley "
+    }, 
+    "Coolidge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0415500.html", 
+        "descriptor": "city", 
+        "name": "Coolidge "
+    }, 
+    "Tempe ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0473000.html", 
+        "descriptor": "city", 
+        "name": "Tempe "
+    }, 
+    "Kingman ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0437620.html", 
+        "descriptor": "city", 
+        "name": "Kingman "
+    }, 
+    "Safford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0462000.html", 
+        "descriptor": "city", 
+        "name": "Safford "
+    }, 
+    "Nogales ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0449640.html", 
+        "descriptor": "city", 
+        "name": "Nogales "
+    }, 
+    "Gold Canyon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0428140.html", 
+        "descriptor": "CDP", 
+        "name": "Gold Canyon "
+    }, 
+    "Eloy ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0422360.html", 
+        "descriptor": "city", 
+        "name": "Eloy "
+    }, 
+    "Fort Mohave ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0424895.html", 
+        "descriptor": "CDP", 
+        "name": "Fort Mohave "
+    }, 
+    "Doney Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0419740.html", 
+        "descriptor": "CDP", 
+        "name": "Doney Park "
+    }, 
+    "Kayenta ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0436990.html", 
+        "descriptor": "CDP", 
+        "name": "Kayenta "
+    }, 
+    "San Luis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0463470.html", 
+        "descriptor": "city", 
+        "name": "San Luis "
+    }, 
+    "Bullhead City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0408220.html", 
+        "descriptor": "city", 
+        "name": "Bullhead City "
+    }, 
+    "Anthem ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0402430.html", 
+        "descriptor": "CDP", 
+        "name": "Anthem "
+    }, 
+    "Rio Rico ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0460180.html", 
+        "descriptor": "CDP", 
+        "name": "Rio Rico "
+    }, 
+    "Youngtown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0485400.html", 
+        "descriptor": "town", 
+        "name": "Youngtown "
+    }, 
+    "Paulden ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0453560.html", 
+        "descriptor": "CDP", 
+        "name": "Paulden "
+    }, 
+    "Sierra Vista Southeast ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0466845.html", 
+        "descriptor": "CDP", 
+        "name": "Sierra Vista Southeast "
+    }, 
+    "Marana ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0444270.html", 
+        "descriptor": "town", 
+        "name": "Marana "
+    }, 
+    "Chandler ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0412000.html", 
+        "descriptor": "city", 
+        "name": "Chandler "
+    }, 
+    "Sun City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0470320.html", 
+        "descriptor": "CDP", 
+        "name": "Sun City "
+    }, 
+    "New River ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0449360.html", 
+        "descriptor": "CDP", 
+        "name": "New River "
+    }, 
+    "South Tucson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0468850.html", 
+        "descriptor": "city", 
+        "name": "South Tucson "
+    }, 
+    "Saddlebrooke ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0461940.html", 
+        "descriptor": "CDP", 
+        "name": "Saddlebrooke "
+    }, 
+    "Page ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0451810.html", 
+        "descriptor": "city", 
+        "name": "Page "
+    }, 
+    "Sedona ": {
+        "url": "http://quickfacts.census.gov/qfd/states/04/0465350.html", 
+        "descriptor": "city", 
+        "name": "Sedona "
+    }
+}

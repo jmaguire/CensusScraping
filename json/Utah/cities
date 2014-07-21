@@ -1,0 +1,462 @@
+{
+    "Sandy ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4967440.html", 
+        "descriptor": "city", 
+        "name": "Sandy "
+    }, 
+    "Murray ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4953230.html", 
+        "descriptor": "city", 
+        "name": "Murray "
+    }, 
+    "Orem ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4957300.html", 
+        "descriptor": "city", 
+        "name": "Orem "
+    }, 
+    "Smithfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4969640.html", 
+        "descriptor": "city", 
+        "name": "Smithfield "
+    }, 
+    "Lindon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4945090.html", 
+        "descriptor": "city", 
+        "name": "Lindon "
+    }, 
+    "Providence ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4962360.html", 
+        "descriptor": "city", 
+        "name": "Providence "
+    }, 
+    "Kaysville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4940360.html", 
+        "descriptor": "city", 
+        "name": "Kaysville "
+    }, 
+    "Kearns ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4940470.html", 
+        "descriptor": "CDP", 
+        "name": "Kearns "
+    }, 
+    "Salem ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4965770.html", 
+        "descriptor": "city", 
+        "name": "Salem "
+    }, 
+    "Sunset ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4974480.html", 
+        "descriptor": "city", 
+        "name": "Sunset "
+    }, 
+    "South Ogden ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4970960.html", 
+        "descriptor": "city", 
+        "name": "South Ogden "
+    }, 
+    "Alpine ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4900540.html", 
+        "descriptor": "city", 
+        "name": "Alpine "
+    }, 
+    "West Bountiful ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4982840.html", 
+        "descriptor": "city", 
+        "name": "West Bountiful "
+    }, 
+    "Holladay ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4936070.html", 
+        "descriptor": "city", 
+        "name": "Holladay "
+    }, 
+    "Springville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4972280.html", 
+        "descriptor": "city", 
+        "name": "Springville "
+    }, 
+    "Cedar City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4911320.html", 
+        "descriptor": "city", 
+        "name": "Cedar City "
+    }, 
+    "Santa Clara ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4967660.html", 
+        "descriptor": "city", 
+        "name": "Santa Clara "
+    }, 
+    "Herriman ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4934970.html", 
+        "descriptor": "city", 
+        "name": "Herriman "
+    }, 
+    "Highland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4935190.html", 
+        "descriptor": "city", 
+        "name": "Highland "
+    }, 
+    "Enoch ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4923200.html", 
+        "descriptor": "city", 
+        "name": "Enoch "
+    }, 
+    "American Fork ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4901310.html", 
+        "descriptor": "city", 
+        "name": "American Fork "
+    }, 
+    "Washington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4981960.html", 
+        "descriptor": "city", 
+        "name": "Washington "
+    }, 
+    "North Ogden ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4955100.html", 
+        "descriptor": "city", 
+        "name": "North Ogden "
+    }, 
+    "Bluffdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4906810.html", 
+        "descriptor": "city", 
+        "name": "Bluffdale "
+    }, 
+    "Tooele ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4976680.html", 
+        "descriptor": "city", 
+        "name": "Tooele "
+    }, 
+    "Magna ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4947290.html", 
+        "descriptor": "CDP", 
+        "name": "Magna "
+    }, 
+    "Vernal ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4980090.html", 
+        "descriptor": "city", 
+        "name": "Vernal "
+    }, 
+    "Price ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4962030.html", 
+        "descriptor": "city", 
+        "name": "Price "
+    }, 
+    "Millcreek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4950150.html", 
+        "descriptor": "CDP", 
+        "name": "Millcreek "
+    }, 
+    "Ivins ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4938710.html", 
+        "descriptor": "city", 
+        "name": "Ivins "
+    }, 
+    "Centerville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4911980.html", 
+        "descriptor": "city", 
+        "name": "Centerville "
+    }, 
+    "Mapleton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4947950.html", 
+        "descriptor": "city", 
+        "name": "Mapleton "
+    }, 
+    "South Jordan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4970850.html", 
+        "descriptor": "city", 
+        "name": "South Jordan "
+    }, 
+    "Cottonwood Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4916270.html", 
+        "descriptor": "city", 
+        "name": "Cottonwood Heights "
+    }, 
+    "Brigham City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4908460.html", 
+        "descriptor": "city", 
+        "name": "Brigham City "
+    }, 
+    "Midvale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4949710.html", 
+        "descriptor": "city", 
+        "name": "Midvale "
+    }, 
+    "Harrisville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4933540.html", 
+        "descriptor": "city", 
+        "name": "Harrisville "
+    }, 
+    "Santaquin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4967770.html", 
+        "descriptor": "city", 
+        "name": "Santaquin "
+    }, 
+    "Richfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4963570.html", 
+        "descriptor": "city", 
+        "name": "Richfield "
+    }, 
+    "Saratoga Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4967825.html", 
+        "descriptor": "city", 
+        "name": "Saratoga Springs "
+    }, 
+    "Fruit Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4927490.html", 
+        "descriptor": "city", 
+        "name": "Fruit Heights "
+    }, 
+    "Tremonton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4977120.html", 
+        "descriptor": "city", 
+        "name": "Tremonton "
+    }, 
+    "Woods Cross ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4985370.html", 
+        "descriptor": "city", 
+        "name": "Woods Cross "
+    }, 
+    "Ogden ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4955980.html", 
+        "descriptor": "city", 
+        "name": "Ogden "
+    }, 
+    "Bountiful ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4907690.html", 
+        "descriptor": "city", 
+        "name": "Bountiful "
+    }, 
+    "Hooper ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4936400.html", 
+        "descriptor": "city", 
+        "name": "Hooper "
+    }, 
+    "Heber ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4934200.html", 
+        "descriptor": "city", 
+        "name": "Heber "
+    }, 
+    "South Salt Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4971070.html", 
+        "descriptor": "city", 
+        "name": "South Salt Lake "
+    }, 
+    "Snyderville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4970190.html", 
+        "descriptor": "CDP", 
+        "name": "Snyderville "
+    }, 
+    "Payson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4958730.html", 
+        "descriptor": "city", 
+        "name": "Payson "
+    }, 
+    "Layton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4943660.html", 
+        "descriptor": "city", 
+        "name": "Layton "
+    }, 
+    "Clearfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4913850.html", 
+        "descriptor": "city", 
+        "name": "Clearfield "
+    }, 
+    "Clinton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4914290.html", 
+        "descriptor": "city", 
+        "name": "Clinton "
+    }, 
+    "West Haven ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4982930.html", 
+        "descriptor": "city", 
+        "name": "West Haven "
+    }, 
+    "Hyrum ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4937500.html", 
+        "descriptor": "city", 
+        "name": "Hyrum "
+    }, 
+    "St. George ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4965330.html", 
+        "descriptor": "city", 
+        "name": "St. George "
+    }, 
+    "Pleasant Grove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4960930.html", 
+        "descriptor": "city", 
+        "name": "Pleasant Grove "
+    }, 
+    "Farmington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4924740.html", 
+        "descriptor": "city", 
+        "name": "Farmington "
+    }, 
+    "Cedar Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4911440.html", 
+        "descriptor": "city", 
+        "name": "Cedar Hills "
+    }, 
+    "Eagle Mountain ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4920810.html", 
+        "descriptor": "city", 
+        "name": "Eagle Mountain "
+    }, 
+    "Roy ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4965110.html", 
+        "descriptor": "city", 
+        "name": "Roy "
+    }, 
+    "Provo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4962470.html", 
+        "descriptor": "city", 
+        "name": "Provo "
+    }, 
+    "Logan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4945860.html", 
+        "descriptor": "city", 
+        "name": "Logan "
+    }, 
+    "North Salt Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4955210.html", 
+        "descriptor": "city", 
+        "name": "North Salt Lake "
+    }, 
+    "Park City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4958070.html", 
+        "descriptor": "city", 
+        "name": "Park City "
+    }, 
+    "Grantsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4931120.html", 
+        "descriptor": "city", 
+        "name": "Grantsville "
+    }, 
+    "Riverton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4964340.html", 
+        "descriptor": "city", 
+        "name": "Riverton "
+    }, 
+    "Washington Terrace ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4982070.html", 
+        "descriptor": "city", 
+        "name": "Washington Terrace "
+    }, 
+    "Spanish Fork ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4971290.html", 
+        "descriptor": "city", 
+        "name": "Spanish Fork "
+    }, 
+    "Pleasant View ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4961150.html", 
+        "descriptor": "city", 
+        "name": "Pleasant View "
+    }, 
+    "Nibley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4954660.html", 
+        "descriptor": "city", 
+        "name": "Nibley "
+    }, 
+    "Roosevelt ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4964670.html", 
+        "descriptor": "city", 
+        "name": "Roosevelt "
+    }, 
+    "Salt Lake City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4967000.html", 
+        "descriptor": "city", 
+        "name": "Salt Lake City "
+    }, 
+    "White City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4984050.html", 
+        "descriptor": "CDP", 
+        "name": "White City "
+    }, 
+    "South Weber ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4971180.html", 
+        "descriptor": "city", 
+        "name": "South Weber "
+    }, 
+    "Draper ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4920120.html", 
+        "descriptor": "city", 
+        "name": "Draper "
+    }, 
+    "Stansbury Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4972720.html", 
+        "descriptor": "CDP", 
+        "name": "Stansbury Park "
+    }, 
+    "Syracuse ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4974810.html", 
+        "descriptor": "city", 
+        "name": "Syracuse "
+    }, 
+    "Summit Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4974095.html", 
+        "descriptor": "CDP", 
+        "name": "Summit Park "
+    }, 
+    "Taylorsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4975360.html", 
+        "descriptor": "city", 
+        "name": "Taylorsville "
+    }, 
+    "Plain City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4960710.html", 
+        "descriptor": "city", 
+        "name": "Plain City "
+    }, 
+    "Nephi ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4954220.html", 
+        "descriptor": "city", 
+        "name": "Nephi "
+    }, 
+    "Riverdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4964010.html", 
+        "descriptor": "city", 
+        "name": "Riverdale "
+    }, 
+    "Lehi ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4944320.html", 
+        "descriptor": "city", 
+        "name": "Lehi "
+    }, 
+    "West Valley City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4983470.html", 
+        "descriptor": "city", 
+        "name": "West Valley City "
+    }, 
+    "West Jordan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4982950.html", 
+        "descriptor": "city", 
+        "name": "West Jordan "
+    }, 
+    "Hurricane ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4937170.html", 
+        "descriptor": "city", 
+        "name": "Hurricane "
+    }, 
+    "Farr West ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4924850.html", 
+        "descriptor": "city", 
+        "name": "Farr West "
+    }, 
+    "North Logan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4954990.html", 
+        "descriptor": "city", 
+        "name": "North Logan "
+    }, 
+    "Ephraim ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4923530.html", 
+        "descriptor": "city", 
+        "name": "Ephraim "
+    }, 
+    "West Point ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4983390.html", 
+        "descriptor": "city", 
+        "name": "West Point "
+    }, 
+    "Moab ": {
+        "url": "http://quickfacts.census.gov/qfd/states/49/4950700.html", 
+        "descriptor": "city", 
+        "name": "Moab "
+    }
+}

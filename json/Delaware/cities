@@ -1,0 +1,102 @@
+{
+    "Pike Creek Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1056500.html", 
+        "descriptor": "CDP", 
+        "name": "Pike Creek Valley "
+    }, 
+    "Georgetown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1029090.html", 
+        "descriptor": "town", 
+        "name": "Georgetown "
+    }, 
+    "Wilmington Manor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1077840.html", 
+        "descriptor": "CDP", 
+        "name": "Wilmington Manor "
+    }, 
+    "Newark ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1050670.html", 
+        "descriptor": "city", 
+        "name": "Newark "
+    }, 
+    "Glasgow ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1029350.html", 
+        "descriptor": "CDP", 
+        "name": "Glasgow "
+    }, 
+    "Milford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1047420.html", 
+        "descriptor": "city", 
+        "name": "Milford "
+    }, 
+    "Dover ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1021200.html", 
+        "descriptor": "city", 
+        "name": "Dover "
+    }, 
+    "Brookside ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1009850.html", 
+        "descriptor": "CDP", 
+        "name": "Brookside "
+    }, 
+    "Pike Creek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1056490.html", 
+        "descriptor": "CDP", 
+        "name": "Pike Creek "
+    }, 
+    "Edgemoor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1023240.html", 
+        "descriptor": "CDP", 
+        "name": "Edgemoor "
+    }, 
+    "Hockessin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1035850.html", 
+        "descriptor": "CDP", 
+        "name": "Hockessin "
+    }, 
+    "Seaford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1064320.html", 
+        "descriptor": "city", 
+        "name": "Seaford "
+    }, 
+    "New Castle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1050800.html", 
+        "descriptor": "city", 
+        "name": "New Castle "
+    }, 
+    "North Star ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1052490.html", 
+        "descriptor": "CDP", 
+        "name": "North Star "
+    }, 
+    "Wilmington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1077580.html", 
+        "descriptor": "city", 
+        "name": "Wilmington "
+    }, 
+    "Smyrna ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1067310.html", 
+        "descriptor": "town", 
+        "name": "Smyrna "
+    }, 
+    "Claymont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1015310.html", 
+        "descriptor": "CDP", 
+        "name": "Claymont "
+    }, 
+    "Bear ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1004130.html", 
+        "descriptor": "CDP", 
+        "name": "Bear "
+    }, 
+    "Elsmere ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1024540.html", 
+        "descriptor": "town", 
+        "name": "Elsmere "
+    }, 
+    "Middletown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/10/1047030.html", 
+        "descriptor": "town", 
+        "name": "Middletown "
+    }
+}

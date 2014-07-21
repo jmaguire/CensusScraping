@@ -1,0 +1,717 @@
+{
+    "Virginia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2767288.html", 
+        "descriptor": "city", 
+        "name": "Virginia "
+    }, 
+    "Robbinsdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2754808.html", 
+        "descriptor": "city", 
+        "name": "Robbinsdale "
+    }, 
+    "Rosemount ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2755726.html", 
+        "descriptor": "city", 
+        "name": "Rosemount "
+    }, 
+    "Crookston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2713870.html", 
+        "descriptor": "city", 
+        "name": "Crookston "
+    }, 
+    "Shoreview ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2759998.html", 
+        "descriptor": "city", 
+        "name": "Shoreview "
+    }, 
+    "Maplewood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2740382.html", 
+        "descriptor": "city", 
+        "name": "Maplewood "
+    }, 
+    "Elk River ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2718674.html", 
+        "descriptor": "city", 
+        "name": "Elk River "
+    }, 
+    "Lakeville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2735180.html", 
+        "descriptor": "city", 
+        "name": "Lakeville "
+    }, 
+    "Victoria ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2767036.html", 
+        "descriptor": "city", 
+        "name": "Victoria "
+    }, 
+    "Byron ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2709154.html", 
+        "descriptor": "city", 
+        "name": "Byron "
+    }, 
+    "Champlin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2710846.html", 
+        "descriptor": "city", 
+        "name": "Champlin "
+    }, 
+    "Duluth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2717000.html", 
+        "descriptor": "city", 
+        "name": "Duluth "
+    }, 
+    "Maple Grove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2740166.html", 
+        "descriptor": "city", 
+        "name": "Maple Grove "
+    }, 
+    "Plymouth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2751730.html", 
+        "descriptor": "city", 
+        "name": "Plymouth "
+    }, 
+    "Hutchinson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2730644.html", 
+        "descriptor": "city", 
+        "name": "Hutchinson "
+    }, 
+    "Albertville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2700730.html", 
+        "descriptor": "city", 
+        "name": "Albertville "
+    }, 
+    "Spring Lake Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2761996.html", 
+        "descriptor": "city", 
+        "name": "Spring Lake Park "
+    }, 
+    "Red Wing ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2753620.html", 
+        "descriptor": "city", 
+        "name": "Red Wing "
+    }, 
+    "Moorhead ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2743864.html", 
+        "descriptor": "city", 
+        "name": "Moorhead "
+    }, 
+    "South St. Paul ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2761492.html", 
+        "descriptor": "city", 
+        "name": "South St. Paul "
+    }, 
+    "New Brighton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2745430.html", 
+        "descriptor": "city", 
+        "name": "New Brighton "
+    }, 
+    "Big Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2705752.html", 
+        "descriptor": "city", 
+        "name": "Big Lake "
+    }, 
+    "Minneapolis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2743000.html", 
+        "descriptor": "city", 
+        "name": "Minneapolis "
+    }, 
+    "Fergus Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2720906.html", 
+        "descriptor": "city", 
+        "name": "Fergus Falls "
+    }, 
+    "Brooklyn Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2707966.html", 
+        "descriptor": "city", 
+        "name": "Brooklyn Park "
+    }, 
+    "Thief River Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2764570.html", 
+        "descriptor": "city", 
+        "name": "Thief River Falls "
+    }, 
+    "Eden Prairie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2718116.html", 
+        "descriptor": "city", 
+        "name": "Eden Prairie "
+    }, 
+    "Detroit Lakes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2715832.html", 
+        "descriptor": "city", 
+        "name": "Detroit Lakes "
+    }, 
+    "Arden Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2702026.html", 
+        "descriptor": "city", 
+        "name": "Arden Hills "
+    }, 
+    "Morris ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2744242.html", 
+        "descriptor": "city", 
+        "name": "Morris "
+    }, 
+    "Delano ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2715454.html", 
+        "descriptor": "city", 
+        "name": "Delano "
+    }, 
+    "Minnetrista ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2743306.html", 
+        "descriptor": "city", 
+        "name": "Minnetrista "
+    }, 
+    "St. Michael ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2757346.html", 
+        "descriptor": "city", 
+        "name": "St. Michael "
+    }, 
+    "Hopkins ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2730140.html", 
+        "descriptor": "city", 
+        "name": "Hopkins "
+    }, 
+    "Otsego ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2749138.html", 
+        "descriptor": "city", 
+        "name": "Otsego "
+    }, 
+    "Litchfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2737448.html", 
+        "descriptor": "city", 
+        "name": "Litchfield "
+    }, 
+    "Mounds View ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2744530.html", 
+        "descriptor": "city", 
+        "name": "Mounds View "
+    }, 
+    "Falcon Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2720420.html", 
+        "descriptor": "city", 
+        "name": "Falcon Heights "
+    }, 
+    "Waite Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2767612.html", 
+        "descriptor": "city", 
+        "name": "Waite Park "
+    }, 
+    "Prior Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2752594.html", 
+        "descriptor": "city", 
+        "name": "Prior Lake "
+    }, 
+    "Cloquet ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2712160.html", 
+        "descriptor": "city", 
+        "name": "Cloquet "
+    }, 
+    "St. Louis Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2757220.html", 
+        "descriptor": "city", 
+        "name": "St. Louis Park "
+    }, 
+    "Baxter ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2704042.html", 
+        "descriptor": "city", 
+        "name": "Baxter "
+    }, 
+    "Owatonna ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2749300.html", 
+        "descriptor": "city", 
+        "name": "Owatonna "
+    }, 
+    "Forest Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2721770.html", 
+        "descriptor": "city", 
+        "name": "Forest Lake "
+    }, 
+    "Marshall ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2740688.html", 
+        "descriptor": "city", 
+        "name": "Marshall "
+    }, 
+    "East Bethel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2717486.html", 
+        "descriptor": "city", 
+        "name": "East Bethel "
+    }, 
+    "Bloomington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2706616.html", 
+        "descriptor": "city", 
+        "name": "Bloomington "
+    }, 
+    "Hibbing ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2728790.html", 
+        "descriptor": "city", 
+        "name": "Hibbing "
+    }, 
+    "Glencoe ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2723948.html", 
+        "descriptor": "city", 
+        "name": "Glencoe "
+    }, 
+    "Lake Elmo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2734244.html", 
+        "descriptor": "city", 
+        "name": "Lake Elmo "
+    }, 
+    "Brainerd ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2707300.html", 
+        "descriptor": "city", 
+        "name": "Brainerd "
+    }, 
+    "Austin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2702908.html", 
+        "descriptor": "city", 
+        "name": "Austin "
+    }, 
+    "Crystal ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2714158.html", 
+        "descriptor": "city", 
+        "name": "Crystal "
+    }, 
+    "Burnsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2708794.html", 
+        "descriptor": "city", 
+        "name": "Burnsville "
+    }, 
+    "Kasson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2732498.html", 
+        "descriptor": "city", 
+        "name": "Kasson "
+    }, 
+    "North St. Paul ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2747221.html", 
+        "descriptor": "city", 
+        "name": "North St. Paul "
+    }, 
+    "Zimmerman ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2772238.html", 
+        "descriptor": "city", 
+        "name": "Zimmerman "
+    }, 
+    "North Mankato ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2747068.html", 
+        "descriptor": "city", 
+        "name": "North Mankato "
+    }, 
+    "Hugo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2730392.html", 
+        "descriptor": "city", 
+        "name": "Hugo "
+    }, 
+    "Belle Plaine ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2704834.html", 
+        "descriptor": "city", 
+        "name": "Belle Plaine "
+    }, 
+    "Rochester ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2754880.html", 
+        "descriptor": "city", 
+        "name": "Rochester "
+    }, 
+    "Edina ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2718188.html", 
+        "descriptor": "city", 
+        "name": "Edina "
+    }, 
+    "Grand Rapids ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2725118.html", 
+        "descriptor": "city", 
+        "name": "Grand Rapids "
+    }, 
+    "New Ulm ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2746042.html", 
+        "descriptor": "city", 
+        "name": "New Ulm "
+    }, 
+    "Stewartville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2762806.html", 
+        "descriptor": "city", 
+        "name": "Stewartville "
+    }, 
+    "Fridley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2722814.html", 
+        "descriptor": "city", 
+        "name": "Fridley "
+    }, 
+    "Vadnais Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2766460.html", 
+        "descriptor": "city", 
+        "name": "Vadnais Heights "
+    }, 
+    "Shakopee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2759350.html", 
+        "descriptor": "city", 
+        "name": "Shakopee "
+    }, 
+    "Woodbury ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2771428.html", 
+        "descriptor": "city", 
+        "name": "Woodbury "
+    }, 
+    "Mankato ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2739878.html", 
+        "descriptor": "city", 
+        "name": "Mankato "
+    }, 
+    "Rogers ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2755186.html", 
+        "descriptor": "city", 
+        "name": "Rogers "
+    }, 
+    "Cottage Grove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2713456.html", 
+        "descriptor": "city", 
+        "name": "Cottage Grove "
+    }, 
+    "Lino Lakes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2737322.html", 
+        "descriptor": "city", 
+        "name": "Lino Lakes "
+    }, 
+    "Chisholm ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2711386.html", 
+        "descriptor": "city", 
+        "name": "Chisholm "
+    }, 
+    "Golden Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2724308.html", 
+        "descriptor": "city", 
+        "name": "Golden Valley "
+    }, 
+    "Ramsey ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2753026.html", 
+        "descriptor": "city", 
+        "name": "Ramsey "
+    }, 
+    "Mahtomedi ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2739428.html", 
+        "descriptor": "city", 
+        "name": "Mahtomedi "
+    }, 
+    "West St. Paul ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2769700.html", 
+        "descriptor": "city", 
+        "name": "West St. Paul "
+    }, 
+    "Oakdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2747680.html", 
+        "descriptor": "city", 
+        "name": "Oakdale "
+    }, 
+    "Faribault ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2720546.html", 
+        "descriptor": "city", 
+        "name": "Faribault "
+    }, 
+    "Winona ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2771032.html", 
+        "descriptor": "city", 
+        "name": "Winona "
+    }, 
+    "Little Canada ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2737502.html", 
+        "descriptor": "city", 
+        "name": "Little Canada "
+    }, 
+    "Wyoming ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2772022.html", 
+        "descriptor": "city", 
+        "name": "Wyoming "
+    }, 
+    "Redwood Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2753656.html", 
+        "descriptor": "city", 
+        "name": "Redwood Falls "
+    }, 
+    "Isanti ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2731328.html", 
+        "descriptor": "city", 
+        "name": "Isanti "
+    }, 
+    "Cambridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2709370.html", 
+        "descriptor": "city", 
+        "name": "Cambridge "
+    }, 
+    "White Bear Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2769970.html", 
+        "descriptor": "city", 
+        "name": "White Bear Lake "
+    }, 
+    "Roseville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2755852.html", 
+        "descriptor": "city", 
+        "name": "Roseville "
+    }, 
+    "Coon Rapids ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2713114.html", 
+        "descriptor": "city", 
+        "name": "Coon Rapids "
+    }, 
+    "Brooklyn Center ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2707948.html", 
+        "descriptor": "city", 
+        "name": "Brooklyn Center "
+    }, 
+    "Hermantown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2728682.html", 
+        "descriptor": "city", 
+        "name": "Hermantown "
+    }, 
+    "St. Paul Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2758018.html", 
+        "descriptor": "city", 
+        "name": "St. Paul Park "
+    }, 
+    "St. Paul ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2758000.html", 
+        "descriptor": "city", 
+        "name": "St. Paul "
+    }, 
+    "St. Anthony ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2756680.html", 
+        "descriptor": "city", 
+        "name": "St. Anthony "
+    }, 
+    "Mendota Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2741696.html", 
+        "descriptor": "city", 
+        "name": "Mendota Heights "
+    }, 
+    "Columbia Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2712700.html", 
+        "descriptor": "city", 
+        "name": "Columbia Heights "
+    }, 
+    "East Grand Forks ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2717612.html", 
+        "descriptor": "city", 
+        "name": "East Grand Forks "
+    }, 
+    "Alexandria ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2700928.html", 
+        "descriptor": "city", 
+        "name": "Alexandria "
+    }, 
+    "Shorewood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2760016.html", 
+        "descriptor": "city", 
+        "name": "Shorewood "
+    }, 
+    "Andover ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2701486.html", 
+        "descriptor": "city", 
+        "name": "Andover "
+    }, 
+    "Oak Grove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2747690.html", 
+        "descriptor": "city", 
+        "name": "Oak Grove "
+    }, 
+    "New Prague ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2745808.html", 
+        "descriptor": "city", 
+        "name": "New Prague "
+    }, 
+    "Waconia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2767432.html", 
+        "descriptor": "city", 
+        "name": "Waconia "
+    }, 
+    "Medina ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2741480.html", 
+        "descriptor": "city", 
+        "name": "Medina "
+    }, 
+    "Farmington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2720618.html", 
+        "descriptor": "city", 
+        "name": "Farmington "
+    }, 
+    "Chanhassen ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2710918.html", 
+        "descriptor": "city", 
+        "name": "Chanhassen "
+    }, 
+    "Willmar ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2770420.html", 
+        "descriptor": "city", 
+        "name": "Willmar "
+    }, 
+    "St. Joseph ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2757130.html", 
+        "descriptor": "city", 
+        "name": "St. Joseph "
+    }, 
+    "Ham Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2726738.html", 
+        "descriptor": "city", 
+        "name": "Ham Lake "
+    }, 
+    "Richfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2754214.html", 
+        "descriptor": "city", 
+        "name": "Richfield "
+    }, 
+    "Eagan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2717288.html", 
+        "descriptor": "city", 
+        "name": "Eagan "
+    }, 
+    "Orono ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2748580.html", 
+        "descriptor": "city", 
+        "name": "Orono "
+    }, 
+    "Buffalo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2708452.html", 
+        "descriptor": "city", 
+        "name": "Buffalo "
+    }, 
+    "Little Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2737556.html", 
+        "descriptor": "city", 
+        "name": "Little Falls "
+    }, 
+    "Worthington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2771734.html", 
+        "descriptor": "city", 
+        "name": "Worthington "
+    }, 
+    "Montevideo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2743720.html", 
+        "descriptor": "city", 
+        "name": "Montevideo "
+    }, 
+    "Inver Grove Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2731076.html", 
+        "descriptor": "city", 
+        "name": "Inver Grove Heights "
+    }, 
+    "International Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2731040.html", 
+        "descriptor": "city", 
+        "name": "International Falls "
+    }, 
+    "Albert Lea ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2700694.html", 
+        "descriptor": "city", 
+        "name": "Albert Lea "
+    }, 
+    "New Hope ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2745628.html", 
+        "descriptor": "city", 
+        "name": "New Hope "
+    }, 
+    "Waseca ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2768296.html", 
+        "descriptor": "city", 
+        "name": "Waseca "
+    }, 
+    "Anoka ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2701720.html", 
+        "descriptor": "city", 
+        "name": "Anoka "
+    }, 
+    "Jordan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2732174.html", 
+        "descriptor": "city", 
+        "name": "Jordan "
+    }, 
+    "St. Peter ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2758036.html", 
+        "descriptor": "city", 
+        "name": "St. Peter "
+    }, 
+    "St. Cloud ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2756896.html", 
+        "descriptor": "city", 
+        "name": "St. Cloud "
+    }, 
+    "Apple Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2701900.html", 
+        "descriptor": "city", 
+        "name": "Apple Valley "
+    }, 
+    "North Branch ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2746798.html", 
+        "descriptor": "city", 
+        "name": "North Branch "
+    }, 
+    "Blaine ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2706382.html", 
+        "descriptor": "city", 
+        "name": "Blaine "
+    }, 
+    "Fairmont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2720330.html", 
+        "descriptor": "city", 
+        "name": "Fairmont "
+    }, 
+    "Northfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2746924.html", 
+        "descriptor": "city", 
+        "name": "Northfield "
+    }, 
+    "Sauk Rapids ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2758684.html", 
+        "descriptor": "city", 
+        "name": "Sauk Rapids "
+    }, 
+    "Stillwater ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2762824.html", 
+        "descriptor": "city", 
+        "name": "Stillwater "
+    }, 
+    "St. Francis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2756950.html", 
+        "descriptor": "city", 
+        "name": "St. Francis "
+    }, 
+    "Chaska ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2710972.html", 
+        "descriptor": "city", 
+        "name": "Chaska "
+    }, 
+    "Monticello ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2743774.html", 
+        "descriptor": "city", 
+        "name": "Monticello "
+    }, 
+    "Sartell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2758612.html", 
+        "descriptor": "city", 
+        "name": "Sartell "
+    }, 
+    "Hastings ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2727530.html", 
+        "descriptor": "city", 
+        "name": "Hastings "
+    }, 
+    "Corcoran ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2713168.html", 
+        "descriptor": "city", 
+        "name": "Corcoran "
+    }, 
+    "Bemidji ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2705068.html", 
+        "descriptor": "city", 
+        "name": "Bemidji "
+    }, 
+    "Savage ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2758738.html", 
+        "descriptor": "city", 
+        "name": "Savage "
+    }, 
+    "Mound ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2744476.html", 
+        "descriptor": "city", 
+        "name": "Mound "
+    }, 
+    "Minnetonka ": {
+        "url": "http://quickfacts.census.gov/qfd/states/27/2743252.html", 
+        "descriptor": "city", 
+        "name": "Minnetonka "
+    }
+}

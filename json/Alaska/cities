@@ -1,0 +1,102 @@
+{
+    "Palmer ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0258660.html", 
+        "descriptor": "city", 
+        "name": "Palmer "
+    }, 
+    "Fairbanks ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0224230.html", 
+        "descriptor": "city", 
+        "name": "Fairbanks "
+    }, 
+    "Chena Ridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0212920.html", 
+        "descriptor": "CDP", 
+        "name": "Chena Ridge "
+    }, 
+    "Gateway ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0228200.html", 
+        "descriptor": "CDP", 
+        "name": "Gateway "
+    }, 
+    "Knik-Fairview ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0240645.html", 
+        "descriptor": "CDP", 
+        "name": "Knik-Fairview "
+    }, 
+    "Tanaina ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0275077.html", 
+        "descriptor": "CDP", 
+        "name": "Tanaina "
+    }, 
+    "Homer ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0233140.html", 
+        "descriptor": "city", 
+        "name": "Homer "
+    }, 
+    "Anchorage ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0203000.html", 
+        "descriptor": "municipality", 
+        "name": "Anchorage "
+    }, 
+    "Bethel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0206520.html", 
+        "descriptor": "city", 
+        "name": "Bethel "
+    }, 
+    "Badger ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0205000.html", 
+        "descriptor": "CDP", 
+        "name": "Badger "
+    }, 
+    "Ketchikan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0238970.html", 
+        "descriptor": "city", 
+        "name": "Ketchikan "
+    }, 
+    "College ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0216750.html", 
+        "descriptor": "CDP", 
+        "name": "College "
+    }, 
+    "Kenai ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0238420.html", 
+        "descriptor": "city", 
+        "name": "Kenai "
+    }, 
+    "Kalifornsky ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0237250.html", 
+        "descriptor": "CDP", 
+        "name": "Kalifornsky "
+    }, 
+    "Wasilla ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0283080.html", 
+        "descriptor": "city", 
+        "name": "Wasilla "
+    }, 
+    "Lakes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0242832.html", 
+        "descriptor": "CDP", 
+        "name": "Lakes "
+    }, 
+    "Meadow Lakes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0247735.html", 
+        "descriptor": "CDP", 
+        "name": "Meadow Lakes "
+    }, 
+    "Sterling ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0273070.html", 
+        "descriptor": "CDP", 
+        "name": "Sterling "
+    }, 
+    "Kodiak ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0240950.html", 
+        "descriptor": "city", 
+        "name": "Kodiak "
+    }, 
+    "Steele Creek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/02/0272985.html", 
+        "descriptor": "CDP", 
+        "name": "Steele Creek "
+    }
+}

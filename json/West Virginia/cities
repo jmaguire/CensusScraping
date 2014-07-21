@@ -1,0 +1,162 @@
+{
+    "Cheat Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5414775.html", 
+        "descriptor": "CDP", 
+        "name": "Cheat Lake "
+    }, 
+    "Vienna ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5483500.html", 
+        "descriptor": "city", 
+        "name": "Vienna "
+    }, 
+    "Beckley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5405332.html", 
+        "descriptor": "city", 
+        "name": "Beckley "
+    }, 
+    "Wheeling ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5486452.html", 
+        "descriptor": "city", 
+        "name": "Wheeling "
+    }, 
+    "Charleston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5414600.html", 
+        "descriptor": "city", 
+        "name": "Charleston "
+    }, 
+    "Clarksburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5415628.html", 
+        "descriptor": "city", 
+        "name": "Clarksburg "
+    }, 
+    "Parkersburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5462140.html", 
+        "descriptor": "city", 
+        "name": "Parkersburg "
+    }, 
+    "Teays Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5479545.html", 
+        "descriptor": "CDP", 
+        "name": "Teays Valley "
+    }, 
+    "Oak Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5460028.html", 
+        "descriptor": "city", 
+        "name": "Oak Hill "
+    }, 
+    "Charles Town ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5414610.html", 
+        "descriptor": "city", 
+        "name": "Charles Town "
+    }, 
+    "Morgantown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5455756.html", 
+        "descriptor": "city", 
+        "name": "Morgantown "
+    }, 
+    "Moundsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5456020.html", 
+        "descriptor": "city", 
+        "name": "Moundsville "
+    }, 
+    "Martinsburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5452060.html", 
+        "descriptor": "city", 
+        "name": "Martinsburg "
+    }, 
+    "Princeton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5465692.html", 
+        "descriptor": "city", 
+        "name": "Princeton "
+    }, 
+    "Fairmont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5426452.html", 
+        "descriptor": "city", 
+        "name": "Fairmont "
+    }, 
+    "Nitro ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5459068.html", 
+        "descriptor": "city", 
+        "name": "Nitro "
+    }, 
+    "Pea Ridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5462488.html", 
+        "descriptor": "CDP", 
+        "name": "Pea Ridge "
+    }, 
+    "Weirton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5485156.html", 
+        "descriptor": "city", 
+        "name": "Weirton "
+    }, 
+    "Keyser ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5443492.html", 
+        "descriptor": "city", 
+        "name": "Keyser "
+    }, 
+    "St. Albans ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5471212.html", 
+        "descriptor": "city", 
+        "name": "St. Albans "
+    }, 
+    "Hurricane ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5439532.html", 
+        "descriptor": "city", 
+        "name": "Hurricane "
+    }, 
+    "Elkins ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5424580.html", 
+        "descriptor": "city", 
+        "name": "Elkins "
+    }, 
+    "Bluefield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5408524.html", 
+        "descriptor": "city", 
+        "name": "Bluefield "
+    }, 
+    "Dunbar ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5422564.html", 
+        "descriptor": "city", 
+        "name": "Dunbar "
+    }, 
+    "Bridgeport ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5410180.html", 
+        "descriptor": "city", 
+        "name": "Bridgeport "
+    }, 
+    "Brookhaven ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5410420.html", 
+        "descriptor": "CDP", 
+        "name": "Brookhaven "
+    }, 
+    "Grafton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5432716.html", 
+        "descriptor": "city", 
+        "name": "Grafton "
+    }, 
+    "South Charleston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5475292.html", 
+        "descriptor": "city", 
+        "name": "South Charleston "
+    }, 
+    "Cross Lanes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5419108.html", 
+        "descriptor": "CDP", 
+        "name": "Cross Lanes "
+    }, 
+    "Buckhannon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5411188.html", 
+        "descriptor": "city", 
+        "name": "Buckhannon "
+    }, 
+    "Huntington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5439460.html", 
+        "descriptor": "city", 
+        "name": "Huntington "
+    }, 
+    "New Martinsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/54/5458684.html", 
+        "descriptor": "city", 
+        "name": "New Martinsville "
+    }
+}

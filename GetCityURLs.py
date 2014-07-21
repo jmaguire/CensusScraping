@@ -2,29 +2,46 @@ from bs4 import BeautifulSoup
 import mechanize
 import json
 import MyTools as tools 
+import re
+import os
 
+
+def extractNameAndDescriptor(string):
+    valid = re.compile(r'(.+)\((\w+)\)')
+    matches = valid.match(string)
+    return matches.group(1), matches.group(2)
 
 stateFilename = './json/StateURLs'
 stateURLs = tools.getJSONData(stateFilename)
+baseUrl = 'http://quickfacts.census.gov/qfd/states/'
 
 ## City URL in id = Places
 for state, url in stateURLs.items():
-    print url
+
+    data = {}
+    print state, url
+    directory = './json/' + state
+
+    if not os.path.exists(directory):
+        os.makedirs(directory)
+
     soup = tools.getSoup(url)
-    tags = soup.findAll(id = 'Places')
-    print tags.text()
+    tags = soup.find('select', id = 'Place')
+
+    for tag in tags.findAll('option'):
+        city = {}
+        cityUrl = baseUrl + tag.attrs['value']
+        try:
+            (name,descriptor) = extractNameAndDescriptor(tag.string)
+        except:
+            ## Some links are to the state/ demos
+            continue 
+        city['name'] = name
+        city['descriptor'] = descriptor
+        city['url'] = cityUrl
+        data[name] = city 
     
-'''
-tags = soup.findAll('area')
-
-for tag in tags:
-    data[tag.attrs['title']] = url + '/' + tag.attrs['href']
-
-## Export to json
-with open(filename, 'wb') as outfile:
-    json.dump(data, outfile, indent = 4)
-'''
-
+    tools.saveJSONData(data, directory + '/cities') 
 
 
 

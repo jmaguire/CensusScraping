@@ -1,0 +1,1967 @@
+{
+    "Little Elm ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4843012.html", 
+        "descriptor": "city", 
+        "name": "Little Elm "
+    }, 
+    "Iowa Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4836104.html", 
+        "descriptor": "city", 
+        "name": "Iowa Park "
+    }, 
+    "Seguin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4866644.html", 
+        "descriptor": "city", 
+        "name": "Seguin "
+    }, 
+    "Mesquite ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4847892.html", 
+        "descriptor": "city", 
+        "name": "Mesquite "
+    }, 
+    "Freeport ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4827420.html", 
+        "descriptor": "city", 
+        "name": "Freeport "
+    }, 
+    "Doffing ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4820734.html", 
+        "descriptor": "CDP", 
+        "name": "Doffing "
+    }, 
+    "Manvel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4846500.html", 
+        "descriptor": "city", 
+        "name": "Manvel "
+    }, 
+    "Laredo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4841464.html", 
+        "descriptor": "city", 
+        "name": "Laredo "
+    }, 
+    "Longview ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4843888.html", 
+        "descriptor": "city", 
+        "name": "Longview "
+    }, 
+    "Pasadena ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4856000.html", 
+        "descriptor": "city", 
+        "name": "Pasadena "
+    }, 
+    "Rio Grande City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4862168.html", 
+        "descriptor": "city", 
+        "name": "Rio Grande City "
+    }, 
+    "Windcrest ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4879672.html", 
+        "descriptor": "city", 
+        "name": "Windcrest "
+    }, 
+    "Hondo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4834676.html", 
+        "descriptor": "city", 
+        "name": "Hondo "
+    }, 
+    "Alpine ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4802104.html", 
+        "descriptor": "city", 
+        "name": "Alpine "
+    }, 
+    "Socorro ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4868636.html", 
+        "descriptor": "city", 
+        "name": "Socorro "
+    }, 
+    "Livingston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4843132.html", 
+        "descriptor": "town", 
+        "name": "Livingston "
+    }, 
+    "Horizon City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4834832.html", 
+        "descriptor": "city", 
+        "name": "Horizon City "
+    }, 
+    "Fabens ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4825032.html", 
+        "descriptor": "CDP", 
+        "name": "Fabens "
+    }, 
+    "Grapevine ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4830644.html", 
+        "descriptor": "city", 
+        "name": "Grapevine "
+    }, 
+    "Gonzales ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4830116.html", 
+        "descriptor": "city", 
+        "name": "Gonzales "
+    }, 
+    "Silsbee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4867832.html", 
+        "descriptor": "city", 
+        "name": "Silsbee "
+    }, 
+    "Littlefield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4843024.html", 
+        "descriptor": "city", 
+        "name": "Littlefield "
+    }, 
+    "Ennis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4824348.html", 
+        "descriptor": "city", 
+        "name": "Ennis "
+    }, 
+    "Canyon Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4812580.html", 
+        "descriptor": "CDP", 
+        "name": "Canyon Lake "
+    }, 
+    "Sunnyvale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4871156.html", 
+        "descriptor": "town", 
+        "name": "Sunnyvale "
+    }, 
+    "Brownfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4810720.html", 
+        "descriptor": "city", 
+        "name": "Brownfield "
+    }, 
+    "Carrollton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4813024.html", 
+        "descriptor": "city", 
+        "name": "Carrollton "
+    }, 
+    "Amarillo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4803000.html", 
+        "descriptor": "city", 
+        "name": "Amarillo "
+    }, 
+    "Aldine ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4801696.html", 
+        "descriptor": "CDP", 
+        "name": "Aldine "
+    }, 
+    "Friendswood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4827648.html", 
+        "descriptor": "city", 
+        "name": "Friendswood "
+    }, 
+    "Austin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4805000.html", 
+        "descriptor": "city", 
+        "name": "Austin "
+    }, 
+    "Texarkana ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4872368.html", 
+        "descriptor": "city", 
+        "name": "Texarkana "
+    }, 
+    "Carrizo Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4812988.html", 
+        "descriptor": "city", 
+        "name": "Carrizo Springs "
+    }, 
+    "Bastrop ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4805864.html", 
+        "descriptor": "city", 
+        "name": "Bastrop "
+    }, 
+    "Rockdale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4862672.html", 
+        "descriptor": "city", 
+        "name": "Rockdale "
+    }, 
+    "La Porte ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4841440.html", 
+        "descriptor": "city", 
+        "name": "La Porte "
+    }, 
+    "Stafford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4869908.html", 
+        "descriptor": "city", 
+        "name": "Stafford "
+    }, 
+    "Pearsall ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4856384.html", 
+        "descriptor": "city", 
+        "name": "Pearsall "
+    }, 
+    "Rockport ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4862804.html", 
+        "descriptor": "city", 
+        "name": "Rockport "
+    }, 
+    "Mansfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4846452.html", 
+        "descriptor": "city", 
+        "name": "Mansfield "
+    }, 
+    "Hutto ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4835624.html", 
+        "descriptor": "city", 
+        "name": "Hutto "
+    }, 
+    "Elsa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4824036.html", 
+        "descriptor": "city", 
+        "name": "Elsa "
+    }, 
+    "Lakeway ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4840984.html", 
+        "descriptor": "city", 
+        "name": "Lakeway "
+    }, 
+    "Weslaco ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4877272.html", 
+        "descriptor": "city", 
+        "name": "Weslaco "
+    }, 
+    "Corpus Christi ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4817000.html", 
+        "descriptor": "city", 
+        "name": "Corpus Christi "
+    }, 
+    "Forest Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4826544.html", 
+        "descriptor": "city", 
+        "name": "Forest Hill "
+    }, 
+    "Cedar Hill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4813492.html", 
+        "descriptor": "city", 
+        "name": "Cedar Hill "
+    }, 
+    "Plainview ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4857980.html", 
+        "descriptor": "city", 
+        "name": "Plainview "
+    }, 
+    "Humble ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4835348.html", 
+        "descriptor": "city", 
+        "name": "Humble "
+    }, 
+    "Greatwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4830806.html", 
+        "descriptor": "CDP", 
+        "name": "Greatwood "
+    }, 
+    "Waxahachie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4876816.html", 
+        "descriptor": "city", 
+        "name": "Waxahachie "
+    }, 
+    "Garland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4829000.html", 
+        "descriptor": "city", 
+        "name": "Garland "
+    }, 
+    "McAllen ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4845384.html", 
+        "descriptor": "city", 
+        "name": "McAllen "
+    }, 
+    "Bridge City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4810252.html", 
+        "descriptor": "city", 
+        "name": "Bridge City "
+    }, 
+    "Decatur ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4819528.html", 
+        "descriptor": "city", 
+        "name": "Decatur "
+    }, 
+    "Selma ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4866704.html", 
+        "descriptor": "city", 
+        "name": "Selma "
+    }, 
+    "The Colony ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4872530.html", 
+        "descriptor": "city", 
+        "name": "The Colony "
+    }, 
+    "Navasota ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4850472.html", 
+        "descriptor": "city", 
+        "name": "Navasota "
+    }, 
+    "Yoakum ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4880560.html", 
+        "descriptor": "city", 
+        "name": "Yoakum "
+    }, 
+    "Paris ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4855080.html", 
+        "descriptor": "city", 
+        "name": "Paris "
+    }, 
+    "Pearland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4856348.html", 
+        "descriptor": "city", 
+        "name": "Pearland "
+    }, 
+    "Athens ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4804504.html", 
+        "descriptor": "city", 
+        "name": "Athens "
+    }, 
+    "North Richland Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4852356.html", 
+        "descriptor": "city", 
+        "name": "North Richland Hills "
+    }, 
+    "Graham ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4830392.html", 
+        "descriptor": "city", 
+        "name": "Graham "
+    }, 
+    "Anthony ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4803432.html", 
+        "descriptor": "town", 
+        "name": "Anthony "
+    }, 
+    "Euless ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4824768.html", 
+        "descriptor": "city", 
+        "name": "Euless "
+    }, 
+    "Richmond ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4861892.html", 
+        "descriptor": "city", 
+        "name": "Richmond "
+    }, 
+    "Homestead Meadows North ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4834671.html", 
+        "descriptor": "CDP", 
+        "name": "Homestead Meadows North "
+    }, 
+    "Saginaw ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4864112.html", 
+        "descriptor": "city", 
+        "name": "Saginaw "
+    }, 
+    "Vidor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4875476.html", 
+        "descriptor": "city", 
+        "name": "Vidor "
+    }, 
+    "Seminole ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4866764.html", 
+        "descriptor": "city", 
+        "name": "Seminole "
+    }, 
+    "Hitchcock ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4834220.html", 
+        "descriptor": "city", 
+        "name": "Hitchcock "
+    }, 
+    "Homestead Meadows South ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4834673.html", 
+        "descriptor": "CDP", 
+        "name": "Homestead Meadows South "
+    }, 
+    "Trophy Club ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4873710.html", 
+        "descriptor": "town", 
+        "name": "Trophy Club "
+    }, 
+    "Port Arthur ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4858820.html", 
+        "descriptor": "city", 
+        "name": "Port Arthur "
+    }, 
+    "Los Fresnos ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4844116.html", 
+        "descriptor": "city", 
+        "name": "Los Fresnos "
+    }, 
+    "Anna ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4803300.html", 
+        "descriptor": "city", 
+        "name": "Anna "
+    }, 
+    "Fredericksburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4827348.html", 
+        "descriptor": "city", 
+        "name": "Fredericksburg "
+    }, 
+    "Harlingen ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4832372.html", 
+        "descriptor": "city", 
+        "name": "Harlingen "
+    }, 
+    "Roma ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4863020.html", 
+        "descriptor": "city", 
+        "name": "Roma "
+    }, 
+    "Breckenridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4810132.html", 
+        "descriptor": "city", 
+        "name": "Breckenridge "
+    }, 
+    "Terrell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4872284.html", 
+        "descriptor": "city", 
+        "name": "Terrell "
+    }, 
+    "Highland Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4833848.html", 
+        "descriptor": "city", 
+        "name": "Highland Village "
+    }, 
+    "Marlin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4846740.html", 
+        "descriptor": "city", 
+        "name": "Marlin "
+    }, 
+    "Eagle Pass ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4821892.html", 
+        "descriptor": "city", 
+        "name": "Eagle Pass "
+    }, 
+    "McGregor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4845672.html", 
+        "descriptor": "city", 
+        "name": "McGregor "
+    }, 
+    "Lantana ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4841404.html", 
+        "descriptor": "CDP", 
+        "name": "Lantana "
+    }, 
+    "Cloverleaf ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4815628.html", 
+        "descriptor": "CDP", 
+        "name": "Cloverleaf "
+    }, 
+    "Atlanta ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4804516.html", 
+        "descriptor": "city", 
+        "name": "Atlanta "
+    }, 
+    "Borger ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4809556.html", 
+        "descriptor": "city", 
+        "name": "Borger "
+    }, 
+    "Georgetown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4829336.html", 
+        "descriptor": "city", 
+        "name": "Georgetown "
+    }, 
+    "Midlothian ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4848096.html", 
+        "descriptor": "city", 
+        "name": "Midlothian "
+    }, 
+    "West Odessa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4877728.html", 
+        "descriptor": "CDP", 
+        "name": "West Odessa "
+    }, 
+    "Heath ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4832984.html", 
+        "descriptor": "city", 
+        "name": "Heath "
+    }, 
+    "Seabrook ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4866392.html", 
+        "descriptor": "city", 
+        "name": "Seabrook "
+    }, 
+    "Roanoke ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4862504.html", 
+        "descriptor": "city", 
+        "name": "Roanoke "
+    }, 
+    "Lubbock ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4845000.html", 
+        "descriptor": "city", 
+        "name": "Lubbock "
+    }, 
+    "Willis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4879408.html", 
+        "descriptor": "city", 
+        "name": "Willis "
+    }, 
+    "Clute ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4815652.html", 
+        "descriptor": "city", 
+        "name": "Clute "
+    }, 
+    "Weatherford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4876864.html", 
+        "descriptor": "city", 
+        "name": "Weatherford "
+    }, 
+    "El Paso ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4824000.html", 
+        "descriptor": "city", 
+        "name": "El Paso "
+    }, 
+    "Port Lavaca ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4858916.html", 
+        "descriptor": "city", 
+        "name": "Port Lavaca "
+    }, 
+    "Alvin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4802272.html", 
+        "descriptor": "city", 
+        "name": "Alvin "
+    }, 
+    "Victoria ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4875428.html", 
+        "descriptor": "city", 
+        "name": "Victoria "
+    }, 
+    "Gilmer ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4829564.html", 
+        "descriptor": "city", 
+        "name": "Gilmer "
+    }, 
+    "Dalhart ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4818524.html", 
+        "descriptor": "city", 
+        "name": "Dalhart "
+    }, 
+    "South Houston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4869020.html", 
+        "descriptor": "city", 
+        "name": "South Houston "
+    }, 
+    "Murphy ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4850100.html", 
+        "descriptor": "city", 
+        "name": "Murphy "
+    }, 
+    "Katy ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4838476.html", 
+        "descriptor": "city", 
+        "name": "Katy "
+    }, 
+    "Robstown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4862600.html", 
+        "descriptor": "city", 
+        "name": "Robstown "
+    }, 
+    "Sinton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4868036.html", 
+        "descriptor": "city", 
+        "name": "Sinton "
+    }, 
+    "Flower Mound ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4826232.html", 
+        "descriptor": "town", 
+        "name": "Flower Mound "
+    }, 
+    "Fairview ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4825224.html", 
+        "descriptor": "town", 
+        "name": "Fairview "
+    }, 
+    "Santa Fe ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4865726.html", 
+        "descriptor": "city", 
+        "name": "Santa Fe "
+    }, 
+    "Marble Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4846584.html", 
+        "descriptor": "city", 
+        "name": "Marble Falls "
+    }, 
+    "Jersey Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4837612.html", 
+        "descriptor": "city", 
+        "name": "Jersey Village "
+    }, 
+    "Murillo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4850092.html", 
+        "descriptor": "CDP", 
+        "name": "Murillo "
+    }, 
+    "Leander ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4842016.html", 
+        "descriptor": "city", 
+        "name": "Leander "
+    }, 
+    "Lacy-Lakeview ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4840168.html", 
+        "descriptor": "city", 
+        "name": "Lacy-Lakeview "
+    }, 
+    "Mineral Wells ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4848684.html", 
+        "descriptor": "city", 
+        "name": "Mineral Wells "
+    }, 
+    "Bedford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4807132.html", 
+        "descriptor": "city", 
+        "name": "Bedford "
+    }, 
+    "Woodway ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4880224.html", 
+        "descriptor": "city", 
+        "name": "Woodway "
+    }, 
+    "Portland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4858904.html", 
+        "descriptor": "city", 
+        "name": "Portland "
+    }, 
+    "Lewisville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4842508.html", 
+        "descriptor": "city", 
+        "name": "Lewisville "
+    }, 
+    "Sealy ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4866464.html", 
+        "descriptor": "city", 
+        "name": "Sealy "
+    }, 
+    "Richardson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4861796.html", 
+        "descriptor": "city", 
+        "name": "Richardson "
+    }, 
+    "Cameron ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4812040.html", 
+        "descriptor": "city", 
+        "name": "Cameron "
+    }, 
+    "Gatesville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4829168.html", 
+        "descriptor": "city", 
+        "name": "Gatesville "
+    }, 
+    "Bowie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4809640.html", 
+        "descriptor": "city", 
+        "name": "Bowie "
+    }, 
+    "Rosenberg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4863284.html", 
+        "descriptor": "city", 
+        "name": "Rosenberg "
+    }, 
+    "Abilene ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4801000.html", 
+        "descriptor": "city", 
+        "name": "Abilene "
+    }, 
+    "Webster ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4876948.html", 
+        "descriptor": "city", 
+        "name": "Webster "
+    }, 
+    "Atascocita ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4804462.html", 
+        "descriptor": "CDP", 
+        "name": "Atascocita "
+    }, 
+    "Whitehouse ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4878388.html", 
+        "descriptor": "city", 
+        "name": "Whitehouse "
+    }, 
+    "Brownwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4810780.html", 
+        "descriptor": "city", 
+        "name": "Brownwood "
+    }, 
+    "Plano ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4858016.html", 
+        "descriptor": "city", 
+        "name": "Plano "
+    }, 
+    "Benbrook ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4807552.html", 
+        "descriptor": "city", 
+        "name": "Benbrook "
+    }, 
+    "Fort Stockton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4826808.html", 
+        "descriptor": "city", 
+        "name": "Fort Stockton "
+    }, 
+    "Bellmead ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4807408.html", 
+        "descriptor": "city", 
+        "name": "Bellmead "
+    }, 
+    "Tomball ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4873316.html", 
+        "descriptor": "city", 
+        "name": "Tomball "
+    }, 
+    "Bay City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4805984.html", 
+        "descriptor": "city", 
+        "name": "Bay City "
+    }, 
+    "Universal City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4874408.html", 
+        "descriptor": "city", 
+        "name": "Universal City "
+    }, 
+    "Edna ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4822720.html", 
+        "descriptor": "city", 
+        "name": "Edna "
+    }, 
+    "Palmview South ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4854810.html", 
+        "descriptor": "CDP", 
+        "name": "Palmview South "
+    }, 
+    "New Braunfels ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4850820.html", 
+        "descriptor": "city", 
+        "name": "New Braunfels "
+    }, 
+    "Bridgeport ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4810264.html", 
+        "descriptor": "city", 
+        "name": "Bridgeport "
+    }, 
+    "Lancaster ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4841212.html", 
+        "descriptor": "city", 
+        "name": "Lancaster "
+    }, 
+    "Lackland AFB ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4840036.html", 
+        "descriptor": "CDP", 
+        "name": "Lackland AFB "
+    }, 
+    "Burnet ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4811464.html", 
+        "descriptor": "city", 
+        "name": "Burnet "
+    }, 
+    "Missouri City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4848804.html", 
+        "descriptor": "city", 
+        "name": "Missouri City "
+    }, 
+    "Lindale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4842820.html", 
+        "descriptor": "city", 
+        "name": "Lindale "
+    }, 
+    "Crowley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4817960.html", 
+        "descriptor": "city", 
+        "name": "Crowley "
+    }, 
+    "Pleasanton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4858280.html", 
+        "descriptor": "city", 
+        "name": "Pleasanton "
+    }, 
+    "Lumberton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4845120.html", 
+        "descriptor": "city", 
+        "name": "Lumberton "
+    }, 
+    "Odessa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4853388.html", 
+        "descriptor": "city", 
+        "name": "Odessa "
+    }, 
+    "Perezville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4856804.html", 
+        "descriptor": "CDP", 
+        "name": "Perezville "
+    }, 
+    "Watauga ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4876672.html", 
+        "descriptor": "city", 
+        "name": "Watauga "
+    }, 
+    "Kyle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4839952.html", 
+        "descriptor": "city", 
+        "name": "Kyle "
+    }, 
+    "Fate ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4825572.html", 
+        "descriptor": "city", 
+        "name": "Fate "
+    }, 
+    "Hidalgo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4833560.html", 
+        "descriptor": "city", 
+        "name": "Hidalgo "
+    }, 
+    "Rockwall ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4862828.html", 
+        "descriptor": "city", 
+        "name": "Rockwall "
+    }, 
+    "Lago Vista ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4840264.html", 
+        "descriptor": "city", 
+        "name": "Lago Vista "
+    }, 
+    "Boerne ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4809160.html", 
+        "descriptor": "city", 
+        "name": "Boerne "
+    }, 
+    "Lakehills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4840576.html", 
+        "descriptor": "CDP", 
+        "name": "Lakehills "
+    }, 
+    "Pharr ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4857200.html", 
+        "descriptor": "city", 
+        "name": "Pharr "
+    }, 
+    "Buda ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4811080.html", 
+        "descriptor": "city", 
+        "name": "Buda "
+    }, 
+    "Palmview ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4854804.html", 
+        "descriptor": "city", 
+        "name": "Palmview "
+    }, 
+    "Ingleside ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4836008.html", 
+        "descriptor": "city", 
+        "name": "Ingleside "
+    }, 
+    "College Station ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4815976.html", 
+        "descriptor": "city", 
+        "name": "College Station "
+    }, 
+    "Gainesville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4827984.html", 
+        "descriptor": "city", 
+        "name": "Gainesville "
+    }, 
+    "Round Rock ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4863500.html", 
+        "descriptor": "city", 
+        "name": "Round Rock "
+    }, 
+    "Alton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4802212.html", 
+        "descriptor": "city", 
+        "name": "Alton "
+    }, 
+    "Terrell Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4872296.html", 
+        "descriptor": "city", 
+        "name": "Terrell Hills "
+    }, 
+    "Childress ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4814668.html", 
+        "descriptor": "city", 
+        "name": "Childress "
+    }, 
+    "DeSoto ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4820092.html", 
+        "descriptor": "city", 
+        "name": "DeSoto "
+    }, 
+    "Lufkin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4845072.html", 
+        "descriptor": "city", 
+        "name": "Lufkin "
+    }, 
+    "Hillsboro ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4834088.html", 
+        "descriptor": "city", 
+        "name": "Hillsboro "
+    }, 
+    "Spring ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4869596.html", 
+        "descriptor": "CDP", 
+        "name": "Spring "
+    }, 
+    "New Territory ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4851366.html", 
+        "descriptor": "CDP", 
+        "name": "New Territory "
+    }, 
+    "League City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4841980.html", 
+        "descriptor": "city", 
+        "name": "League City "
+    }, 
+    "Hornsby Bend ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4834856.html", 
+        "descriptor": "CDP", 
+        "name": "Hornsby Bend "
+    }, 
+    "Cleveland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4815436.html", 
+        "descriptor": "city", 
+        "name": "Cleveland "
+    }, 
+    "Gun Barrel City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4831592.html", 
+        "descriptor": "city", 
+        "name": "Gun Barrel City "
+    }, 
+    "Donna ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4820884.html", 
+        "descriptor": "city", 
+        "name": "Donna "
+    }, 
+    "Cibolo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4814920.html", 
+        "descriptor": "city", 
+        "name": "Cibolo "
+    }, 
+    "Addison ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4801240.html", 
+        "descriptor": "town", 
+        "name": "Addison "
+    }, 
+    "Kirby ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4839448.html", 
+        "descriptor": "city", 
+        "name": "Kirby "
+    }, 
+    "Tyler ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4874144.html", 
+        "descriptor": "city", 
+        "name": "Tyler "
+    }, 
+    "Liberty ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4842568.html", 
+        "descriptor": "city", 
+        "name": "Liberty "
+    }, 
+    "White Settlement ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4878544.html", 
+        "descriptor": "city", 
+        "name": "White Settlement "
+    }, 
+    "Kaufman ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4838488.html", 
+        "descriptor": "city", 
+        "name": "Kaufman "
+    }, 
+    "Pecan Grove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4856482.html", 
+        "descriptor": "CDP", 
+        "name": "Pecan Grove "
+    }, 
+    "La Marque ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4841116.html", 
+        "descriptor": "city", 
+        "name": "La Marque "
+    }, 
+    "Cleburne ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4815364.html", 
+        "descriptor": "city", 
+        "name": "Cleburne "
+    }, 
+    "Pecos ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4856516.html", 
+        "descriptor": "city", 
+        "name": "Pecos "
+    }, 
+    "La Feria ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4840204.html", 
+        "descriptor": "city", 
+        "name": "La Feria "
+    }, 
+    "Galena Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4827996.html", 
+        "descriptor": "city", 
+        "name": "Galena Park "
+    }, 
+    "Deer Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4819624.html", 
+        "descriptor": "city", 
+        "name": "Deer Park "
+    }, 
+    "Granbury ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4830416.html", 
+        "descriptor": "city", 
+        "name": "Granbury "
+    }, 
+    "Southlake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4869032.html", 
+        "descriptor": "city", 
+        "name": "Southlake "
+    }, 
+    "Corinth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4816696.html", 
+        "descriptor": "city", 
+        "name": "Corinth "
+    }, 
+    "Wylie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4880356.html", 
+        "descriptor": "city", 
+        "name": "Wylie "
+    }, 
+    "Temple ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4872176.html", 
+        "descriptor": "city", 
+        "name": "Temple "
+    }, 
+    "Jollyville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4837936.html", 
+        "descriptor": "CDP", 
+        "name": "Jollyville "
+    }, 
+    "Perryton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4856912.html", 
+        "descriptor": "city", 
+        "name": "Perryton "
+    }, 
+    "West Livingston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4877662.html", 
+        "descriptor": "CDP", 
+        "name": "West Livingston "
+    }, 
+    "Allen ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4801924.html", 
+        "descriptor": "city", 
+        "name": "Allen "
+    }, 
+    "Sanger ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4865408.html", 
+        "descriptor": "city", 
+        "name": "Sanger "
+    }, 
+    "Balch Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4805372.html", 
+        "descriptor": "city", 
+        "name": "Balch Springs "
+    }, 
+    "Camp Swift ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4812334.html", 
+        "descriptor": "CDP", 
+        "name": "Camp Swift "
+    }, 
+    "Vernon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4875308.html", 
+        "descriptor": "city", 
+        "name": "Vernon "
+    }, 
+    "Bonham ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4809328.html", 
+        "descriptor": "city", 
+        "name": "Bonham "
+    }, 
+    "Brady ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4809916.html", 
+        "descriptor": "city", 
+        "name": "Brady "
+    }, 
+    "Killeen ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4839148.html", 
+        "descriptor": "city", 
+        "name": "Killeen "
+    }, 
+    "White Oak ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4878436.html", 
+        "descriptor": "city", 
+        "name": "White Oak "
+    }, 
+    "Channelview ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4814236.html", 
+        "descriptor": "CDP", 
+        "name": "Channelview "
+    }, 
+    "Diboll ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4820308.html", 
+        "descriptor": "city", 
+        "name": "Diboll "
+    }, 
+    "Big Spring ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4808236.html", 
+        "descriptor": "city", 
+        "name": "Big Spring "
+    }, 
+    "Marshall ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4846776.html", 
+        "descriptor": "city", 
+        "name": "Marshall "
+    }, 
+    "Wells Branch ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4877196.html", 
+        "descriptor": "CDP", 
+        "name": "Wells Branch "
+    }, 
+    "Sugar Land ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4870808.html", 
+        "descriptor": "city", 
+        "name": "Sugar Land "
+    }, 
+    "Fort Hood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4826736.html", 
+        "descriptor": "CDP", 
+        "name": "Fort Hood "
+    }, 
+    "Cuero ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4818092.html", 
+        "descriptor": "city", 
+        "name": "Cuero "
+    }, 
+    "The Woodlands ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4872656.html", 
+        "descriptor": "CDP", 
+        "name": "The Woodlands "
+    }, 
+    "Harker Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4832312.html", 
+        "descriptor": "city", 
+        "name": "Harker Heights "
+    }, 
+    "Commerce ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4816240.html", 
+        "descriptor": "city", 
+        "name": "Commerce "
+    }, 
+    "Kingsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4839352.html", 
+        "descriptor": "city", 
+        "name": "Kingsville "
+    }, 
+    "Bellaire ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4807300.html", 
+        "descriptor": "city", 
+        "name": "Bellaire "
+    }, 
+    "Snyder ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4868624.html", 
+        "descriptor": "city", 
+        "name": "Snyder "
+    }, 
+    "West University Place ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4877956.html", 
+        "descriptor": "city", 
+        "name": "West University Place "
+    }, 
+    "Lampasas ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4841188.html", 
+        "descriptor": "city", 
+        "name": "Lampasas "
+    }, 
+    "Mila Doce ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4848320.html", 
+        "descriptor": "CDP", 
+        "name": "Mila Doce "
+    }, 
+    "Frisco ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4827684.html", 
+        "descriptor": "city", 
+        "name": "Frisco "
+    }, 
+    "Cinco Ranch ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4814929.html", 
+        "descriptor": "CDP", 
+        "name": "Cinco Ranch "
+    }, 
+    "Floresville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4826160.html", 
+        "descriptor": "city", 
+        "name": "Floresville "
+    }, 
+    "Copperas Cove ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4816624.html", 
+        "descriptor": "city", 
+        "name": "Copperas Cove "
+    }, 
+    "University Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4874492.html", 
+        "descriptor": "city", 
+        "name": "University Park "
+    }, 
+    "Jacinto City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4837156.html", 
+        "descriptor": "city", 
+        "name": "Jacinto City "
+    }, 
+    "Dickinson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4820344.html", 
+        "descriptor": "city", 
+        "name": "Dickinson "
+    }, 
+    "Kingsland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4839304.html", 
+        "descriptor": "CDP", 
+        "name": "Kingsland "
+    }, 
+    "Alice ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4801852.html", 
+        "descriptor": "city", 
+        "name": "Alice "
+    }, 
+    "Crockett ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4817744.html", 
+        "descriptor": "city", 
+        "name": "Crockett "
+    }, 
+    "Levelland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4842448.html", 
+        "descriptor": "city", 
+        "name": "Levelland "
+    }, 
+    "Post ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4859012.html", 
+        "descriptor": "city", 
+        "name": "Post "
+    }, 
+    "Canutillo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4812508.html", 
+        "descriptor": "CDP", 
+        "name": "Canutillo "
+    }, 
+    "Sherman ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4867496.html", 
+        "descriptor": "city", 
+        "name": "Sherman "
+    }, 
+    "Mexia ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4847916.html", 
+        "descriptor": "city", 
+        "name": "Mexia "
+    }, 
+    "Kennedale ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4838896.html", 
+        "descriptor": "city", 
+        "name": "Kennedale "
+    }, 
+    "Helotes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4833146.html", 
+        "descriptor": "city", 
+        "name": "Helotes "
+    }, 
+    "Luling ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4845096.html", 
+        "descriptor": "city", 
+        "name": "Luling "
+    }, 
+    "Glenn Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4829840.html", 
+        "descriptor": "city", 
+        "name": "Glenn Heights "
+    }, 
+    "Coppell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4816612.html", 
+        "descriptor": "city", 
+        "name": "Coppell "
+    }, 
+    "Sienna Plantation ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4867766.html", 
+        "descriptor": "CDP", 
+        "name": "Sienna Plantation "
+    }, 
+    "Port Isabel ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4858892.html", 
+        "descriptor": "city", 
+        "name": "Port Isabel "
+    }, 
+    "Fresno ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4827540.html", 
+        "descriptor": "CDP", 
+        "name": "Fresno "
+    }, 
+    "Huntsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4835528.html", 
+        "descriptor": "city", 
+        "name": "Huntsville "
+    }, 
+    "Progreso ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4859636.html", 
+        "descriptor": "city", 
+        "name": "Progreso "
+    }, 
+    "Four Corners ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4827102.html", 
+        "descriptor": "CDP", 
+        "name": "Four Corners "
+    }, 
+    "Royse City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4863668.html", 
+        "descriptor": "city", 
+        "name": "Royse City "
+    }, 
+    "Lucas ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4845012.html", 
+        "descriptor": "city", 
+        "name": "Lucas "
+    }, 
+    "Mission Bend ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4848772.html", 
+        "descriptor": "CDP", 
+        "name": "Mission Bend "
+    }, 
+    "Brownsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4810768.html", 
+        "descriptor": "city", 
+        "name": "Brownsville "
+    }, 
+    "Del Rio ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4819792.html", 
+        "descriptor": "city", 
+        "name": "Del Rio "
+    }, 
+    "Seagoville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4866428.html", 
+        "descriptor": "city", 
+        "name": "Seagoville "
+    }, 
+    "Orange ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4854132.html", 
+        "descriptor": "city", 
+        "name": "Orange "
+    }, 
+    "Jacksonville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4837216.html", 
+        "descriptor": "city", 
+        "name": "Jacksonville "
+    }, 
+    "Converse ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4816468.html", 
+        "descriptor": "city", 
+        "name": "Converse "
+    }, 
+    "Live Oak ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4843096.html", 
+        "descriptor": "city", 
+        "name": "Live Oak "
+    }, 
+    "Prosper ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4859696.html", 
+        "descriptor": "town", 
+        "name": "Prosper "
+    }, 
+    "Monahans ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4848936.html", 
+        "descriptor": "city", 
+        "name": "Monahans "
+    }, 
+    "Highland Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4833824.html", 
+        "descriptor": "town", 
+        "name": "Highland Park "
+    }, 
+    "Manor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4846440.html", 
+        "descriptor": "city", 
+        "name": "Manor "
+    }, 
+    "Sachse ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4864064.html", 
+        "descriptor": "city", 
+        "name": "Sachse "
+    }, 
+    "Zapata ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4880716.html", 
+        "descriptor": "CDP", 
+        "name": "Zapata "
+    }, 
+    "Timberwood Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4873057.html", 
+        "descriptor": "CDP", 
+        "name": "Timberwood Park "
+    }, 
+    "Everman ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4824912.html", 
+        "descriptor": "city", 
+        "name": "Everman "
+    }, 
+    "Rusk ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4863848.html", 
+        "descriptor": "city", 
+        "name": "Rusk "
+    }, 
+    "Denton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4819972.html", 
+        "descriptor": "city", 
+        "name": "Denton "
+    }, 
+    "Pecan Plantation ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4856498.html", 
+        "descriptor": "CDP", 
+        "name": "Pecan Plantation "
+    }, 
+    "Highlands ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4833836.html", 
+        "descriptor": "CDP", 
+        "name": "Highlands "
+    }, 
+    "Mathis ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4847040.html", 
+        "descriptor": "city", 
+        "name": "Mathis "
+    }, 
+    "Sweetwater ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4871540.html", 
+        "descriptor": "city", 
+        "name": "Sweetwater "
+    }, 
+    "Crystal City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4818020.html", 
+        "descriptor": "city", 
+        "name": "Crystal City "
+    }, 
+    "Pflugerville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4857176.html", 
+        "descriptor": "city", 
+        "name": "Pflugerville "
+    }, 
+    "Burkburnett ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4811368.html", 
+        "descriptor": "city", 
+        "name": "Burkburnett "
+    }, 
+    "Irving ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4837000.html", 
+        "descriptor": "city", 
+        "name": "Irving "
+    }, 
+    "Henderson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4833212.html", 
+        "descriptor": "city", 
+        "name": "Henderson "
+    }, 
+    "Texas City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4872392.html", 
+        "descriptor": "city", 
+        "name": "Texas City "
+    }, 
+    "Rowlett ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4863572.html", 
+        "descriptor": "city", 
+        "name": "Rowlett "
+    }, 
+    "Fort Bliss ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4826664.html", 
+        "descriptor": "CDP", 
+        "name": "Fort Bliss "
+    }, 
+    "Schertz ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4866128.html", 
+        "descriptor": "city", 
+        "name": "Schertz "
+    }, 
+    "Greenville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4830920.html", 
+        "descriptor": "city", 
+        "name": "Greenville "
+    }, 
+    "Kilgore ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4839124.html", 
+        "descriptor": "city", 
+        "name": "Kilgore "
+    }, 
+    "El Campo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4822864.html", 
+        "descriptor": "city", 
+        "name": "El Campo "
+    }, 
+    "Giddings ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4829432.html", 
+        "descriptor": "city", 
+        "name": "Giddings "
+    }, 
+    "Bacliff ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4805180.html", 
+        "descriptor": "CDP", 
+        "name": "Bacliff "
+    }, 
+    "Mission ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4848768.html", 
+        "descriptor": "city", 
+        "name": "Mission "
+    }, 
+    "Palestine ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4854708.html", 
+        "descriptor": "city", 
+        "name": "Palestine "
+    }, 
+    "Dumas ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4821556.html", 
+        "descriptor": "city", 
+        "name": "Dumas "
+    }, 
+    "San Benito ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4865036.html", 
+        "descriptor": "city", 
+        "name": "San Benito "
+    }, 
+    "Prairie View ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4859336.html", 
+        "descriptor": "city", 
+        "name": "Prairie View "
+    }, 
+    "Waco ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4876000.html", 
+        "descriptor": "city", 
+        "name": "Waco "
+    }, 
+    "Arlington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4804000.html", 
+        "descriptor": "city", 
+        "name": "Arlington "
+    }, 
+    "San Marcos ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4865600.html", 
+        "descriptor": "city", 
+        "name": "San Marcos "
+    }, 
+    "Corsicana ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4817060.html", 
+        "descriptor": "city", 
+        "name": "Corsicana "
+    }, 
+    "Keller ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4838632.html", 
+        "descriptor": "city", 
+        "name": "Keller "
+    }, 
+    "Brushy Creek ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4810897.html", 
+        "descriptor": "CDP", 
+        "name": "Brushy Creek "
+    }, 
+    "San Angelo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4864472.html", 
+        "descriptor": "city", 
+        "name": "San Angelo "
+    }, 
+    "Jasper ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4837420.html", 
+        "descriptor": "city", 
+        "name": "Jasper "
+    }, 
+    "Celina ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4813684.html", 
+        "descriptor": "city", 
+        "name": "Celina "
+    }, 
+    "Gladewater ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4829660.html", 
+        "descriptor": "city", 
+        "name": "Gladewater "
+    }, 
+    "Red Oak ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4861196.html", 
+        "descriptor": "city", 
+        "name": "Red Oak "
+    }, 
+    "Bee Cave ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4807156.html", 
+        "descriptor": "city", 
+        "name": "Bee Cave "
+    }, 
+    "Nacogdoches ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4850256.html", 
+        "descriptor": "city", 
+        "name": "Nacogdoches "
+    }, 
+    "Aransas Pass ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4803600.html", 
+        "descriptor": "city", 
+        "name": "Aransas Pass "
+    }, 
+    "Wichita Falls ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4879000.html", 
+        "descriptor": "city", 
+        "name": "Wichita Falls "
+    }, 
+    "Cedar Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4813552.html", 
+        "descriptor": "city", 
+        "name": "Cedar Park "
+    }, 
+    "Groves ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4831328.html", 
+        "descriptor": "city", 
+        "name": "Groves "
+    }, 
+    "Mount Pleasant ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4849800.html", 
+        "descriptor": "city", 
+        "name": "Mount Pleasant "
+    }, 
+    "Beeville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4807192.html", 
+        "descriptor": "city", 
+        "name": "Beeville "
+    }, 
+    "Muleshoe ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4849968.html", 
+        "descriptor": "city", 
+        "name": "Muleshoe "
+    }, 
+    "Hurst ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4835576.html", 
+        "descriptor": "city", 
+        "name": "Hurst "
+    }, 
+    "Angleton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4803264.html", 
+        "descriptor": "city", 
+        "name": "Angleton "
+    }, 
+    "Sulphur Springs ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4870904.html", 
+        "descriptor": "city", 
+        "name": "Sulphur Springs "
+    }, 
+    "Stephenville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4870208.html", 
+        "descriptor": "city", 
+        "name": "Stephenville "
+    }, 
+    "Joshua ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4838080.html", 
+        "descriptor": "city", 
+        "name": "Joshua "
+    }, 
+    "Brenham ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4810156.html", 
+        "descriptor": "city", 
+        "name": "Brenham "
+    }, 
+    "Slaton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4868180.html", 
+        "descriptor": "city", 
+        "name": "Slaton "
+    }, 
+    "Lockhart ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4843240.html", 
+        "descriptor": "city", 
+        "name": "Lockhart "
+    }, 
+    "Center ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4813732.html", 
+        "descriptor": "city", 
+        "name": "Center "
+    }, 
+    "Alamo Heights ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4801600.html", 
+        "descriptor": "city", 
+        "name": "Alamo Heights "
+    }, 
+    "Burleson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4811428.html", 
+        "descriptor": "city", 
+        "name": "Burleson "
+    }, 
+    "Briar ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4810192.html", 
+        "descriptor": "CDP", 
+        "name": "Briar "
+    }, 
+    "Carthage ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4813108.html", 
+        "descriptor": "city", 
+        "name": "Carthage "
+    }, 
+    "Shady Hollow ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4867082.html", 
+        "descriptor": "CDP", 
+        "name": "Shady Hollow "
+    }, 
+    "Fort Worth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4827000.html", 
+        "descriptor": "city", 
+        "name": "Fort Worth "
+    }, 
+    "Hutchins ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4835612.html", 
+        "descriptor": "city", 
+        "name": "Hutchins "
+    }, 
+    "Denison ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4819900.html", 
+        "descriptor": "city", 
+        "name": "Denison "
+    }, 
+    "Edinburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4822660.html", 
+        "descriptor": "city", 
+        "name": "Edinburg "
+    }, 
+    "Bryan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4810912.html", 
+        "descriptor": "city", 
+        "name": "Bryan "
+    }, 
+    "Raymondville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4860836.html", 
+        "descriptor": "city", 
+        "name": "Raymondville "
+    }, 
+    "Azle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4805168.html", 
+        "descriptor": "city", 
+        "name": "Azle "
+    }, 
+    "Kermit ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4839004.html", 
+        "descriptor": "city", 
+        "name": "Kermit "
+    }, 
+    "Leon Valley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4842388.html", 
+        "descriptor": "city", 
+        "name": "Leon Valley "
+    }, 
+    "La Homa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4840342.html", 
+        "descriptor": "CDP", 
+        "name": "La Homa "
+    }, 
+    "Belton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4807492.html", 
+        "descriptor": "city", 
+        "name": "Belton "
+    }, 
+    "Lamesa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4841164.html", 
+        "descriptor": "city", 
+        "name": "Lamesa "
+    }, 
+    "Fair Oaks Ranch ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4825168.html", 
+        "descriptor": "city", 
+        "name": "Fair Oaks Ranch "
+    }, 
+    "Houston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4835000.html", 
+        "descriptor": "city", 
+        "name": "Houston "
+    }, 
+    "Melissa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4847496.html", 
+        "descriptor": "city", 
+        "name": "Melissa "
+    }, 
+    "Hewitt ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4833428.html", 
+        "descriptor": "city", 
+        "name": "Hewitt "
+    }, 
+    "Conroe ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4816432.html", 
+        "descriptor": "city", 
+        "name": "Conroe "
+    }, 
+    "Princeton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4859576.html", 
+        "descriptor": "city", 
+        "name": "Princeton "
+    }, 
+    "Richland Hills ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4861844.html", 
+        "descriptor": "city", 
+        "name": "Richland Hills "
+    }, 
+    "Lake Jackson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4840588.html", 
+        "descriptor": "city", 
+        "name": "Lake Jackson "
+    }, 
+    "McKinney ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4845744.html", 
+        "descriptor": "city", 
+        "name": "McKinney "
+    }, 
+    "Mercedes ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4847700.html", 
+        "descriptor": "city", 
+        "name": "Mercedes "
+    }, 
+    "Dallas ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4819000.html", 
+        "descriptor": "city", 
+        "name": "Dallas "
+    }, 
+    "Forney ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4826604.html", 
+        "descriptor": "city", 
+        "name": "Forney "
+    }, 
+    "Midland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4848072.html", 
+        "descriptor": "city", 
+        "name": "Midland "
+    }, 
+    "Canyon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4812532.html", 
+        "descriptor": "city", 
+        "name": "Canyon "
+    }, 
+    "Dayton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4819432.html", 
+        "descriptor": "city", 
+        "name": "Dayton "
+    }, 
+    "Duncanville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4821628.html", 
+        "descriptor": "city", 
+        "name": "Duncanville "
+    }, 
+    "Wake Village ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4876096.html", 
+        "descriptor": "city", 
+        "name": "Wake Village "
+    }, 
+    "San Antonio ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4865000.html", 
+        "descriptor": "city", 
+        "name": "San Antonio "
+    }, 
+    "Baytown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4806128.html", 
+        "descriptor": "city", 
+        "name": "Baytown "
+    }, 
+    "Colleyville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4815988.html", 
+        "descriptor": "city", 
+        "name": "Colleyville "
+    }, 
+    "Port Neches ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4858940.html", 
+        "descriptor": "city", 
+        "name": "Port Neches "
+    }, 
+    "Keene ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4838548.html", 
+        "descriptor": "city", 
+        "name": "Keene "
+    }, 
+    "Uvalde ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4874588.html", 
+        "descriptor": "city", 
+        "name": "Uvalde "
+    }, 
+    "San Juan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4865516.html", 
+        "descriptor": "city", 
+        "name": "San Juan "
+    }, 
+    "Hereford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4833320.html", 
+        "descriptor": "city", 
+        "name": "Hereford "
+    }, 
+    "Pampa ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4854912.html", 
+        "descriptor": "city", 
+        "name": "Pampa "
+    }, 
+    "Andrews ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4803216.html", 
+        "descriptor": "city", 
+        "name": "Andrews "
+    }, 
+    "Beaumont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4807000.html", 
+        "descriptor": "city", 
+        "name": "Beaumont "
+    }, 
+    "Robinson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4862588.html", 
+        "descriptor": "city", 
+        "name": "Robinson "
+    }, 
+    "San Elizario ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4865360.html", 
+        "descriptor": "CDP", 
+        "name": "San Elizario "
+    }, 
+    "Taylor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4871948.html", 
+        "descriptor": "city", 
+        "name": "Taylor "
+    }, 
+    "Haltom City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4831928.html", 
+        "descriptor": "city", 
+        "name": "Haltom City "
+    }, 
+    "Cameron Park ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4812045.html", 
+        "descriptor": "CDP", 
+        "name": "Cameron Park "
+    }, 
+    "Wharton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4878136.html", 
+        "descriptor": "city", 
+        "name": "Wharton "
+    }, 
+    "Galveston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4828068.html", 
+        "descriptor": "city", 
+        "name": "Galveston "
+    }, 
+    "Elgin ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4823044.html", 
+        "descriptor": "city", 
+        "name": "Elgin "
+    }, 
+    "Kerrville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4839040.html", 
+        "descriptor": "city", 
+        "name": "Kerrville "
+    }, 
+    "Alamo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4801576.html", 
+        "descriptor": "city", 
+        "name": "Alamo "
+    }, 
+    "Grand Prairie ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4830464.html", 
+        "descriptor": "city", 
+        "name": "Grand Prairie "
+    }, 
+    "Eidson Road ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4822810.html", 
+        "descriptor": "CDP", 
+        "name": "Eidson Road "
+    }, 
+    "Hempstead ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4833200.html", 
+        "descriptor": "city", 
+        "name": "Hempstead "
+    }, 
+    "Nederland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4850580.html", 
+        "descriptor": "city", 
+        "name": "Nederland "
+    }, 
+    "River Oaks ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4862384.html", 
+        "descriptor": "city", 
+        "name": "River Oaks "
+    }, 
+    "Rendon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4861568.html", 
+        "descriptor": "CDP", 
+        "name": "Rendon "
+    }, 
+    "Lake Dallas ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4840516.html", 
+        "descriptor": "city", 
+        "name": "Lake Dallas "
+    }, 
+    "Farmers Branch ": {
+        "url": "http://quickfacts.census.gov/qfd/states/48/4825452.html", 
+        "descriptor": "city", 
+        "name": "Farmers Branch "
+    }
+}

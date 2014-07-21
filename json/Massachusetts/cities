@@ -1,0 +1,582 @@
+{
+    "Abington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2500135.html", 
+        "descriptor": "CDP", 
+        "name": "Abington "
+    }, 
+    "Gloucester ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2526150.html", 
+        "descriptor": "city", 
+        "name": "Gloucester "
+    }, 
+    "Franklin Town ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2525172.html", 
+        "descriptor": "city", 
+        "name": "Franklin Town "
+    }, 
+    "Somerset ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2562465.html", 
+        "descriptor": "CDP", 
+        "name": "Somerset "
+    }, 
+    "Swampscott ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2568680.html", 
+        "descriptor": "CDP", 
+        "name": "Swampscott "
+    }, 
+    "Plymouth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2554275.html", 
+        "descriptor": "CDP", 
+        "name": "Plymouth "
+    }, 
+    "Belmont ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2505105.html", 
+        "descriptor": "CDP", 
+        "name": "Belmont "
+    }, 
+    "Arlington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2501640.html", 
+        "descriptor": "CDP", 
+        "name": "Arlington "
+    }, 
+    "Holyoke ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2530840.html", 
+        "descriptor": "city", 
+        "name": "Holyoke "
+    }, 
+    "Maynard ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2539660.html", 
+        "descriptor": "CDP", 
+        "name": "Maynard "
+    }, 
+    "Needham ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2544140.html", 
+        "descriptor": "CDP", 
+        "name": "Needham "
+    }, 
+    "Kingston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2533185.html", 
+        "descriptor": "CDP", 
+        "name": "Kingston "
+    }, 
+    "Marlborough ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2538715.html", 
+        "descriptor": "city", 
+        "name": "Marlborough "
+    }, 
+    "Attleboro ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2502690.html", 
+        "descriptor": "city", 
+        "name": "Attleboro "
+    }, 
+    "Melrose ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2540115.html", 
+        "descriptor": "city", 
+        "name": "Melrose "
+    }, 
+    "Scituate ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2560295.html", 
+        "descriptor": "CDP", 
+        "name": "Scituate "
+    }, 
+    "Norwood ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2550285.html", 
+        "descriptor": "CDP", 
+        "name": "Norwood "
+    }, 
+    "Sharon ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2560820.html", 
+        "descriptor": "CDP", 
+        "name": "Sharon "
+    }, 
+    "Westfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2576030.html", 
+        "descriptor": "city", 
+        "name": "Westfield "
+    }, 
+    "West Springfield Town ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2577890.html", 
+        "descriptor": "city", 
+        "name": "West Springfield Town "
+    }, 
+    "Northampton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2546330.html", 
+        "descriptor": "city", 
+        "name": "Northampton "
+    }, 
+    "East Falmouth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2518980.html", 
+        "descriptor": "CDP", 
+        "name": "East Falmouth "
+    }, 
+    "Lowell ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2537000.html", 
+        "descriptor": "city", 
+        "name": "Lowell "
+    }, 
+    "Saugus ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2560050.html", 
+        "descriptor": "CDP", 
+        "name": "Saugus "
+    }, 
+    "Nantucket ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2543755.html", 
+        "descriptor": "CDP", 
+        "name": "Nantucket "
+    }, 
+    "Oxford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2551790.html", 
+        "descriptor": "CDP", 
+        "name": "Oxford "
+    }, 
+    "Malden ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2537875.html", 
+        "descriptor": "city", 
+        "name": "Malden "
+    }, 
+    "Amesbury Town ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2501260.html", 
+        "descriptor": "city", 
+        "name": "Amesbury Town "
+    }, 
+    "Palmer Town ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2552144.html", 
+        "descriptor": "city", 
+        "name": "Palmer Town "
+    }, 
+    "Lynn ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2537490.html", 
+        "descriptor": "city", 
+        "name": "Lynn "
+    }, 
+    "West Yarmouth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2578795.html", 
+        "descriptor": "CDP", 
+        "name": "West Yarmouth "
+    }, 
+    "Webster ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2573930.html", 
+        "descriptor": "CDP", 
+        "name": "Webster "
+    }, 
+    "Mansfield Center ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2538230.html", 
+        "descriptor": "CDP", 
+        "name": "Mansfield Center "
+    }, 
+    "Wellesley ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2574210.html", 
+        "descriptor": "CDP", 
+        "name": "Wellesley "
+    }, 
+    "Longmeadow ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2536335.html", 
+        "descriptor": "CDP", 
+        "name": "Longmeadow "
+    }, 
+    "Leominster ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2535075.html", 
+        "descriptor": "city", 
+        "name": "Leominster "
+    }, 
+    "North Scituate ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2549165.html", 
+        "descriptor": "CDP", 
+        "name": "North Scituate "
+    }, 
+    "Fitchburg ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2523875.html", 
+        "descriptor": "city", 
+        "name": "Fitchburg "
+    }, 
+    "Dedham ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2516530.html", 
+        "descriptor": "CDP", 
+        "name": "Dedham "
+    }, 
+    "Winchester ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2580545.html", 
+        "descriptor": "CDP", 
+        "name": "Winchester "
+    }, 
+    "Braintree Town ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2507740.html", 
+        "descriptor": "city", 
+        "name": "Braintree Town "
+    }, 
+    "Cochituate ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2514570.html", 
+        "descriptor": "CDP", 
+        "name": "Cochituate "
+    }, 
+    "Springfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2567000.html", 
+        "descriptor": "city", 
+        "name": "Springfield "
+    }, 
+    "Randolph ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2555990.html", 
+        "descriptor": "CDP", 
+        "name": "Randolph "
+    }, 
+    "Amherst Center ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2501360.html", 
+        "descriptor": "CDP", 
+        "name": "Amherst Center "
+    }, 
+    "Chelsea ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2513205.html", 
+        "descriptor": "city", 
+        "name": "Chelsea "
+    }, 
+    "Medfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2539730.html", 
+        "descriptor": "CDP", 
+        "name": "Medfield "
+    }, 
+    "Reading ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2556165.html", 
+        "descriptor": "CDP", 
+        "name": "Reading "
+    }, 
+    "Yarmouth Port ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2582595.html", 
+        "descriptor": "CDP", 
+        "name": "Yarmouth Port "
+    }, 
+    "Haverhill ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2529405.html", 
+        "descriptor": "city", 
+        "name": "Haverhill "
+    }, 
+    "Worcester ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2582000.html", 
+        "descriptor": "city", 
+        "name": "Worcester "
+    }, 
+    "Gardner ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2525485.html", 
+        "descriptor": "city", 
+        "name": "Gardner "
+    }, 
+    "Cambridge ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2511000.html", 
+        "descriptor": "city", 
+        "name": "Cambridge "
+    }, 
+    "Newburyport ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2545245.html", 
+        "descriptor": "city", 
+        "name": "Newburyport "
+    }, 
+    "Peabody ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2552490.html", 
+        "descriptor": "city", 
+        "name": "Peabody "
+    }, 
+    "Easthampton Town ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2519370.html", 
+        "descriptor": "city", 
+        "name": "Easthampton Town "
+    }, 
+    "Whitinsville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2579495.html", 
+        "descriptor": "CDP", 
+        "name": "Whitinsville "
+    }, 
+    "Stoneham ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2567700.html", 
+        "descriptor": "CDP", 
+        "name": "Stoneham "
+    }, 
+    "Danvers ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2516285.html", 
+        "descriptor": "CDP", 
+        "name": "Danvers "
+    }, 
+    "Spencer ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2566070.html", 
+        "descriptor": "CDP", 
+        "name": "Spencer "
+    }, 
+    "Wakefield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2572250.html", 
+        "descriptor": "CDP", 
+        "name": "Wakefield "
+    }, 
+    "Fall River ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2523000.html", 
+        "descriptor": "city", 
+        "name": "Fall River "
+    }, 
+    "Pittsfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2553960.html", 
+        "descriptor": "city", 
+        "name": "Pittsfield "
+    }, 
+    "Brockton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2509000.html", 
+        "descriptor": "city", 
+        "name": "Brockton "
+    }, 
+    "North Amherst ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2546295.html", 
+        "descriptor": "CDP", 
+        "name": "North Amherst "
+    }, 
+    "Clinton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2514430.html", 
+        "descriptor": "CDP", 
+        "name": "Clinton "
+    }, 
+    "Pinehurst ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2553680.html", 
+        "descriptor": "CDP", 
+        "name": "Pinehurst "
+    }, 
+    "Milton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2541725.html", 
+        "descriptor": "CDP", 
+        "name": "Milton "
+    }, 
+    "Andover ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2501430.html", 
+        "descriptor": "CDP", 
+        "name": "Andover "
+    }, 
+    "Southbridge Town ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2563345.html", 
+        "descriptor": "city", 
+        "name": "Southbridge Town "
+    }, 
+    "Brookline ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2509210.html", 
+        "descriptor": "CDP", 
+        "name": "Brookline "
+    }, 
+    "Agawam Town ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2500840.html", 
+        "descriptor": "city", 
+        "name": "Agawam Town "
+    }, 
+    "Bliss Corner ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2506170.html", 
+        "descriptor": "CDP", 
+        "name": "Bliss Corner "
+    }, 
+    "Medford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2539835.html", 
+        "descriptor": "city", 
+        "name": "Medford "
+    }, 
+    "Lawrence ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2534550.html", 
+        "descriptor": "city", 
+        "name": "Lawrence "
+    }, 
+    "Adams ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2500590.html", 
+        "descriptor": "CDP", 
+        "name": "Adams "
+    }, 
+    "Foxborough ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2524855.html", 
+        "descriptor": "CDP", 
+        "name": "Foxborough "
+    }, 
+    "Hingham ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2530175.html", 
+        "descriptor": "CDP", 
+        "name": "Hingham "
+    }, 
+    "Winthrop Town ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2581005.html", 
+        "descriptor": "city", 
+        "name": "Winthrop Town "
+    }, 
+    "Everett ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2521990.html", 
+        "descriptor": "city", 
+        "name": "Everett "
+    }, 
+    "Woburn ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2581035.html", 
+        "descriptor": "city", 
+        "name": "Woburn "
+    }, 
+    "Burlington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2509875.html", 
+        "descriptor": "CDP", 
+        "name": "Burlington "
+    }, 
+    "West Concord ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2575680.html", 
+        "descriptor": "CDP", 
+        "name": "West Concord "
+    }, 
+    "Revere ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2556585.html", 
+        "descriptor": "city", 
+        "name": "Revere "
+    }, 
+    "Weymouth Town ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2578972.html", 
+        "descriptor": "city", 
+        "name": "Weymouth Town "
+    }, 
+    "Lynnfield ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2537595.html", 
+        "descriptor": "CDP", 
+        "name": "Lynnfield "
+    }, 
+    "Milford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2541200.html", 
+        "descriptor": "CDP", 
+        "name": "Milford "
+    }, 
+    "Holbrook ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2530420.html", 
+        "descriptor": "CDP", 
+        "name": "Holbrook "
+    }, 
+    "South Yarmouth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2566035.html", 
+        "descriptor": "CDP", 
+        "name": "South Yarmouth "
+    }, 
+    "North Adams ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2546225.html", 
+        "descriptor": "city", 
+        "name": "North Adams "
+    }, 
+    "Marblehead ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2538435.html", 
+        "descriptor": "CDP", 
+        "name": "Marblehead "
+    }, 
+    "Taunton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2569170.html", 
+        "descriptor": "city", 
+        "name": "Taunton "
+    }, 
+    "Waltham ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2572600.html", 
+        "descriptor": "city", 
+        "name": "Waltham "
+    }, 
+    "Bridgewater ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2508050.html", 
+        "descriptor": "CDP", 
+        "name": "Bridgewater "
+    }, 
+    "Chicopee ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2513660.html", 
+        "descriptor": "city", 
+        "name": "Chicopee "
+    }, 
+    "Athol ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2502515.html", 
+        "descriptor": "CDP", 
+        "name": "Athol "
+    }, 
+    "Northborough ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2546785.html", 
+        "descriptor": "CDP", 
+        "name": "Northborough "
+    }, 
+    "Hudson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2531575.html", 
+        "descriptor": "CDP", 
+        "name": "Hudson "
+    }, 
+    "Newton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2545560.html", 
+        "descriptor": "city", 
+        "name": "Newton "
+    }, 
+    "Salem ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2559105.html", 
+        "descriptor": "city", 
+        "name": "Salem "
+    }, 
+    "Middleborough Center ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2540885.html", 
+        "descriptor": "CDP", 
+        "name": "Middleborough Center "
+    }, 
+    "Somerville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2562535.html", 
+        "descriptor": "city", 
+        "name": "Somerville "
+    }, 
+    "Methuen Town ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2540710.html", 
+        "descriptor": "city", 
+        "name": "Methuen Town "
+    }, 
+    "Wilmington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2580195.html", 
+        "descriptor": "CDP", 
+        "name": "Wilmington "
+    }, 
+    "Ware ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2572845.html", 
+        "descriptor": "CDP", 
+        "name": "Ware "
+    }, 
+    "Watertown Town ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2573440.html", 
+        "descriptor": "city", 
+        "name": "Watertown Town "
+    }, 
+    "Framingham ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2524960.html", 
+        "descriptor": "CDP", 
+        "name": "Framingham "
+    }, 
+    "Hull ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2531680.html", 
+        "descriptor": "CDP", 
+        "name": "Hull "
+    }, 
+    "Greenfield Town ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2527100.html", 
+        "descriptor": "city", 
+        "name": "Greenfield Town "
+    }, 
+    "Lexington ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2535250.html", 
+        "descriptor": "CDP", 
+        "name": "Lexington "
+    }, 
+    "Walpole ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2572460.html", 
+        "descriptor": "CDP", 
+        "name": "Walpole "
+    }, 
+    "Quincy ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2555745.html", 
+        "descriptor": "city", 
+        "name": "Quincy "
+    }, 
+    "New Bedford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2545000.html", 
+        "descriptor": "city", 
+        "name": "New Bedford "
+    }, 
+    "Beverly ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2505595.html", 
+        "descriptor": "city", 
+        "name": "Beverly "
+    }, 
+    "Barnstable Town ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2503690.html", 
+        "descriptor": "city", 
+        "name": "Barnstable Town "
+    }, 
+    "Boston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/25/2507000.html", 
+        "descriptor": "city", 
+        "name": "Boston "
+    }
+}

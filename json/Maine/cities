@@ -1,0 +1,147 @@
+{
+    "Rockland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2363590.html", 
+        "descriptor": "city", 
+        "name": "Rockland "
+    }, 
+    "Lewiston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2338740.html", 
+        "descriptor": "city", 
+        "name": "Lewiston "
+    }, 
+    "Old Orchard Beach ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2355120.html", 
+        "descriptor": "CDP", 
+        "name": "Old Orchard Beach "
+    }, 
+    "Bangor ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2302795.html", 
+        "descriptor": "city", 
+        "name": "Bangor "
+    }, 
+    "Kennebunk ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2336500.html", 
+        "descriptor": "CDP", 
+        "name": "Kennebunk "
+    }, 
+    "Brunswick ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2308395.html", 
+        "descriptor": "CDP", 
+        "name": "Brunswick "
+    }, 
+    "Old Town ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2355225.html", 
+        "descriptor": "city", 
+        "name": "Old Town "
+    }, 
+    "Bath ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2303355.html", 
+        "descriptor": "city", 
+        "name": "Bath "
+    }, 
+    "Yarmouth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2387810.html", 
+        "descriptor": "CDP", 
+        "name": "Yarmouth "
+    }, 
+    "Westbrook ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2382105.html", 
+        "descriptor": "city", 
+        "name": "Westbrook "
+    }, 
+    "Topsham ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2376925.html", 
+        "descriptor": "CDP", 
+        "name": "Topsham "
+    }, 
+    "Winslow ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2386480.html", 
+        "descriptor": "CDP", 
+        "name": "Winslow "
+    }, 
+    "Brewer ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2306925.html", 
+        "descriptor": "city", 
+        "name": "Brewer "
+    }, 
+    "Skowhegan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2368875.html", 
+        "descriptor": "CDP", 
+        "name": "Skowhegan "
+    }, 
+    "Gardiner ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2327085.html", 
+        "descriptor": "city", 
+        "name": "Gardiner "
+    }, 
+    "Gorham ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2328205.html", 
+        "descriptor": "CDP", 
+        "name": "Gorham "
+    }, 
+    "Biddeford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2304860.html", 
+        "descriptor": "city", 
+        "name": "Biddeford "
+    }, 
+    "South Portland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2371990.html", 
+        "descriptor": "city", 
+        "name": "South Portland "
+    }, 
+    "Auburn ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2302060.html", 
+        "descriptor": "city", 
+        "name": "Auburn "
+    }, 
+    "Belfast ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2303950.html", 
+        "descriptor": "city", 
+        "name": "Belfast "
+    }, 
+    "Waterville ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2380740.html", 
+        "descriptor": "city", 
+        "name": "Waterville "
+    }, 
+    "Sanford ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2365725.html", 
+        "descriptor": "CDP", 
+        "name": "Sanford "
+    }, 
+    "Saco ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2364675.html", 
+        "descriptor": "city", 
+        "name": "Saco "
+    }, 
+    "Augusta ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2302100.html", 
+        "descriptor": "city", 
+        "name": "Augusta "
+    }, 
+    "Orono ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2355575.html", 
+        "descriptor": "CDP", 
+        "name": "Orono "
+    }, 
+    "Ellsworth ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2323200.html", 
+        "descriptor": "city", 
+        "name": "Ellsworth "
+    }, 
+    "Presque Isle ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2360825.html", 
+        "descriptor": "city", 
+        "name": "Presque Isle "
+    }, 
+    "Caribou ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2310565.html", 
+        "descriptor": "city", 
+        "name": "Caribou "
+    }, 
+    "Portland ": {
+        "url": "http://quickfacts.census.gov/qfd/states/23/2360545.html", 
+        "descriptor": "city", 
+        "name": "Portland "
+    }
+}

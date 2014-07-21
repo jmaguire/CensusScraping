@@ -1,0 +1,67 @@
+{
+    "Mandan ": {
+        "url": "http://quickfacts.census.gov/qfd/states/38/3849900.html", 
+        "descriptor": "city", 
+        "name": "Mandan "
+    }, 
+    "Minot ": {
+        "url": "http://quickfacts.census.gov/qfd/states/38/3853380.html", 
+        "descriptor": "city", 
+        "name": "Minot "
+    }, 
+    "Bismarck ": {
+        "url": "http://quickfacts.census.gov/qfd/states/38/3807200.html", 
+        "descriptor": "city", 
+        "name": "Bismarck "
+    }, 
+    "West Fargo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/38/3884780.html", 
+        "descriptor": "city", 
+        "name": "West Fargo "
+    }, 
+    "Valley City ": {
+        "url": "http://quickfacts.census.gov/qfd/states/38/3881180.html", 
+        "descriptor": "city", 
+        "name": "Valley City "
+    }, 
+    "Dickinson ": {
+        "url": "http://quickfacts.census.gov/qfd/states/38/3819620.html", 
+        "descriptor": "city", 
+        "name": "Dickinson "
+    }, 
+    "Fargo ": {
+        "url": "http://quickfacts.census.gov/qfd/states/38/3825700.html", 
+        "descriptor": "city", 
+        "name": "Fargo "
+    }, 
+    "Williston ": {
+        "url": "http://quickfacts.census.gov/qfd/states/38/3886220.html", 
+        "descriptor": "city", 
+        "name": "Williston "
+    }, 
+    "Minot AFB ": {
+        "url": "http://quickfacts.census.gov/qfd/states/38/3853420.html", 
+        "descriptor": "CDP", 
+        "name": "Minot AFB "
+    }, 
+    "Wahpeton ": {
+        "url": "http://quickfacts.census.gov/qfd/states/38/3882660.html", 
+        "descriptor": "city", 
+        "name": "Wahpeton "
+    }, 
+    "Jamestown ": {
+        "url": "http://quickfacts.census.gov/qfd/states/38/3840580.html", 
+        "descriptor": "city", 
+        "name": "Jamestown "
+    }, 
+    "Grand Forks ": {
+        "url": "http://quickfacts.census.gov/qfd/states/38/3832060.html", 
+        "descriptor": "city", 
+        "name": "Grand Forks "
+    }, 
+    "Devils Lake ": {
+        "url": "http://quickfacts.census.gov/qfd/states/38/3819420.html", 
+        "descriptor": "city", 
+        "name": "Devils Lake "
+    }
+}
