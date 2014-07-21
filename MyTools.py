@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import mechanize
 import json
-
+import re
 
 def getJSONData(filename):
     with open(filename) as readfile:
@@ -18,4 +18,8 @@ def saveJSONData(data, filename):
     with open(filename, 'wb') as outfile:
         data = json.dump(data, outfile, indent = 4)
 
-
+def getFloat(string):
+    string = string.replace(",","")
+    string = string.replace("%","")
+    return re.findall(r"[-+]?\d*\.\d+|\d+", string)[0]
+    

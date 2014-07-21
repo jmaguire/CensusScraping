@@ -36,10 +36,10 @@ for state, url in stateURLs.items():
         except:
             ## Some links are to the state/ demos
             continue 
-        city['name'] = name
-        city['descriptor'] = descriptor
-        city['url'] = cityUrl
-        data[name] = city 
+        city['name'] = str(name)
+        city['descriptor'] = str(descriptor)
+        city['url'] = str(cityUrl)
+        data[name] = city
     
     tools.saveJSONData(data, directory + '/cities') 
 
