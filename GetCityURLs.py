@@ -4,13 +4,15 @@ import json
 import MyTools as tools 
 
 
-stateFilename = 'StateURLs'
+stateFilename = './json/StateURLs'
 stateURLs = tools.getJSONData(stateFilename)
 
 ## City URL in id = Places
 for state, url in stateURLs.items():
+    print url
     soup = tools.getSoup(url)
     tags = soup.findAll(id = 'Places')
+    print tags.text()
     
 '''
 tags = soup.findAll('area')

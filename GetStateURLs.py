@@ -5,6 +5,8 @@ import os
 
 filename = 'StateURLs'
 url = 'http://quickfacts.census.gov/qfd/index.html'
+baseUrl = 'http://quickfacts.census.gov/qfd/'
+
 data = {}
 
 ## Get <area> fields. These have the state url data
@@ -15,7 +17,7 @@ soup = BeautifulSoup(html)
 tags = soup.findAll('area')
 
 for tag in tags:
-    data[tag.attrs['title']] = url + '/' + tag.attrs['href']
+    data[tag.attrs['title']] = baseUrl + '/' + tag.attrs['href']
 
 ## Export to json
 if not os.path.exists('./json'):

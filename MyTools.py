@@ -10,7 +10,7 @@ def getJSONData(filename):
 
 def getSoup(url):
     br = mechanize.Browser()
-    page = br.open(state_url)
+    page = br.open(url)
     html = page.read()
     return BeautifulSoup(html)
 
